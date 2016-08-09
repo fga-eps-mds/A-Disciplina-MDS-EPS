@@ -1,0 +1,442 @@
+\begin{frame}
+\frametitle{Ao final dessa aula, você será capaz de:}
+\begin{itemize}
+ \item Compreender a complexidade do gerenciamento
+ \item Quem são as partes envolvidas em um projeto
+ \item Guia PMBok
+\end{itemize}
+\end{frame}
+
+\section{Organização de Projetos e Stakeholders}
+
+\begin{frame}
+   \frametitle{Organização de Projetos e Stakeholders}
+   \begin{itemize}
+    \item Quem vai realizar o trabalho?
+    \item Quem é o Gerente de Projeto?
+    \item Quem está pagando pelo projeto?
+    \item Quem vai consumir o produto ou serviço?
+    \item Quem são os afetados pelo projeto?
+   \end{itemize}
+  \end{frame}
+
+    \begin{frame}
+   \frametitle{As Partes interessadas}
+   As partes interessadas no projeto (Stakeholders) são pessoas e organizações
+   \begin{itemize}
+    \item A relação entre as partes interessadas do Projeto:
+   \end{itemize}
+
+    \begin{figure}
+  \centering
+  \includegraphics[width = 0.6\textwidth]{figs/fig1_2.png}
+  %\caption{A relação entre as partes interessadas do Projeto}
+ \end{figure}
+  \end{frame}
+  
+  \begin{frame}
+   \frametitle{Stakeholders}
+   Envolvimento dos Stakeholders com o Projeto
+    \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig_proj8.png}
+ \end{figure}
+  \end{frame}
+  
+\section{O papel}
+\begin{frame}
+ \frametitle{O Papel}
+ \begin{block}{Gerente de Projetos}
+  Gerente de Projetos NÃO é CARGO, nem FUNÇÃO!
+ \end{block}
+\end{frame}
+
+
+  \begin{frame}
+   \frametitle{O Gerente de Projetos}
+   \begin{itemize}
+    \item Habilidades
+    \begin{itemize}
+      \item Comunicação eficaz
+      
+     \item Motivador de pessoas
+     %\pause
+     \item Líder do grupo
+     %\pause
+     \item Organizado
+     %\pause
+     \item Influência sobre a organização
+     %\pause
+     \item Negociador
+     %\pause
+     \item Solucionador de problemas
+     %\pause
+     \item Gerenciador de Conflitos
+     %\pause
+     \item Facilitador entre processos
+     %\pause
+     \item Seguro nas decisões
+    \end{itemize}
+   \end{itemize}
+  \end{frame}
+ 
+\begin{frame}
+ \frametitle{Necessidades Conflitantes}
+ \begin{block}{Gerente de Projetos}
+ Necessidades conflitantes de projetos envolvem uma “tripla restrição” – escopo, tempo e custo
+ \end{block}
+\end{frame}
+
+\begin{frame}
+  \begin{figure}
+  \centering
+  \includegraphics[width = 0.8\textwidth]{figs/fig1_1.png}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+   \frametitle{Contexto de GP
+- Estruturas organizacionais}
+   \begin{itemize}
+    \item A organização funcional clássica é uma hierarquia em que cada funcionário possui um superior bem definido
+    \begin{itemize}
+     \item Os funcionários são agrupados por especialidade, como produção, marketing, engenharia e contabilidade
+     %\pause
+    \end{itemize}
+    %\pause
+    \item As organizações funcionais ainda possuem projetos, mas o escopo do projeto geralmente é restrito aos limites da função
+    \begin{itemize}
+     \item O departamento de engenharia em uma organização funcional fará o seu trabalho do projeto de modo independente dos departamentos de produção ou de marketing
+    \end{itemize}
+   \end{itemize}
+  \end{frame}
+  
+\begin{frame}
+ \frametitle{Contexto de GP - Estruturas organizacionais}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig1.png}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+   \frametitle{Contexto de GP
+- Estruturas organizacionais}
+   \begin{itemize}
+    \item Em uma organização \textbf{por projeto}, os membros da equipe geralmente são colocados juntos
+    %\pause
+    \item A maior parte dos recursos da organização está envolvida no projeto e os gerentes de projetos possuem grande independência e autoridade
+    %\pause
+    \item As organizações por projeto em geral possuem unidades organizacionais denominadas departamentos, mas esses grupos se reportam diretamente ao gerente de projetos ou oferecem serviços de suporte para os diversos projetos
+   \end{itemize}
+  \end{frame}
+
+  
+  \begin{frame}
+ \frametitle{Contexto de GP - Estruturas organizacionais}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig7.png}
+ \end{figure}
+\end{frame}
+
+  
+  \begin{frame}
+   \frametitle{Contexto de GP
+- Estruturas organizacionais}
+   \begin{itemize}
+    \item As organizações \textbf{matriciais} são uma combinação de características das organizações funcional e por projeto
+    %\pause
+    \item As \textbf{matrizes fracas} mantêm muitas das características de uma organização funcional e a função do gerente de projetos é mais parecida com a de um coordenador ou facilitador que com a de um gerente
+  
+   \end{itemize}
+  \end{frame}
+  
+    \begin{frame}
+   \frametitle{Contexto de GP
+- Estruturas organizacionais}
+   \begin{itemize}
+    \item Embora a organização \textbf{matricial balanceada} reconheça a necessidade de um gerente de projetos, ela não fornece ao gerente de projetos autoridade total sobre o projeto e os recursos financeiros do projeto
+  %\pause
+    \item As \textbf{matrizes fortes} possuem muitas das características da organização por projeto, e podem ter gerentes de projetos em tempo integral com autoridade considerável e pessoal administrativo do projeto em tempo integral. 
+   \end{itemize}
+  \end{frame}
+  
+    \begin{frame}
+ \frametitle{Contexto de GP - Estruturas organizacionais}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig8.png}
+ \end{figure}
+\end{frame}
+
+    \begin{frame}
+ \frametitle{Contexto de GP - Estruturas organizacionais}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig9.png}
+ \end{figure}
+\end{frame}
+
+    \begin{frame}
+ \frametitle{Contexto de GP - Estruturas organizacionais}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig10.png}
+ \end{figure}
+\end{frame}
+
+    \begin{frame}
+ \frametitle{Contexto de GP - Estruturas organizacionais}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig11.png}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+ \begin{block}{}
+  A estrutura hierárquica tradicional tipicamente atrapalha
+ \end{block}
+\end{frame}
+
+\section{PMBok}
+    \begin{frame}
+ \frametitle{Plataforma de Gerenciamento de Projetos}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.9\textwidth]{figs/fig12.png}
+ \end{figure}
+\end{frame}
+
+  \begin{frame}
+   \frametitle{O PMBoK}
+   \begin{itemize}
+    \item Guia para o Conjunto de Conhecimentos em Gerenciamento de Projetos – Guia  PMBOK®, que é mantido pelo Project Management Institute-PMI
+    \begin{itemize}
+     \item 1ª Edição em 1996
+     %\pause
+     \item 2ª Edição em 2000
+     %\pause
+     \item 3ª Edição em 2004
+     %\pause
+     \item 4ª Edição em 2008
+        %\pause
+     \item 5ª Edição em 2013
+    \end{itemize}
+  \item Uma norma Nacional Americana (ANSI)
+   \end{itemize}
+  \end{frame}
+  
+    \begin{frame}
+   \frametitle{Sobre o PMBoK}
+   \begin{itemize}
+    \item Identificar o subconjunto do conjunto de conhecimentos em gerenciamento de projetos que é amplamente reconhecido como boa prática
+    \begin{itemize}
+     \item Visão geral, não uma descrição completa
+     %\pause
+     \item Conhecimento e práticas descritas são aplicáveis à maioria dos projetos na maior parte do tempo
+     %\pause
+     \item A aplicação correta dessas habilidades, ferramentas e técnicas podem aumentar as chances de sucesso
+    \end{itemize}
+    %\pause
+    \item Uma boa prática não significa que o conhecimento descrito deverá ser sempre aplicado uniformemente em todos os projetos
+    \begin{itemize}
+     \item A equipe de gerenciamento de projetos é responsável por determinar o que é adequado para um projeto específico
+    \end{itemize}
+   \end{itemize}
+  \end{frame} 	
+  
+      \begin{frame}
+   \frametitle{Sobre o PMBoK}
+   \begin{itemize}
+    \item O conhecimento descrito no PMBOK consiste em
+    \begin{itemize}
+     \item Definição do ciclo de vida do projeto
+     %\pause
+     \item Cinco grupos de processos
+     %\pause
+     \item Nove áreas de conhecimento
+    \end{itemize}
+   \end{itemize}
+  \end{frame}
+  
+        \begin{frame}
+ \frametitle{PMBok - Áreas de  Conhecimento}
+ \begin{figure}
+  \centering
+  \includegraphics[height = \textheight]{figs/fig_proj7.png}
+ \end{figure}
+\end{frame}
+
+      \begin{frame}
+ \frametitle{PMBok - Áreas de  Conhecimento}
+ \begin{figure}
+  \centering
+  \includegraphics[width = \textwidth]{figs/fig13.png}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+ \frametitle{PMBok - Grupos de processos}
+ \begin{itemize}
+  \item Grupo de processos de Inicialização
+  \begin{itemize}
+   \item Define e autoriza o projeto ou uma fase do projeto
+  \end{itemize}
+  
+  \item Grupo de processos de planejamento
+  \begin{itemize}
+   \item Define e refina os objetivos e planeja a ação necessária para alcançar os objetivos e o escopo para as quais o projeto foi realizado
+  \end{itemize}
+ 
+ \item Grupo de processos de execução
+  \begin{itemize}
+   \item Integra pessoas e outros recursos para realizar o plano de gerenciamento do projeto para o projeto
+  \end{itemize}
+  \item Grupo de processos de monitoramento e controle
+  \begin{itemize}
+   \item Mede e monitora regularmente o progresso para identificar variações em relação ao plano de gerenciamento do projeto, de forma que possam ser tomadas ações
+   corretivas quando necessário  para atender os objetivos do projeto
+  \end{itemize}
+  \item Grupo de processos de encerramento
+  \begin{itemize}
+   \item Formaliza a aceitação do produto, serviço ou resultado e conduz o projeto ou fase do projeto a um final ordenado
+  \end{itemize}
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+ \frametitle{PMBok - Grupos de processos}
+ \begin{itemize}
+  \item Grupo de processos de monitoramento e controle
+  \begin{itemize}
+   \item Mede e monitora regularmente o progresso para identificar variações em relação ao plano de gerenciamento do projeto, de forma que possam ser tomadas ações
+   corretivas quando necessário  para atender os objetivos do projeto
+  \end{itemize}
+  \item Grupo de processos de encerramento
+  \begin{itemize}
+   \item Formaliza a aceitação do produto, serviço ou resultado e conduz o projeto ou fase do projeto a um final ordenado
+  \end{itemize}
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+ \frametitle{PMBok - Grupos de processos}
+ \begin{itemize}
+  \item Os grupos de processos  não são fases  do ciclo de vida do projeto
+  \begin{itemize}
+   \item Projetos grandes  ou complexos podem ser separados em fases ou subprojetos distintos
+   \begin{itemize}
+    \item Estudos de viabilidade, desenvolvimento de conceitos, projeto, elaboração de protótipo, construção, testes, etc
+   \end{itemize}
+  \item Todos os processos do grupo de processos são repetidos para cada fase ou subprojeto
+  \end{itemize}
+
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+ \frametitle{Processos de Gerenciamento de Projetos - \\
+ \small{Grupo de Processos} }
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.7\textwidth]{figs/fig1_3.png}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Processos de Gerenciamento de Projetos - \\
+ \small{Grupo de Processos} }
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.7\textwidth]{figs/fig1_4.png}
+ \end{figure}
+\end{frame}
+
+
+\begin{frame}
+ \frametitle{Visão Geral dos Processos de Gerenciamento de Projetos}
+ \begin{figure}
+  \centering
+  \includegraphics[width = \textwidth]{figs/figura-4-1024x765.jpg}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Scrum - Um método Ágil}
+ \begin{block}{Definição Informal}
+Estratégia em um jogo de rugby onde
+jogadores colocam uma bola quase perdida
+novamente em jogo através de trabalho em
+equipe.
+ \end{block}
+\end{frame}
+
+\begin{frame}
+ \frametitle{O manifesto do \\
+ \small{Desenvolvimento Ágil de Software}}
+ \begin{itemize}
+  \item \textbf{Indivíduos e interações} são mais importantes que processos e ferramentas
+  \item \textbf{Software Funcionando} é mais importante que documentação completa e detalhada
+  \item \textbf{Colaboração com o cliente} é mais importante que negociação de contratos 
+  \item \textbf{Adaptação a mudança} é mais importante do que seguir o plano inicial
+ \end{itemize}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Princípios do Manifesto Ágil}
+ \begin{itemize}
+  \item \textbf{Objetivo}: satisfazer o cliente entregando, rapidamente e com frequência, sistemas de algum valor, sistemas rodando em produção
+  \begin{itemize}
+   \item Entregar versões  funcionais em curto prazo
+   \item Mudanças são um aspecto intrínsico da vida do software
+   \item Software evolui para atender o negócio (união dos mundos)
+   \item Troca de informações através de conversas diretas
+  \end{itemize}
+ \end{itemize}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Características Scrum}
+ \begin{itemize}
+  \item Equipes que se auto-organizam
+  \item O produto evolui em uma espécie  de "Sprints" mensais
+  \item Os requisitos sao listados em um "Product Backlog"
+  \item Usa regras generativas na criação de um ambiente ágil para entrega de projetos
+  \item É uma das metodologias ágeis
+ \end{itemize}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Scrum - Fases}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.7\textwidth]{figs/fig1_5.png}
+ \end{figure}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Scrum - Planejamento do Sprint}
+ \begin{figure}
+  \centering
+  \includegraphics[width = 0.7\textwidth]{figs/fig1_6.png}
+ \end{figure}
+\end{frame}
+
+\section{Bibliografia}
+\begin{frame}
+ \frametitle{Bibliografia da Aula - Leitura sugerida}
+ \begin{itemize}
+  \item \textit{Um guia do Conjunto de Conhecimentos em Gerenciamento de Projetos - guia PMBOK} (Cap. 1)
+  \item \textit{Fundamentals of Project Planning and Management} - coursera (week 1) - \url{https://class.coursera.org/projects101-002/wiki/resources}
+  \item \url{http://epocanegocios.globo.com/Inspiracao/Carreira/noticia/2015/04/12-licoes-de-tom-peters-para-ser-um-bom-lider.html}
+  \item Leitura recomendada - 101 common causes of failure - \url{http://calleam.com/WTPF/?page_id=2338}
+ \end{itemize}
+
+\end{frame}

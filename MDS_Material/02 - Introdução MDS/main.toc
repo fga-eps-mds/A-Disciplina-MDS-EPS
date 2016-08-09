@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {danish}
+\beamer@sectionintoc {1}{Engenharia de Software}{3}{0}{1}
+\beamer@sectionintoc {2}{Processos de Software}{7}{0}{2}
+\beamer@sectionintoc {3}{M\IeC {\'e}todo x Metologia}{16}{0}{3}
+\beamer@sectionintoc {4}{Disciplina}{25}{0}{4}

@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {danish}
+\beamer@sectionintoc {1}{Engenharia de Software}{3}{0}{1}
+\beamer@sectionintoc {2}{Desenvolva Iterativamente}{8}{0}{2}
+\beamer@sectionintoc {3}{Gerencie Requisitos}{13}{0}{3}
+\beamer@sectionintoc {4}{Arquitetura componentizada}{17}{0}{4}
+\beamer@sectionintoc {5}{Modele Visualmente (UML)}{21}{0}{5}
+\beamer@sectionintoc {6}{ Verifique Continuamente a Qualidade}{25}{0}{6}
+\beamer@sectionintoc {7}{Gerencie Mudan\IeC {\c c}as }{30}{0}{7}
+\beamer@sectionintoc {8}{RUP no context das boas pr\IeC {\'a}ticas}{35}{0}{8}

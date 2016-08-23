@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {danish}
+\beamer@sectionintoc {1}{Crise de Software}{3}{0}{1}
+\beamer@sectionintoc {2}{Modelo de Processo}{15}{0}{2}
+\beamer@sectionintoc {3}{Bibliografia}{19}{0}{3}

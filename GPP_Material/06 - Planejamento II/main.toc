@@ -1,0 +1,3 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {danish}
+\beamer@sectionintoc {1}{Grupo de Processo Planejamento}{3}{0}{1}

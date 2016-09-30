@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {danish}
+\beamer@sectionintoc {1}{Scrum - Empirismo}{3}{0}{1}
+\beamer@sectionintoc {2}{Scrum - Framework}{7}{0}{2}
+\beamer@sectionintoc {3}{Scrum - Pap\IeC {\'e}is}{14}{0}{3}
+\beamer@sectionintoc {4}{Scrum - Eventos}{24}{0}{4}
+\beamer@sectionintoc {5}{Scrum - Artefatos}{43}{0}{5}

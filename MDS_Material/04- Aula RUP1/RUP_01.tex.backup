@@ -4,13 +4,30 @@
 \begin{frame}
 \frametitle{Objetivos}
 \begin{itemize}
- \item Identificar as atividades para auxiliar a compreensão e resolução de probblemas da engenharia de software
+ \item Identificar as atividades para auxiliar a compreensão e resolução de problemas da engenharia de software
  %\pause
  \item Explicar as boas práticas
  %\pause
  \item Apresentar o RUP no contexto das boas práticas.
 \end{itemize}
 \end{frame}
+
+\begin{frame}
+ \frametitle{Obamacare - maior falha de projeto de software púlbico da década}
+ \begin{itemize}
+  \item "I spent \$174 million on a website and all I got was this bad press."
+Someone, somewhere in the U.S. Department of Health and Human Services (HHS)
+ \end{itemize}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Abordagem 1 de desenvolvimento de software}
+ \begin{itemize}
+  \item 
+ \end{itemize}
+\end{frame}
+
+
 
 \begin{frame}
  \frametitle{Conteúdo}
@@ -107,6 +124,23 @@
    \includegraphics[width = 0.9\textwidth]{figs/fig8.png}
   \end{figure}
 \end{frame}
+
+\begin{frame}
+ \frametitle{Desenvolvimento iterativo produz releases}
+\begin{block}{Wikipedia}
+ Uma liberação ou lançamento de software (em inglês: "release") refere-se ao lançamento de uma nova versão oficial de um produto de software
+\end{block}
+
+\end{frame}
+
+
+\begin{frame}
+ \frametitle{Perfil de Risco}
+  \begin{figure}
+   \centering
+   \includegraphics[width = 0.9\textwidth]{figs/fig9.png}
+  \end{figure}
+\end{frame}
 \section{Gerencie Requisitos}
 \begin{frame}
  \frametitle{Prática 2: Gerencie Requisitos}
@@ -155,19 +189,14 @@
 \end{frame}
 
 \begin{frame}
- \frametitle{\begin{frame}
- \frametitle{Desenvolvimento iterativo produz releases}
+ \frametitle{Mapa do território dos requisitos}
   \begin{figure}
    \centering
    \includegraphics[width = 0.9\textwidth]{figs/fig10.png}
   \end{figure}
 \end{frame}
-}
-  \begin{figure}
-   \centering
-   \includegraphics[width = 0.9\textwidth]{figs/fig8.png}
-  \end{figure}
-\end{frame}
+
+
 
 \section{Arquitetura componentizada}
 \begin{frame}
@@ -228,19 +257,18 @@
    \item Entregas
   \end{itemize}
   \item Controle intelectual
-  \begin{itemize}
-   \item Gerencia da complexidade
-    \item Mantém a integridade
-
-  \end{itemize}
+  
 
   \end{itemize}
  \end{minipage}
 \begin{minipage}[t]{0.48\linewidth}
-\textbf{Processo em Cascata}
+\begin{itemize}
+   \item Gerencia da complexidade
+    \item Mantém a integridade
+  \end{itemize}
   \begin{figure}
    \centering
-   \includegraphics[width = 0.8\textwidth]{figs/fig11.png}
+   \includegraphics[width = 0.9\textwidth]{figs/fig11.png}
   \end{figure}
 \end{minipage}
 
@@ -461,4 +489,68 @@
    \centering
    \includegraphics[width = 0.9\textwidth]{figs/fig20.png}
   \end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Iterações e Fases}
+\begin{figure}
+   \centering
+   \includegraphics[width = 0.9\textwidth]{figs/fig21.png}
+   \caption{Milestones secudários: Entregas}
+  \end{figure}
+  \begin{block}{}
+   Uma iteração é uma sequencia distinta de atividades baseadas em um plano estabelecido e um critério de avaliação, que resulta em uma entrega executável (interna ou externa)
+  \end{block}
+\end{frame}
+
+\begin{frame}
+\frametitle{A abordagem iterativa}
+\begin{figure}
+   \centering
+   \includegraphics[width = 0.9\textwidth]{figs/fig21.png}
+  \end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{As disciplinas produzem modelos}
+\begin{figure}
+   \centering
+   \includegraphics[width = 0.9\textwidth]{figs/fig22.png}
+  \end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{As disciplinas guiam um desenvolvimento iterativo}
+\begin{figure}
+   \centering
+   \includegraphics[width = 0.9\textwidth]{figs/fig23.png}
+  \end{figure}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Visão geral dos conceitos do RUP}
+\begin{figure}
+   \centering
+   \includegraphics[width = 0.9\textwidth]{figs/fig24.png}
+  \end{figure}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Revisão}
+ \begin{itemize}
+  \item As boas práticas guiam a engenharia de software tratando as causas raízes
+  \item Cada práticas reforça a necessidade da outra
+  \item Um processo guia uma equipe em: quem faz o que, quando e como
+  \item O RUP é um mecanismo de alcançar as boas práticas
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+ \frametitle{Bibliografia da Aula}
+ \begin{itemize}
+  \item Udacity - Process Software Development
+ \end{itemize}
+
 \end{frame}

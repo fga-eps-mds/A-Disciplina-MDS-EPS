@@ -6,10 +6,11 @@
 
 ****
 
-<p align="center">
-![Continuous Integration Circle](images/continuous.png)
+
+![Continuous Integration Circle](images/continuous.png) 
+
 Fonte: [Soasta](https://www.soasta.com/solutions/continuous-load-testing/)
-</p>
+
 # Deploy Contínuo
 
 É uma técnica ágil onde todo o código escrito para uma aplicação é colocado em produção de maneira imediata. Nessa técnica, toda vez que um commit passa nos testes automatizados da integração contínua, uma nova build é gerada e essa é colocada em produção.

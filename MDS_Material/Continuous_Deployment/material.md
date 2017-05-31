@@ -68,11 +68,11 @@ Codeship é um serviço de Integração Contínua que suporta projetos do GitHub
 Feito para o desenvolvimento de ASP.NET.
 [site](https://octopus.com/)
 
-# Tutorial - Deploy Contínuo com Heroku e Rails
+# Tutorial - Deploy Contínuo com CircleCl e Heroku
 
 1. Se cadastre (ou faça login se já tiver uma conta) no site da ferramenta de deploy Heroku https://www.heroku.com/home.
 
-2. Nas configurações da sua conta no Heroku (https://dashboard.heroku.com/account), vá até o topico “API Key”, clique no botão “Reveal” e copiei o campo de chave ao lado do botão.
+2. Nas configurações da sua conta no Heroku (https://dashboard.heroku.com/account), vá até o topico “API Key”, clique no botão “Reveal” e copie o campo de chave ao lado do botão.
 ![tela1](images/tutorial/tela1.png)
 
 3. Se cadastre (ou faça login se já tiver uma conta) no site da ferramenta de integração contínua CircleCI https://circleci.com/.
@@ -127,3 +127,7 @@ Feito para o desenvolvimento de ASP.NET.
 14. Caso seu projeto use SSH, nas configurações do projeto vá no tópico “Permissions” e clique em “Checkout SSH Keys” e adicione a deploy key e a user key. Ainda no mesmo tópico clique em “SSH Permissions” e adicione a SSH key do seu repositório.
 
 15. Pronto ! Ao commitar na branch escolhida para deploy haverá as mudanças automaticamente inseridas no Heroku.
+
+#Apresentação
+
+[Tutorial_CircleCl_Heroku](Deploy_continuo_tutorial.pdf)

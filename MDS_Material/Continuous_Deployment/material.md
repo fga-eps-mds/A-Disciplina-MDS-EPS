@@ -63,7 +63,8 @@ Bamboo é um servidor de integração contínua da Atlassian.
 Codeship é um serviço de Integração Contínua que suporta projetos do GitHub, Bitbucket e Gitlab.
 [Site](https://codeship.com/)
 
-Octopus Deploy
+### Octopus Deploy
+
 Feito para o desenvolvimento de ASP.NET.
 [site](https://octopus.com/)
 

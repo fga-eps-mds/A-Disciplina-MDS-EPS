@@ -39,7 +39,35 @@ O Facebook, visando o tamanho e o impacto que ele oferece atualmente, possui um 
 
 # Ferramentas
 
-## Tutorial Deploy Contínuo com Rails
+### CircleCI
+
+Plataforma de integração e delivery contínuo que ajuda times de desenvolvedores a lançarem código rapidamente automatizando os processos de build, teste e deploy.
+[Site](https://circleci.com/)
+
+### Jenkins
+
+Ferramenta open source escrita em Java de integração contínua que pode ser usada para automatizar testes e deploy. 
+[Site](https://jenkins.io/)
+
+### Chef
+
+[Site](https://www.chef.io/)
+
+### Bamboo
+
+Bamboo é um servidor de integração contínua da Atlassian.
+[Site](https://br.atlassian.com/software/bamboo)
+
+### Codeship
+
+Codeship é um serviço de Integração Contínua que suporta projetos do GitHub, Bitbucket e Gitlab.
+[Site](https://codeship.com/)
+
+Octopus Deploy
+Feito para o desenvolvimento de ASP.NET.
+[site](https://octopus.com/)
+
+# Tutorial - Deploy Contínuo com Heroku e Rails
 
 1. Se cadastre (ou faça login se já tiver uma conta) no site da ferramenta de deploy Heroku https://www.heroku.com/home.
 
@@ -67,7 +95,7 @@ O Facebook, visando o tamanho e o impacto que ele oferece atualmente, possui um 
 
         $ heroku login
 
-7. Criei um app no heroku:
+7. Crie um app no heroku:
 
         $ heroku apps:create <nome_do_app_no_heroku_aqui>
 

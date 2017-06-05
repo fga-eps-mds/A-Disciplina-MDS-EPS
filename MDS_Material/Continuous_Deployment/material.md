@@ -16,7 +16,19 @@ Fonte: [Soasta](https://www.soasta.com/solutions/continuous-load-testing/)
 É uma técnica ágil onde todo o código escrito para uma aplicação é colocado em produção de maneira imediata. Nessa técnica, toda vez que um commit passa nos testes automatizados da integração contínua, uma nova build é gerada e essa é colocada em produção.
 O deploy contínuo é desempenhado como uma fase da integração contínua. Dessa forma, para a realização do deploy contínuo é necessário que a integração contínua esteja bem configurada, de forma que o código colocado em produção seja totalmente compatível com o que já está em produção.
 
-# Benefícios
+## Finalidade
+
+A finalidade  é automatizar todo o processo de deploy desde o começo, e para isso é precisa estruturar bem o ambiente, de forma que seja replicável entre as máquinas de desenvolvimento, homologação e produção.  Assim que o programador julga pronto seu código e aciona a solicitação para deploy, são realizadas todas validações previstas nas metodologias anteriores e, se não houverem falhas, o novo código é disponibilizado automaticamente em ambiente de produção. 
+
+## Quando usar
+
+A Implantação contínua não se aplica a todo projeto. Foi pensada principalmente, para o desenvolvimento de aplicações para web. Há, muitas vezes, regras de governança rígidas e necessidade de testes manuais que impedem o uso desta metodologia. Mas recomenda-se que tentem aplicá-la porque promove mudanças positivas e profundas na organização.
+
+## Condições de Uso
+
+Para ser possível o Deploy Contínuo, a equipe deve ter uma infraestrutura que facilite a automatização e instrumentação das várias etapas que levam à implantação, de modo que após cada integração atender com êxito aos critérios de release, a aplicação seja atualizada com novo código em tempo real.
+
+## Benefícios
 
 * Aumenta a produtividade geral pois integra equipes e processos numa pipeline unificada de deploy;
 * Reduz o tempo de entrega de novas funcionalidades;
@@ -46,7 +58,7 @@ Plataforma de integração e delivery contínuo que ajuda times de desenvolvedor
 
 ### Jenkins
 
-Ferramenta open source escrita em Java de integração contínua que pode ser usada para automatizar testes e deploy. 
+Uma das ferramentas mais famosas. Ferramenta open source escrita em Java de integração contínua que pode ser usada para automatizar testes e deploy. 
 [Site](https://jenkins.io/)
 
 ### Chef
@@ -65,7 +77,7 @@ Codeship é um serviço de Integração Contínua que suporta projetos do GitHub
 
 ### Octopus Deploy
 
-Feito para o desenvolvimento de ASP.NET.
+Responsável por gerenciar e controlar o processo de deploy dos pacotes em seus respectivos ambientes e configurações. Além de realizar o deploy em diversas máquinas de uma única vez quando estamos trabalhando com ambientes distribuídos. Feito para o desenvolvimento de ASP.NET.
 [site](https://octopus.com/)
 
 # Tutorial - Deploy Contínuo com CircleCl e Heroku

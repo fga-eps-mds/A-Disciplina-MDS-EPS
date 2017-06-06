@@ -7,7 +7,7 @@
 ****
 
 
-![Continuous Integration Circle](images/continuous.png) 
+![Continuous Integration Circle](images/continuous.png)
 
 Fonte: [Soasta](https://www.soasta.com/solutions/continuous-load-testing/)
 
@@ -18,7 +18,7 @@ O deploy contínuo é desempenhado como uma fase da integração contínua. Dess
 
 ## Finalidade
 
-A finalidade  é automatizar todo o processo de deploy desde o começo, e para isso é precisa estruturar bem o ambiente, de forma que seja replicável entre as máquinas de desenvolvimento, homologação e produção.  Assim que o programador julga pronto seu código e aciona a solicitação para deploy, são realizadas todas validações previstas nas metodologias anteriores e, se não houverem falhas, o novo código é disponibilizado automaticamente em ambiente de produção. 
+A finalidade  é automatizar todo o processo de deploy desde o começo, e para isso é precisa estruturar bem o ambiente, de forma que seja replicável entre as máquinas de desenvolvimento, homologação e produção.  Assim que o programador julga pronto seu código e aciona a solicitação para deploy, são realizadas todas validações previstas nas metodologias anteriores e, se não houverem falhas, o novo código é disponibilizado automaticamente em ambiente de produção.
 
 ## Quando usar
 
@@ -58,7 +58,7 @@ Plataforma de integração e delivery contínuo que ajuda times de desenvolvedor
 
 ### Jenkins
 
-Uma das ferramentas mais famosas. Ferramenta open source escrita em Java de integração contínua que pode ser usada para automatizar testes e deploy. 
+Uma das ferramentas mais famosas. Ferramenta open source escrita em Java de integração contínua que pode ser usada para automatizar testes e deploy.
 [Site](https://jenkins.io/)
 
 ### Chef
@@ -142,4 +142,4 @@ Responsável por gerenciar e controlar o processo de deploy dos pacotes em seus 
 
 # Apresentação
 
-[Tutorial_CircleCl_Heroku](Deploy_continuo_tutorial.pdf)
+[Tutorial_CircleCl_Heroku](Deploy_continuo_tutorial.odp)

@@ -129,6 +129,6 @@ Nota-se que o método de cálculo de fatorial se tornou maior, porém mais fáci
 Além dos métodos de refatoração mais simples utilizados para este tutorial existem outros tipos que se adequam à códigos maiores e mais complexos, como: criação de novas classes e a realocação de atributos ou métodos.
 
 ## Referências:
-  [Divida tecnica](https://agilecoachninja.wordpress.com/2016/03/08/debito-tecnico-divida-tecnica/)
+  * Pesquisa sobre dívidas técnicas: [Divida tecnica](https://agilecoachninja.wordpress.com/2016/03/08/debito-tecnico-divida-tecnica/)
 
-  [Refatoração](http://www.linhadecodigo.com.br/artigo/2832/introducao-a-refatoracao.aspx/)
+  * Pesquisa sobre refatoração:  [Refatoração](http://www.linhadecodigo.com.br/artigo/2832/introducao-a-refatoracao.aspx/)

@@ -47,30 +47,64 @@ refatoração nesses pontos e, por fim, realizar os testes e as validações nec
 
 Algumas técnicas de refatoração podem ser:
 
-_Extrair Método:_ Quando existem várias partes do código que funcionam de maneira similar é
+**Extrair Método:** Quando existem várias partes do código que funcionam de maneira similar é
 interessante realizá-las à partir de um método que será chamado sempre que for necessário.
 Além disso pode-se realizar a extração de funcionalidades de métodos muito grandes para métodos
 menores. Dessa forma é possível evitar o problema de códigos duplicados, além disso, métodos menores
 facilitam a compreensão e clareza do código.
 
-_Mover Método:_ Quando uma classe possui um método que é utilizado várias vezes por uma classe
+**Mover Método:** Quando uma classe possui um método que é utilizado várias vezes por uma classe
 diferente da qual foi declarado inicialmente. Assim pode-se mover o método em questão para a
 classe que o utiliza mais frequentemente apenas copiando, de modo que seja possível chamá-lo
 dentro da classe que mais necessita.
 
-_Mover Atributo:_ Ocorre quando uma classe utiliza muitas vezes o atributo que pertence a
+**Mover Atributo:** Ocorre quando uma classe utiliza muitas vezes o atributo que pertence a
 outra classe. Assim, pode-se mover esse atributo para a classe que mais utiliza, assim como
 na técnica de Mover Método, e chamá-lo dentro da classe que necessita.
 
-_Extrair Classe:_ Quando uma classe realiza tarefas que podem ser responsabilidades de duas
+**Extrair Classe:** Quando uma classe realiza tarefas que podem ser responsabilidades de duas
 classes pode-se criar uma nova classe e passar os atributos e métodos relevantes para a nova
 classe. Assim é possível diminuir a responsabilidade de uma única classe
 e tornar o código mais coeso e compreensível.
 
-_Encapsular Atributo:_ É interressante criar métodos de acessos a atributos específicos para
+**Encapsular Atributo:** É interressante criar métodos de acessos a atributos específicos para
 que subclasses não possam alterar facilmente esses atributos. Para acessá-los as subclasses
 devem possuir métodos de acesso sobrescritos.
 
-_Renomear Método:_ Quando o nome de um método não é claro o suficiente deve-se alterá-lo, mesmo
+**Renomear Método:** Quando o nome de um método não é claro o suficiente deve-se alterá-lo, mesmo
 que o novo nome seja relativamente grande, para que ele se torne mais compreensível em relação
 ao código. Essa prática torna o código mais legível.
+
+## Tutorial
+
+Para realização do tutorial serão utilizados trechos de código em linguagem c.
+
+**1) Extrair método**
+
+O código abaixo realiza um cálculo de IMC(Índice de Massa Corporal).
+
+![imagem](/images/imc.jpg)
+
+É possível notar que esse cálculo é utilizado mais de uma vez de modo que ocorre duplicidade de código. Sendo  
+assim, pode-se refatorá-lo para criar um método que possa ser chamado da seguinte maneira:
+
+![imagem](/images/imc_refatorado.bmp)
+
+**2) Nomes de variáveis e métodos ruins**
+
+Utilizando o mesmo código do passo anterior é possível verificar que os nomes das variáveis e dos métodos  
+não são capazes de mostrar a real intenção do método.
+
+Para corrigir o problema pode-se refatorar o código da seguinte maneira:
+
+![imagem](/images/imc_nome.jpg)
+
+**3) Dificuldade de compreensão do método**
+
+No trecho de código abaixo é possível notar que o nível de complexidade do método é alto.
+
+![imagem](/images/fatorial.jpg)
+
+Para refatorar esse método é possível expandir o código tornando-o mais simples de ser compreendido, como:
+
+![imagem](/images/fatorial_recursivo.jpg)

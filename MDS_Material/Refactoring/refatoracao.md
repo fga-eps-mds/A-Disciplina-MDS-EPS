@@ -24,13 +24,24 @@ do código.
 
 São situações onde verifica-se a possibilidade de refatoração no código como:
 
-Falta de Rigidez – ocorre quando uma alteração requer outras várias alterações no programa.  
-Fragilidade – A modificação de um ponto do código quebra outras funcionalidades, ou seja, provoca
+**Falta de Rigidez:** ocorre quando uma alteração requer outras várias alterações no programa.  
+**Fragilidade:** A modificação de um ponto do código quebra outras funcionalidades, ou seja, provoca
 uma reação em cadeia de quebra de funcionalidades no código.  
-Complexidade – Arquitetura do código muito complexa dificultando novas alterações e a
+**Complexidade:** Arquitetura do código muito complexa dificultando novas alterações e a
 legibilidade por outros programadores.  
-Duplicação – Código com muitas repetições desnecessárias.  
-Legibilidade – Código difícil de ser compreendido por outros programadores.
+**Duplicação:** Código com muitas repetições desnecessárias.  
+**Legibilidade:** Código difícil de ser compreendido por outros programadores.
+
+## Debt Metaphor (Metáfora da dívida)
+  Metáfora da dívida ou divida técnica é um valor agregado negativo porem invisível. Basicamente, imagine que temos duas formas de propor uma solução de software, na primeira encontramos uma solução simples porem de difícil manutenibilidade, em outro caso temos uma solução complexa porem tornando fácil implementar mudanças.  
+  Caracteristicas de uma "debt metaphor":
+
+  _É inevitável, ele sempre vai existir._   
+  _Não é passível de comparação entre produtos, projetos, repositórios..._   
+  _Se não for pago, o débito tende a aumentar com o tempo_
+  _É “subjetivo”._  
+  _Não é um número._   
+  _Não é uma medida._  
 
 ## O que não é refatoração?
 
@@ -77,7 +88,7 @@ ao código. Essa prática torna o código mais legível.
 
 ## Tutorial
 
-Para realização do tutorial serão utilizados trechos de código em linguagem c.
+Para realização do tutorial serão utilizados alguns códigos em linguagem c com o intuito de exemplificar algumas maneiras de refatoração de código.
 
 **1) Extrair método**
 
@@ -86,9 +97,11 @@ O código abaixo realiza um cálculo de IMC(Índice de Massa Corporal).
 ![imagem](/images/imc.jpg)
 
 É possível notar que esse cálculo é utilizado mais de uma vez de modo que ocorre duplicidade de código. Sendo  
-assim, pode-se refatorá-lo para criar um método que possa ser chamado da seguinte maneira:
+assim, pode-se refatorá-lo para criar um método que possa ser chamado quando necessário, da seguinte maneira:
 
 ![imagem](/images/imc_refatorado.bmp)
+
+Nota-se que o trecho de código que apresentava duplicidade foi substituído por chamadas da função que calcula o IMC.
 
 **2) Nomes de variáveis e métodos ruins**
 
@@ -99,12 +112,23 @@ Para corrigir o problema pode-se refatorar o código da seguinte maneira:
 
 ![imagem](/images/imc_nome.jpg)
 
-**3) Dificuldade de compreensão do método**
+É possível perceber que a mudança dos nomes das variáveis e do método utilizados são melhores para a compreensão do funcionamento real do código.
 
-No trecho de código abaixo é possível notar que o nível de complexidade do método é alto.
+**3) Alta complexidade do método**
+
+O código abaixo deve calcular o fatorial do número fornecido. Nele é possível notar que o nível de complexidade do método de cálculo de fatorial é elevado, de modo que a compreensão por outros programadores é prejudicada.
 
 ![imagem](/images/fatorial.jpg)
 
 Para refatorar esse método é possível expandir o código tornando-o mais simples de ser compreendido, como:
 
 ![imagem](/images/fatorial_recursivo.jpg)
+
+Nota-se que o método de cálculo de fatorial se tornou maior, porém mais fácil de ser compreendido além de facilitar a manutencão.
+
+Além dos métodos de refatoração mais simples utilizados para este tutorial existem outros tipos que se adequam à códigos maiores e mais complexos, como: criação de novas classes e a realocação de atributos ou métodos.
+
+## Referências:
+  [Divida tecnica](https://agilecoachninja.wordpress.com/2016/03/08/debito-tecnico-divida-tecnica/)
+
+  [Refatoração](http://www.linhadecodigo.com.br/artigo/2832/introducao-a-refatoracao.aspx/)

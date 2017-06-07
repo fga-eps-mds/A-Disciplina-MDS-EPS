@@ -32,6 +32,19 @@ legibilidade por outros programadores.
 Duplicação – Código com muitas repetições desnecessárias.  
 Legibilidade – Código difícil de ser compreendido por outros programadores.
 
+## Debt Metaphor (Metáfora da dívida)
+
+Metáfora da dívida ou divida técnica é um valor agregado negativo porem invisível, basicamente, imaginem que temos duas formas de propor uma solução de software, na primeira encontramos uma solução simples porem de difícil manutenibilidade, em outro caso temos uma solução complexa porem tornando fácil implementar mudanças.
+
+Caracteristicas de uma "debt metaphor":
+
+_É inevitável, ele sempre vai existir._  
+_Não é passível de comparação entre produtos, projetos, repositórios..._  
+_Se não for pago, o débito tende a aumentar com o tempo_  
+_É “subjetivo”._  
+_Não é um número._  
+_Não é uma medida._  
+
 ## O que não é refatoração?
 
 Não é considerado refatoração otimizar o código tornando-o mais eficiente,
@@ -74,3 +87,9 @@ devem possuir métodos de acesso sobrescritos.
 _Renomear Método:_ Quando o nome de um método não é claro o suficiente deve-se alterá-lo, mesmo
 que o novo nome seja relativamente grande, para que ele se torne mais compreensível em relação
 ao código. Essa prática torna o código mais legível.
+
+## Referencias:
+
+[Divida tecnica](https://agilecoachninja.wordpress.com/2016/03/08/debito-tecnico-divida-tecnica/)
+
+[Refatoração](http://www.linhadecodigo.com.br/artigo/2832/introducao-a-refatoracao.aspx/)

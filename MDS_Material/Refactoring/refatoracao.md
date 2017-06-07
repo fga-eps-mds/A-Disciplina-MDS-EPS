@@ -94,12 +94,12 @@ Para realização do tutorial serão utilizados alguns códigos em linguagem c c
 
 O código abaixo realiza um cálculo de IMC(Índice de Massa Corporal).
 
-![imagem](00-Disciplina/MDS_Material/Refactoring/images/imc.jpg)
+![imagem](images/imc.jpg)
 
 É possível notar que esse cálculo é utilizado mais de uma vez de modo que ocorre duplicidade de código. Sendo  
 assim, pode-se refatorá-lo para criar um método que possa ser chamado quando necessário, da seguinte maneira:
 
-![imagem](00-Disciplina/MDS_Material/Refactoring/images/imc_refatorado.bmp)
+![imagem](images/imc_refatorado.bmp)
 
 Nota-se que o trecho de código que apresentava duplicidade foi substituído por chamadas da função que calcula o IMC.
 
@@ -110,7 +110,7 @@ não são capazes de mostrar a real intenção do método.
 
 Para corrigir o problema pode-se refatorar o código da seguinte maneira:
 
-![imagem](00-Disciplina/MDS_Material/Refactoring/images/imc_nome.jpg)
+![imagem](images/imc_nome.jpg)
 
 É possível perceber que a mudança dos nomes das variáveis e do método utilizados são melhores para a compreensão do funcionamento real do código.
 
@@ -118,11 +118,11 @@ Para corrigir o problema pode-se refatorar o código da seguinte maneira:
 
 O código abaixo deve calcular o fatorial do número fornecido. Nele é possível notar que o nível de complexidade do método de cálculo de fatorial é elevado, de modo que a compreensão por outros programadores é prejudicada.
 
-![imagem](00-Disciplina/MDS_Material/Refactoring/images/fatorial.jpg)
+![imagem](images/fatorial.jpg)
 
 Para refatorar esse método é possível expandir o código tornando-o mais simples de ser compreendido, como:
 
-![imagem](00-Disciplina/MDS_Material/Refactoring/images/fatorial_recursivo.jpg)
+![imagem](images/fatorial_recursivo.jpg)
 
 Nota-se que o método de cálculo de fatorial se tornou maior, porém mais fácil de ser compreendido além de facilitar a manutencão.
 

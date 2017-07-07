@@ -1,0 +1,107 @@
+﻿    362 author Mariana Pícolo
+    230 author Thiago Bernardes
+    212 author thiago kairala
+    212 author Matheus Figueiredo
+    204 author Tiago Assuncao
+    199 author Bruna Pinos
+    194 author naiieandrade
+    192 author Thiago Moreira
+    170 author Guilherme Lacerda
+    162 author Antonio Carvalho
+    152 author João Paulo Alves Ferreira
+    147 author ElmarRoberto
+    136 author Vitor Bertulucci Borges
+    129 author Pedro Thiago Alcântara
+    128 author Laércio Silva
+    123 author Sabryna de Sousa Pessoa
+    123 author Guilherme Augusto
+    123 author DaniloBarros
+    111 author matias310396
+    107 author PedroHenriqueSales
+    105 author jessicacris
+    100 author aldarionsevero
+     94 author Flavio Costa
+     91 author MrVictor42
+     87 author Jessica Suzuki
+     84 author Rdlenke
+     80 author Lucas Amoêdo
+     80 author LeonardoRk
+     80 author João Vitor Araujo
+     77 author Lucas Brilhante
+     75 author antoniocoj
+     74 author fabiolamfleury
+     72 author Gustavo Coelho
+     71 author Allan Jefrey
+     68 author Iasmin Mendes
+     66 author Thiago Ramires Kairala
+     63 author Nicácio Arruda Bezerra Neto
+     63 author Matheus Richard
+     63 author hugonxc
+     62 author Elaine Cristina Meirelles
+     61 author Daniel Marques
+     60 author Victor Moura
+     58 author Felipe Hargreaves
+     52 author Ronyell
+     52 author caue96
+     50 author renatasoares
+     48 author Clarissa Lima Borges
+     47 author Marcelo Augusto
+     44 author Ícaro Oliveira
+     44 author Gustavo Sabino
+     43 author Vitor Barbosa
+     42 author Lucas
+     38 author Roger Lenke
+     36 author Daniel Teles
+     35 author Vinícius Oliveira
+     33 author vitorandos
+     33 author Fernando Ribeiro Aguilar
+     30 author Thiago Nogueira
+     29 author igor-gme
+     28 author Álax de Carvalho Alves
+     25 author Tomaz Martins
+     25 author Matheus Godinho
+     25 author Gabriela Alves da Gama
+     23 author Allan Pereira
+     21 author bernardohrl
+     20 author leomeister
+     20 author João Henrique Egewarth
+     20 author Izabela Cardoso
+     20 author IagoCarvalho
+     19 author Vitor Nere
+     17 author Marco Silva
+     16 author Matias0422
+     16 author Matheus Joranhezon
+     16 author Mateus de Morais
+     16 author luis-gustavo
+     16 author Lucas S
+     16 author João Paulo Nunes Soares
+     15 author Weyler Almeida Gomes
+     15 author Renatafsouza
+     14 author Mariana Mendes
+     14 author Cauê
+     14 author André Bedran
+     13 author MartinsLucas
+     12 author Lucas Rufino
+     12 author hugo-asb
+     12 author gustavonascimento
+     10 author Luis Henrique
+      9 author Carlos Aragon
+      9 author andreanmasiro
+      8 author Wallacy Braz
+      7 author Diego
+      6 author mendesiasmin
+      5 author Mateus Vieira
+      5 author Joranhezon
+      5 author Joao Gabriel Saliba Ribeiro
+      3 author ThalissonMelo
+      3 author mateusmanuel
+      3 author Lucas Souza
+      3 author Caio Gabriel Araújo Medeiros
+      3 author augustovilarins
+      2 author rochacarla
+      2 author pablodiegoss
+      2 author gustavo2795
+      2 author guiaugusto
+      2 author Adailson Santos
+      1 author Gabriel Araújo
+      1 author Filipe Ribeiro

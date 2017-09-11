@@ -1,0 +1,13 @@
+Criei um exemplo bem simples msm, só pra mostrar o formato do csv de saída. E tem um exemplo do script do hive que tem que ser definido pra criar o esquema
+editado 
+Aí coloquei algumas explicações dentro dos arquivos msm
+ tem 3 arquivos:
+- Fetch.py: Eu usei pra fazer uma query em uma base de testes local e gerar o csv;
+- out,csv: Script csv com o formato que deve ser gerado;
+- import_data.hql: Exemplo do script hive;Criei um exemplo bem simples msm, só pra mostrar o formato do csv de saída. E tem um exemplo do script do hive que tem que ser definido pra criar o esquema
+editado 
+Aí coloquei algumas explicações dentro dos arquivos msm
+ tem 3 arquivos:
+- Fetch.py: Eu usei pra fazer uma query em uma base de testes local e gerar o csv;
+- out,csv: Script csv com o formato que deve ser gerado;
+- import_data.hql: Exemplo do script hive;

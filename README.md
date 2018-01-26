@@ -33,14 +33,7 @@ No repositório encontra todo o material didático disponibilizado para a discip
 ## Estrutura do Curso
 [Etapas do curso](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ciclo-de-Vida-de-Projeto---MDS-GPP)
 
-# O que eu preciso saber
- * Programação Orientada a Objetos
 
-[fga]: https://fga.unb.br/
-[carla]: https://fga.unb.br/carla.rocha
-[hilmer]: https://fga.unb.br/hilmer.neri
-[gpp]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software
-[mds]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software
 
 
 

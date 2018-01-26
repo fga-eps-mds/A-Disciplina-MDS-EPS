@@ -12,7 +12,7 @@ No repositório encontra todo o material didático disponibilizado para a discip
 [ Um pouco da Metodologia](#um-pouco-da-metodologia)
 
 
-[ Etapas da Disciplina](#Estrutura-do-Curso)
+[ Estrutura da Disciplina](#Estrutura-do-Curso)
 
 ## Motivação
 <p align = "justify" >Para o projeto multidisciplinar foi necessário a integração entre os estudantes da disciplina de <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software">GPP</a> e <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software">MDS</a>.</p>
@@ -28,7 +28,6 @@ No repositório encontra todo o material didático disponibilizado para a discip
 
 <p align = "justify" >Outro ponto importante é que durante o desenvolvimento dos projetos de cada grupo, em um dado momento, o modelo de produção de <i>software</i> deve ser alterado. Os grupos iniciam a produção utilizando metodologias tradicionais (PMBOK/RUP) e, na metade do semestre, os modelos metodológicos de desenvolvimento a serem adotados passam a ser os ágeis (SCRUM/XP). Dessa forma, o estudante tem a possibilidade de vivenciar ambas as metodologias.</p>
 
-## Por que fazer esse curso
 
 ## Estrutura do Curso
 [Etapas do curso](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ciclo-de-Vida-de-Projeto---MDS-GPP)

@@ -3,6 +3,9 @@ Repositório com o conteúdo das disciplinas GPP  e MDS do curso Engenharia de S
 
 No repositório encontra todo o material didático disponibilizado para a disciplina.
 
+![](https://github.com/fga-gpp-mds/A-Disciplina/blob/master/resources/gpp_mds.png)
+
+
 ###  _“The best way to find out if you can trust somebody is to trust them.”_ Ernest Hemingway
 
  _Trust is the bedrock of all effective teams. When it exists, team members speak freely, don’t second guess each other and formal hierarchy fades into the distance._

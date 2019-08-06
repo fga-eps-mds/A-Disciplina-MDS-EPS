@@ -3,7 +3,7 @@
 **CARGA HORÁRIA**: 60 horas
 **PROFESSOR**: Carla Silva Rocha Aguiar
 **CREDITOS**: 04 
-**SEMESTRE/ANO**: 02/2018
+**SEMESTRE/ANO**: 02/2019
 
 ## Objetivos da Disciplina
 

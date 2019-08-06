@@ -1,8 +1,13 @@
 # Engenharia de Produto de Software - Plano de ensino
+
 **DISCIPLINA**:Engenharia de Produto de Software 
+
 **CARGA HORÁRIA**: 60 horas
+
 **PROFESSOR**: Carla Silva Rocha Aguiar
+
 **CREDITOS**: 04 
+
 **SEMESTRE/ANO**: 02/2019
 
 ## Objetivos da Disciplina
@@ -170,10 +175,15 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 ## Sprint 7 - Entrega Release 1
 - **A Release 1** é realizada no horario do almoco (11h30 -14h00) durante toda a semana. A ordem de apresentacao é sorteada, mas os grupos sao podem trocar entre si a ordem. 
+
 - **Peso da R1** - 40% da nota de projeto
+
 - **Tempo de apresentacao**: 15 minutos 
+
 - **Artefatos avaliados**: (I) Documento de Visão do Projeto, (II) Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas), Documento de Arquitetura do Projeto, (III) Especificaçao das historias de usuarios (criterios de aceitacao), (IV) Configuracao do repositorio de acordo com os padroes de comunidade de software livre (Github), (V) Wiki atualizada (VI) Protótipo de alta fidelidade 
+
 - **Praticas avaliadas**: pareamento, produtividade, participacao nos rituais, desempenho
+
 - **Detalhamento da avaliacao**: Códigos/entrega (30%), (II) Coerencia entre a documentaco e implementacão (30%), (III) Documentcao (30%) : Doc. visão (30%), doc arq (30%), Casos de uso (20%), Prototipo (10%), (IV) criterio extra(10%)
 
 ## Sprint 8
@@ -212,8 +222,11 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 ## Sprint 16 - Release 2
 - **A Release 2** é realizada no horario do almoco (11h30 -14h00) durante toda a semana. A ordem de apresentacao é sorteada, mas os grupos sao podem trocar entre si a ordem. 
+
 - **Peso da R1** - 60% da nota de projeto
+
 - **Tempo de apresentacao**: 15 minutos 
+
 - **Detalhe da avaliacao**: (I) Codigo entregue (60%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, (II) documentac ̧a ̃o/evideˆncias da execuc ̧a ̃o da metodologia (30%), (III) Tracking (10%)
 
 ## Bibliografia Basica

@@ -1,7 +1,0 @@
-\beamer@endinputifotherversion {3.24pt}
-\select@language {danish}
-\beamer@sectionintoc {1}{Organiza\IeC {\c c}\IeC {\~a}o de Projetos e Stakeholders}{4}{0}{1}
-\beamer@sectionintoc {2}{O papel do Gerente}{8}{0}{2}
-\beamer@sectionintoc {3}{PMBok}{24}{0}{3}
-\beamer@sectionintoc {4}{M\IeC {\'e}todo \IeC {\'A}gil}{31}{0}{4}
-\beamer@sectionintoc {5}{Bibliografia}{40}{0}{5}

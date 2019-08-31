@@ -1,6 +1,0 @@
-\select@language {danish}
-\beamer@sectionintoc {1}{Scrum - Empirismo}{9}{0}{1}
-\beamer@sectionintoc {2}{Scrum - Framework}{13}{0}{2}
-\beamer@sectionintoc {3}{Scrum - Pap\IeC {\'e}is}{20}{0}{3}
-\beamer@sectionintoc {4}{Scrum - Eventos}{31}{0}{4}
-\beamer@sectionintoc {5}{Scrum - Artefatos}{50}{0}{5}

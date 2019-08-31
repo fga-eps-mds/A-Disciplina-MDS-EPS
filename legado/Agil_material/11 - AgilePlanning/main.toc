@@ -1,8 +1,0 @@
-\beamer@endinputifotherversion {3.24pt}
-\select@language {danish}
-\beamer@sectionintoc {1}{Contexto}{4}{0}{1}
-\beamer@sectionintoc {2}{XP}{9}{0}{2}
-\beamer@sectionintoc {3}{Work Flow - Kanban}{38}{0}{3}
-\beamer@sectionintoc {4}{Diferen\IeC {\c c}as Scrum, XP, Kanban}{48}{0}{4}
-\beamer@sectionintoc {5}{Planejamento}{49}{0}{5}
-\beamer@sectionintoc {6}{Projeto Guiado por Comportamento}{65}{0}{6}

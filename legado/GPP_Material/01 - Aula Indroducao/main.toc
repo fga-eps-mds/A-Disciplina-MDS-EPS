@@ -1,9 +1,0 @@
-\beamer@endinputifotherversion {3.24pt}
-\select@language {danish}
-\beamer@sectionintoc {1}{O que \IeC {\'e} Projeto?}{4}{0}{1}
-\beamer@sectionintoc {2}{Gerenciamento de Projetos}{16}{0}{2}
-\beamer@sectionintoc {3}{Definindo o Projeto e Objetivos}{18}{0}{3}
-\beamer@sectionintoc {4}{Sucesso e fracasso de Projetos}{24}{0}{4}
-\beamer@sectionintoc {5}{Organiza\IeC {\c c}\IeC {\~a}o e Stakeholders}{31}{0}{5}
-\beamer@sectionintoc {6}{PMBok}{44}{0}{6}
-\beamer@sectionintoc {7}{Bibliografia}{50}{0}{7}

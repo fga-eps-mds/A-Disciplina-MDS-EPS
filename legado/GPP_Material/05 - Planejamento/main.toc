@@ -1,9 +1,0 @@
-\beamer@endinputifotherversion {3.24pt}
-\select@language {danish}
-\beamer@sectionintoc {1}{Grupo de Processo Planejamento}{3}{0}{1}
-\beamer@sectionintoc {2}{Definir e Agrupar as Atividades}{11}{0}{2}
-\beamer@sectionintoc {3}{Criar a lista de atividades}{24}{0}{3}
-\beamer@sectionintoc {4}{Determinar a dura\IeC {\c c}\IeC {\~a}o das Atividades}{28}{0}{4}
-\beamer@sectionintoc {5}{Definir Preced\IeC {\^e}ncias}{34}{0}{5}
-\beamer@sectionintoc {6}{Calcular o Caminho Cr\IeC {\'\i }tico}{46}{0}{6}
-\beamer@sectionintoc {7}{Exercicio}{62}{0}{7}

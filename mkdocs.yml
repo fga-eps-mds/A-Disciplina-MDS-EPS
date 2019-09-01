@@ -75,4 +75,7 @@ nav:
     - Sobre: eps/index.md
   - MDS:
     - Sobre: mds/index.md
-    
+  - Be Agile:
+    - Sobre: agil/index.md
+    - Scrum: agil/scrum.md
+    - XP: agil/xp.md

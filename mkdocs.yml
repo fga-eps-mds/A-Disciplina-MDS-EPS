@@ -82,3 +82,7 @@ nav:
     - Indicadores: agil/indicadores.md
     - Como pontuar o backlog: agil/pontuacao.md
     - Como melhorar a comunicação: agil/comunicacao.md
+  - Not just Dev, DevOps:
+    - Automações: devops/automacoes.md
+    - Docker: devops/docker.md
+    - Docker Compose: devops/docker_compose.md

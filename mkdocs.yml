@@ -86,3 +86,5 @@ nav:
     - Automações: devops/automacoes.md
     - Docker: devops/docker.md
     - Docker Compose: devops/docker_compose.md
+    - Materiais: devops/materiais.md
+    - Roadmap: devops/roadmap.md

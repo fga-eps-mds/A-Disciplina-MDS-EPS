@@ -4,11 +4,11 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSOR**: Carla Silva Rocha Aguiar
+**PROFESSOR**: Hilmer Rodrigues Neri
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2019
+**SEMESTRE/ANO**: 01/2020
 
 ## Objetivos da Disciplina
 
@@ -40,12 +40,12 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Backlog do produto e backlog da iteração
 - Reuniões diárias
 - Monitoramento (tracking) da iteração
-### 05. Gestão Estratégica de Projetos
+### 06. Gestão Estratégica de Projetos
 - Portfólios e Programas
 - Escritório de Projetos
-### 06. Projetos e implementação de sistema
-- Produção de artefatos produzidos a cada iteração do ciclo de desenvolvimento do projeto - Avaliação da qualidade interna do produto de software
-- Implantação do projeto em ambiente de produção
+### 05. Análise e Tomada de Decisão em Produtos de Software orientado a dados
+- Software Analytics
+- Experimentação Contínua
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:

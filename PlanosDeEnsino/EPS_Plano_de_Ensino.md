@@ -227,7 +227,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 - **Tempo de apresentacao**: 15 minutos 
 
-- **Detalhe da avaliacao**: (I) Revisão do Codigo entregue (60%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (30%), (III) Tracking (10%)
+- **Detalhe da avaliacao**: (I) Revisão do Codigo entregue (40%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (50%), (III) Tracking (10%)
 
 ## Bibliografia Basica
 

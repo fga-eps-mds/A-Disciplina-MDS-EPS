@@ -142,6 +142,8 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O tamanho dos times deve respeitar o limite máximo de 10 membros.
 - As atividades do projeto deverão ser organizadas por meio de issues e milestones.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues.
+- Planilha para definição dos grupos e temas: https://docs.google.com/spreadsheets/d/1jlPC6Vm6jjroulWhMubMem1qV1vq16qYivUGlE6IY6E/edit?usp=sharing
+
 
 
 ## Cronograma

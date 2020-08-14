@@ -202,7 +202,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 
 ## Bibliografia Básica:
-- **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020
+- **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020 -- https://engsoftmoderna.info/
 - Beck, K., Programação Extrema (XP) Explicada, 1st ed. Bookman, 2004. 
 - Jacobson, I., Booch G., Rumbauch J., The Unified Software Development Process, 1st ed., Addison-Wesley, 1999. 
 - [EBRARY] Lano, K.,UML 2 Semantics and Applications, 1st ed., Wiley, 2009. 

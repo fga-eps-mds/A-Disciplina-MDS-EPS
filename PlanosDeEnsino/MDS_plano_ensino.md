@@ -4,7 +4,7 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSOR**: Hilmer Rodrigues Neri
+**PROFESSOR**: Carla Rocha Aguiar e Hilmer Rodrigues Neri
 
 **CREDITOS**: 04 
 
@@ -14,7 +14,7 @@
 
 ## Objetivos da Disciplina
 
-Métodos de desenvolvimento de software podem ser entendidos como conjuntos estruturados de boas páaticas, podendo ser repetıveis durante o processo de produção do software.
+Métodos de desenvolvimento de software podem ser entendidos como conjuntos estruturados de boas práticas, podendo ser repetıveis durante o processo de produção do software.
 
 Nesse contexto, a disciplina Metodos de Processos de Software se faz importante para os futuros Engenheiros de Software por apresentar diferentes métodos de desenvolvimento, com enfoque especial aos diferentes ciclos de vida e técnicas de desenvolvimento de software. Os principais objetivos sao:
 
@@ -200,18 +200,9 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 - **Detalhe da avaliacao**:  (I) Codigo-fonte entregue (60%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (30%), (III) Tracking (10%)
 
-## Bibliografia Basica
-- Beck, K., Programacao Extrema (XP) Explicada, 1st ed. Bookman, 2004
-- Jacobson,I.,BoochG.,RumbauchJ.,TheUnifiedSoftwareDevelopmentProcess,1sted.,Addison- Wesley, 1999.
-- Sommerville, I., Engenharia de software. 8th ed., Pearson Addison Wesley, 2007.
-– Pfleeger, S. L., Engenharia de software: teoria e pratica. 2nd ed., Prentice Hall, 2004.
-– Pressman, R. S., Engenharia de software. 6th ed., McGraw-Hill, 2006.
-– Ambler,S., AgileModeling:EffectivePracticesforeXtremeProgrammingandtheUnifiedProcess, 1st ed., Wiley, 2002
-– Jacobson, I., Booch G., Rumbauch J., UML: Guia do Usuario, 2nd ed., Elsevier, 2005.
-OPENACCESS ScrumeXPdiretodasTrincheiras.(http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 
-
-## Bibliografia Basica:
+## Bibliografia Básica:
+- **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020
 - Beck, K., Programação Extrema (XP) Explicada, 1st ed. Bookman, 2004. 
 - Jacobson, I., Booch G., Rumbauch J., The Unified Software Development Process, 1st ed., Addison-Wesley, 1999. 
 - [EBRARY] Lano, K.,UML 2 Semantics and Applications, 1st ed., Wiley, 2009. 

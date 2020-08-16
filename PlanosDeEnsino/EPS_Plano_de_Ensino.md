@@ -4,7 +4,7 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSOR**: Hilmer Rodrigues Neri
+**PROFESSOR**: Carla Silva Rocha Aguiar e Hilmer Rodrigues Neri
 
 **CREDITOS**: 04 
 
@@ -231,29 +231,26 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 - **Detalhe da avaliacao**: (I) Revisão do Codigo entregue (40%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (50%), (III) Tracking (10%)
 
+
+
+Bibliografia Complementar :[EBRARY] Norman, Brotherton E. S., Fried S. A., Robert T., Work Breakdown Structures : The Foundation for Project Management Excellence, 1a. ed, John Wiley, 2011
+[EBRARY] Heldman, K., Project Management JumpStart, 3a. ed., John Wiley, 2011[BCE] Schwaber, Ken. Agile project management with Scrum, Redmond: Microsoft Press, 2004.[BCE] POPPENDIECK, M., POPPENDIECK, T., Implementando o Desenvolvimento LEAN de Software: Do Conceito ao Dinheiro, 1a. ed., Bookman, 2010[OPEN ACCESS] MPS.BR ? Guia de Implementação - Parte 1 e 2: Fundamentação para Implementação do Nível F e G do MR-MPS, Associação para Promoção da Excelência do Software Brasileiro ? SOFTEX, 2012 (http://www.softex.br/mpsbr/_guias/guias/MPS.BR_Guia_de_Implementacao_Parte_2_2011.pdf e http://www.softex.br/mpsbr/_guias/guias/MPS.BR_Guia_de_Implementacao_Parte_1_2011.pdf)[OPEN ACCESS] Scrum e XP direto das Trincheiras, Henrik Kniberg, InfoQ, 2005, (http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
+
 ## Bibliografia Basica
 
-Vargas, R.V., Gerenciamento de Projetos: Estabelecendo diferenciais competitivos, 7a. ed, Brassport, 2009 
-
-Cohn, Mike. Succeeding with agile: software development using Scrum, Upper Saddle River, NJ: Addison-Wesley, 2012. 
-
-[EBRARY] Bonham, S., IT Project Portfolio Management, Artech House, 1a ed, 2004 
+- Vargas, R.V., Gerenciamento de Projetos: Estabelecendo diferenciais competitivos, 7a. ed, Brassport, 2009 
+- Cohn, Mike. Succeeding with agile: software development using Scrum, Upper Saddle River, NJ: Addison-Wesley, 2012. 
+- [EBRARY] Bonham, S., IT Project Portfolio Management, Artech House, 1a ed, 2004 
 
 ## Bibliografia Complementar : 
 
-[EBRARY] Norman, Brotherton E. S., Fried S. A., Robert T., Work Breakdown Structures : The Foundation for Project Management Excellence, 1a. ed, John Wiley, 2011 
-
-[EBRARY] Heldman, K., Project Management JumpStart, 3a. ed., John Wiley, 2011 
-
-[BCE] Schwaber, Ken. Agile project management with Scrum, Redmond: Microsoft Press, 2004. 
-
-[BCE] POPPENDIECK, M., POPPENDIECK, T., Implementando o Desenvolvimento LEAN de Software: Do Conceito ao Dinheiro, 1a. ed., Bookman, 2010
-
-[OPEN ACCESS] MPS.BR – Guia de Implementação - Parte 1 e 2: Fundamentação para Implementação do Nível F e G do MR-MPS, Associação para Promoção da Excelência do Software Brasileiro – SOFTEX, 2012 (http://www.softex.br/mpsbr/_guias/guias/MPS.BR_Guia_de_Implementacao_Parte_2_2011.pdf e http://www.softex.br/mpsbr/_guias/guias/MPS.BR_Guia_de_Implementacao_Parte_1_2011.pdf) 
-
-[OPEN ACCESS] Scrum e XP direto das Trincheiras, Henrik Kniberg, InfoQ, 2005, (http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
-
+- **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020 -- https://engsoftmoderna.info/
+- [EBRARY] Norman, Brotherton E. S., Fried S. A., Robert T., Work Breakdown Structures : The Foundation for Project Management Excellence, 1a. ed, John Wiley, 2011 
+- [EBRARY] Heldman, K., Project Management JumpStart, 3a. ed., John Wiley, 2011 
+- [BCE] Schwaber, Ken. Agile project management with Scrum, Redmond: Microsoft Press, 2004. 
+- [BCE] POPPENDIECK, M., POPPENDIECK, T., Implementando o Desenvolvimento LEAN de Software: Do Conceito ao Dinheiro, 1a. ed., Bookman, 2010
+- [OPEN ACCESS] MPS.BR – Guia de Implementação - Parte 1 e 2: Fundamentação para Implementação do Nível F e G do MR-MPS, Associação para Promoção da Excelência do Software Brasileiro – SOFTEX, 2012 (http://www.softex.br/mpsbr/_guias/guias/MPS.BR_Guia_de_Implementacao_Parte_2_2011.pdf e http://www.softex.br/mpsbr/_guias/guias/MPS.BR_Guia_de_Implementacao_Parte_1_2011.pdf) 
+- [OPEN ACCESS] Scrum e XP direto das Trincheiras, Henrik Kniberg, InfoQ, 2005, (http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 - GRUBB, Penny; TAKANG, Armstrong A. Software maintenance: concepts and practice. 2nd ed. Hackensack: World Scientific, 2011. xix, 349 p. ISBN 9789812384263.
 - Kent Beck. Programação Extrema Explicada: escolha as mudanças. Bookman, 2004.
 - (eBrary) Preibel, René, and Stachmann, Bjorn. Git : Distributed Version Control–Fundamentals and Workflows. Van- couver, CA: Brainy Software, 2014.
-

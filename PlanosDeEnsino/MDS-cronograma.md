@@ -96,3 +96,56 @@ As aulas síncronas terão o timebox de 40 minutos.
 - **Tempo de apresentacao**: 15 minutos 
 
 - **Detalhe da avaliacao**:  (I) Codigo-fonte entregue (60%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (30%), (III) Tracking (10%)
+
+
+
+# Tutoriais
+[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+[Spellbook of Modern WebDev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+[System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+# Ferramentas
+
+
+# Referências
+
+## Engenharia de Software
+[Engenharia de Software Moderna](https://engsoftmoderna.info)
+
+[Code Complete [Steve McConnell] ](https://www.goodreads.com/book/show/4845.Code_Complete)
+
+[Clean Code: A Handbook of Agile Software Craftsmanship [Uncle Bob]](https://www.goodreads.com/book/show/3735293-clean-code)
+
+[The Pragmatic Programmer: From Journeyman to Master [Andy Hunt, Dave Thomas]](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+
+## Arquitetura de Software
+
+[Clean Architecture [Uncle Bob]](https://www.goodreads.com/book/show/18043011-clean-architecture)
+
+[Building Evolutionary Architectures: Support Constant Change [Neal Ford, Rebecca Parsons, Patrick Kua] ](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
+
+## Microsserviços
+
+[Building Microservices: Designing Fine-Grained Systems [Sam Newman]](https://www.goodreads.com/book/show/22512931-building-microservices)
+
+## Design
+
+[The Modern Web Design Process [Jeff Cardello, John M. Williams]](https://ebooks.webflow.com/ebook/the-modern-web-design-process)
+
+## Métodos Ágeis 
+[Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds [Henrik Kniberg, Anders Ivarsson]](http://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
+
+[Software Engineering: A Practitioner's Approach](https://www.goodreads.com/book/show/142783.Software_Engineering)
+
+[Kanban em 10 passos [Jesper Boeg]](https://www.goodreads.com/book/show/33870635-kanban-em-10-passos)
+
+[Extreme Programming Explained: Embrace Change [ Kent Beck, Cynthia Andres]](https://www.goodreads.com/book/show/18174.Extreme_Programming_Applied)
+
+## DevOps 
+
+[The DevOps Handbook [Gene Kim, Jez Humble, Patrick Debois, John Willis]](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
+
+[Site Reliability Engineering: How Google Runs Production Systems [Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy]](https://www.goodreads.com/book/show/27968891-site-reliability-engineering)
+
+[Accelerate: The Science of Lean Software and DevOps [Nicole Forsgren, Jez Humble, Gene Kim]](https://www.goodreads.com/book/show/39080433-accelerate)
+

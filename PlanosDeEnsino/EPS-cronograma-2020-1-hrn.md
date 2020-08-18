@@ -1,14 +1,28 @@
 ## Cronograma
+Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/assíncrona) e material de apoio.
 
-## Sprint 0
-- Apresentacão do plano de ensino disciplina +  apresentacão sobre o trabalho da disciplina
-- Apresentação dos temas dos projetos (definição dos temas) 
-- As origens do gerenciamento de projetos e produtos
+As aulas síncronas terão o timebox de 40-60 minutos.
 
-## Sprint 1
+
+
+## Sprint 0 - 18/08 e 20/08
+- 18/08 - aula síncrona no [Jitsi EPS 2020-1](https://meet.jit.si/eps2020-1-hrn)
+- Apresentação do plano de ensino disciplina
+- Conversa sobre possíveis mudanças em times, temas e as entregas realizadas no início da março de 2020
+- Feddback sobre o rodmap de produto
+
+- 20/08 - aula síncrona no [Jitsi EPS 2020-1](https://meet.jit.si/eps2020-1-hrn)
+- Revisão sobre as visões filosóficas e seu reflexo na atividade de gerenenciamento
+- Reunião com os times
+- Conteúdo assíncrono - [Material sobre visão de produto](https://www.ranoya.com/projetaosite/generator/?dun=MetOverview&)
+
+## Sprint 1 - 25/08 - 27/08
+
+- 25/08 - Aula síncrona - aula síncrona no [Jitsi EPS 2020-1](https://meet.jit.si/eps2020-1-hrn)
 - Contextualização do gerenciamento de projetos e produtos
+- 27/08 - Aula síncrona - aula síncrona no [Jitsi EPS 2020-1](https://meet.jit.si/eps2020-1-hrn)
 - Ciclo de Vida de Projeto e Produto
-- Pitch 2 minutos por time - roadmap Scrum Master
+- Pitch 2 minutos por time - roadmap do produto Scrum Master
 
 ## Sprint 2
 - Áreas de Conhecimento
@@ -41,7 +55,7 @@
 
 - **Praticas avaliadas**: pareamento, produtividade, participação nas práticas, desempenho
 
-- **Detalhamento da avaliação**: (I) Revisão do Código/entregas (20%), (II) Coerência entre a documentação e implementação (10%), (III) Plano do Projeto (25%) : Doc. visão (10%), doc arq (15%),  Protótipos (10%), (IV) Requisitos Especificados(10%)
+- **Detalhamento da avaliação**: (I) Revisão do Código/entregas (25%), (II) Coerência entre a documentação e implementação (10%), (III) Plano do Projeto e Visão do Produto (25%), (IV) Doc. visão (10%), Doc arq (10%),  Protótipos (10%), (IV) Requisitos Especificados(10%)
 
 ## Sprint 8
 - Introdução aos métodos ágeis

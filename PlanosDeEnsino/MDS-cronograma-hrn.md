@@ -14,11 +14,11 @@ As aulas síncronas terão o timebox de 40-60 minutos.
 - Conteúdo assíncrono - [Capítulo 2 do livro](https://engsoftmoderna.info/cap2.html) 
 
 
-## Sprint 1 - 20/08 - 27/08
+## Sprint 1 - 25/08 - 27/08
 
 - 25/08 - Aula síncrona - aula síncrona no [Jitsi MDS 2020-1-hrn](https://meet.jit.si/mds2020-1-hrn)
 - Fases do RUP
-- 25/08 - Aula síncrona - aula síncrona no [Jitsi MDS 2020-1-hrn](https://meet.jit.si/mds2020-1-hrn)
+- 27/08 - Aula síncrona - aula síncrona no [Jitsi MDS 2020-1-hrn](https://meet.jit.si/mds2020-1-hrn)
 - Disciplinas do RUP
 
 

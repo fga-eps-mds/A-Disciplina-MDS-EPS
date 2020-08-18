@@ -72,7 +72,7 @@ Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTub
 
 ## Aulas assíncronas
 - profa. Carla - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- profa. Hilmer - Vídeos disponibilizadas no youtube - [canal youtube] ()
+- prof. Hilmer - Vídeos disponibilizadas no youtube - [canal youtube] ()
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 

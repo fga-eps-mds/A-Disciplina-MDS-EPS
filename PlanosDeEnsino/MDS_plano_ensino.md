@@ -4,7 +4,7 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSOR**: Carla Rocha Aguiar e Hilmer Rodrigues Neri
+**PROFESSORES**: Carla Silva Rocha Aguiar e Hilmer Rodrigues Neri
 
 **CREDITOS**: 04 
 
@@ -152,8 +152,8 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis:
-[profa. Carla](./MDS-cronograma.md)
-[prof. Hilmer](./MDS-cronograma-hrn.md)
+- [profa. Carla](./MDS-cronograma.md)
+- [prof. Hilmer](./MDS-cronograma-hrn.md)
 
 ### Datas das Releases 1 e 2
 

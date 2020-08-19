@@ -61,7 +61,7 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Workspace do slack - [unb-fga-eps-mds-2020-1](https://app.slack.com/t/unb-fga-eps-mds-20-1/login/z-app-982741379825-1320036177121-7c140a708f49d998c2626bae489db22fb67438fe6397afaab818e9e02c3190eb )
+- Workspace do slack - [unb-fga-eps-mds-2020-1](https://unb-fga-eps-mds-20-1.slack.com/home)
 
 ## Aulas síncronas
 

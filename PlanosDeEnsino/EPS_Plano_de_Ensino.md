@@ -68,11 +68,11 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto 
 - prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-1-hrn](https://meet.jit.si/eps2020-1-hrn) (Senha de entrada: informada no slack)
 
 Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
-- [canal do youtube prof. Hilmer]()
+- prof. Hilmer - [canal de transmissão](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
 
 ## Aulas assíncronas
-- profa. Carla - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- prof. Hilmer - Vídeos disponibilizadas no youtube - [canal youtube] ()
+- profa. Carla - [Vídeos](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
+- prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 

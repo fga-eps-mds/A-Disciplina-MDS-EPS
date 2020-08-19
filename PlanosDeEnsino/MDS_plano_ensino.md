@@ -60,7 +60,7 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto 
 
 ## Dúvidas, conversas rápidas, avisos
 - profa. Carla - Grupo do telegram - [t.me/mds2020_1](t.me/mds2020_1)
-- prof. Hilmer - Grupo do slack - [unb-fga-eps-mds-2020-1](https://app.slack.com/t/unb-fga-eps-mds-20-1/login/z-app-982741379825-1320036177121-7c140a708f49d998c2626bae489db22fb67438fe6397afaab818e9e02c3190eb )
+- prof. Hilmer - Grupo do slack - [unb-fga-eps-mds-2020-1](https://unb-fga-eps-mds-20-1.slack.com/home)
 
 ## Aulas síncronas
 - profa. Carla - Video conferência no jitsi - [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina)

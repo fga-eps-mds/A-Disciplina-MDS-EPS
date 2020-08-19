@@ -68,11 +68,11 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto 
 
 Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
 - [canal do youtube profa. Carla]( https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- [canal do youtube prof. Hilmer]()
+- [canal do youtube prof. Hilmer](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
 
 ## Aulas assíncronas
 - profa. Carla - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- profa. Hilmer - Vídeos disponibilizadas no youtube - [canal youtube] ()
+- profa. Hilmer - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 

@@ -67,12 +67,12 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto 
 - prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-1-hrn](https://meet.jit.si/mds2020-1-hrn) (Senha de entrada: informada no slack)
 
 Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
-- [canal do youtube profa. Carla]( https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- [canal do youtube prof. Hilmer](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
+- profa. Carla - [canal de transmissão](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
+- prof. Hilmer - [canal do transmissão](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
 
 ## Aulas assíncronas
-- profa. Carla - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- profa. Hilmer - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
+- profa. Carla - [Vídeos](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
+- prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 

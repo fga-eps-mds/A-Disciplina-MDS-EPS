@@ -13,6 +13,10 @@ As aulas síncronas terão o timebox de 40 minutos.
 
 - Material Assíncrono - aula sobre git e gitflow da [canal do BOSS](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw)
 
+Sala das equipes:
+
+- Grupo 04 [mds2020-1_grupo4](mds2020-1_grupo4)
+- Grupo 01 [grupo-1](grupo-1)
 
 ## Sprint 1 - 25/08 - 27/08
 

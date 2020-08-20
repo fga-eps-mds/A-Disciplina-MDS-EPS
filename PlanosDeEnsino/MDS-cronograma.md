@@ -17,6 +17,7 @@ Sala das equipes:
 
 - Grupo 04 [mds2020-1_grupo4](mds2020-1_grupo4)
 - Grupo 01 [grupo-1](grupo-1)
+- Grupo 05 [grupo-5](grupo-5)
 
 ## Sprint 1 - 25/08 - 27/08
 

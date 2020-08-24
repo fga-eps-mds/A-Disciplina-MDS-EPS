@@ -16,25 +16,37 @@ As aulas síncronas terão o timebox de 40 minutos.
 
 ## Sprint 1 - 25/08 - 27/08
 
-- 25/08 - Aula síncrona - 
+- Conteúdo assíncrono - Projeto de software e Modelos de ciclo de vida e processos de desenvolvimento de software - disponíveis no canal do youtube na playlist  S1 [https://www.youtube.com/channel/UC6VgsVODs17IAHuWF2HCfUQ?view_as=subscriber](https://www.youtube.com/channel/UC6VgsVODs17IAHuWF2HCfUQ?view_as=subscriber)
 
-- Conteúdo assíncrono - Projeto de software e Modelos de ciclo de vida e processos de desenvolvimento de software - disponíveis no canal do youtube + formulários avaliativos
-
-
-- Sincrono - stand up com os líderes do projeto (30 minutos)
+- 25/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Roda de conversa sobre ciclo de desenvolvimento de software (fases) + divisão dos temas de projetos por time
 
 
-## Sprint 2
-- Introdução aos métodos ágeis de desenvolvimento
-- Práticas - XP (Artefatos, rituais, papeis)
+- 27/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Roda de conversa sobre modelo de processo (o que é processo) + stand up com os times
 
 
-## Sprint 3
-- Praticas ágeis - XP - planning poker
-- Praticas ágeis - XP - historia de usuário + critérios de aceitação
+## Sprint 2 - 01/09 - 03/09
 
-## Sprint 4
-- Práticas Ágeis
+- Conteúdo assíncrono - Entendendo as práticas ágeis (artefatos, rituais, papéis) + planning poker + Documento de Visão - disponíveis no canal do youtube na playlist  S2 (Sprint 02) [https://www.youtube.com/channel/UC6VgsVODs17IAHuWF2HCfUQ?view_as=subscriber](https://www.youtube.com/channel/UC6VgsVODs17IAHuWF2HCfUQ?view_as=subscriber)
+
+- 01/09 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Importância das Práticas ágeis para a gestão de projeto (stand up, planning, retrospectiva)
+
+- 03/09 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Roda de coversa sobre a execução das Práticas ágeis para a gestão de projeto (stand up, planning, retrospectiva)
+
+
+## Sprint 3 - 08/09 - 10/09
+
+- Conteúdo assíncrono - Práticas ágeis  história de usuário, critério de aceitação, burndown, dívida técnica - disponíveis no canal do youtube na playlist  S3 (Sprint 03) 
+
+- 08/09 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Importância das Práticas ágeis para a gestão de projeto (história de usuario, burndown, critério de aceitação)
+
+- 10/09 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Roda de coversa sobre a execução das Práticas ágeis para a gestão de projeto 
+
+
+## Sprint 4 - 14/09 - 16/09
+
+- Conteúdo assíncrono -  Arquitetura de Software - disponíveis no canal do youtube na playlist  S4 (Sprint 04) 
+- 14/09 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) -hands on - modelando uma arquitetura de software. 
+
 
 ## Sprint 5
 

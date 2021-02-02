@@ -33,6 +33,12 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 ### Processos de Desenvolvimento de Software
 - Modelos de Processo de Desenvolvimento de Software (ciclo de vida)
 - Atividades de Processo
+
+### Fundamentos do Processo Unificado de Desenvolvimento de Software
+- Conceitos
+- Fases: Iniciação, Elaboração, Construção e Transição
+- Disciplinas( Modelagem de Negócio, Requisitos, Análise e Desenho, Implementação, Teste, Gerenciamento de Projeto, Gerência de Configuração e Mudanças, Implantação e Ambiente)
+
 ### Fundamentos do Extreme Programming
 - O manifesto Ágil
 - Os Quatro valores e as Quatro variáveis
@@ -46,25 +52,24 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Refatoração
 - Programação em Pares
 - Desenvolvimento Coletivo
-### Fundamentos do Processo Unificado de Desenvolvimento de Software
+
+### Fundamentos do Desenvolvimento Lean
 - Conceitos
-- Fases: Iniciação, Elaboração, Construção e Transição
-- Disciplinas( Modelagem de Negócio, Requisitos, Análise e Desenho, Implementação, Teste, Gerenciamento de Projeto, Gerência de Configuração e Mudanças, Implantação e Ambiente)
 
 # Formação das equipes
 - Planilha para definição dos grupos e temas profa. Carla [aqui](https://docs.google.com/spreadsheets/d/1YPoA3LXVDLI4oI6b2vU4L6YPV8zAdaxhLSVa_qjobD8/edit?usp=sharing)
-- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1jlPC6Vm6jjroulWhMubMem1qV1vq16qYivUGlE6IY6E/edit#gid=0)
+- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1HQn39atf4IXd2IDcCoRrd_I0KVzepEMAil2ePgWXZVI/edit#gid=0)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
 - profa. Carla - Grupo do telegram - [t.me/mds2020_1](t.me/mds2020_1)
-- prof. Hilmer - Grupo do slack - [unb-fga-eps-mds-2020-1](https://unb-fga-eps-mds-20-1.slack.com/home)
+- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2020-1](https://discord.com/channels/805970484100988928/805970484100988933)
 
 ## Aulas síncronas
 - profa. Carla - Video conferência no jitsi - [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina)
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-1-hrn](https://meet.jit.si/mds2020-1-hrn) (Senha de entrada: informada no slack)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-1-hrn](https://meet.jit.si/mds2020-2-hrn) (Senha de entrada: informada no moodle)
 
 Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
 - profa. Carla - [canal de transmissão](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
@@ -94,13 +99,13 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 60% |
-| Criterio Extra de avaliacao* | 10% |
+| Projeto (avaliacao individual) | 70% |
 | Avaliacao Individual  | 30% |
+| Criterio Extra de avaliacao* | 10% |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle (a ser informado)
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a nao ser o repositorio da disciplina. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
+- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a nao ser o repositorio do próprio projeto na disciplina. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -142,24 +147,22 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 -  O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
 - Os projetos sao avaliados continuamente
-- A cobertura de código deverá ser 90\%, excetuando a camada de apresentação
-- O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS.
-- O tamanho dos times deve respeitar o limite máximo de 6 membros quando for composto apenas por alunos de MDS.
+- A cobertura de código deverá ser 90%, excetuando a camada de apresentação. Contudo, os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
+- O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
 - As atividades do projeto deverão ser organizadas por meio de issues e milestones.
-- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues.
-- A presença será  computada pela realização de atividades (exercícios propostos) tanto em aulas síncronas quanto aulas assíncronas.
-
+- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues e são de responsabilidade de EPS.
+- A presença será computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
+- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
 
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis:
 - [profa. Carla](./MDS-cronograma.md)
-- [prof. Hilmer](./MDS-cronograma-hrn.md)
+- [prof. Hilmer]()
 
 ### Datas das Releases 1 e 2
 
-- Release 1 - 08 de outubro de 2020
-- Release 2 - 10 de dezembro de 2020
-
+- Release 1 (major) - 23 de março de 2021
+- Release 2 (major) - 21 de maio de 2021
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020 -- https://engsoftmoderna.info/

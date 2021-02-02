@@ -55,17 +55,17 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1jlPC6Vm6jjroulWhMubMem1qV1vq16qYivUGlE6IY6E/edit#gid=0)
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1HQn39atf4IXd2IDcCoRrd_I0KVzepEMAil2ePgWXZVI/edit#gid=0)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Workspace do slack - [unb-fga-eps-mds-2020-1](https://unb-fga-eps-mds-20-1.slack.com/home)
+- Canal no Discord - [unb-fga-eps-mds-2020-2](https://discord.com/channels/805970484100988928/805970484100988933)
 
 ## Aulas síncronas
 
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-1-hrn](https://meet.jit.si/eps2020-1-hrn) (Senha de entrada: informada no slack)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-2-hrn](https://meet.jit.si/eps2020-2-hrn) (Senha de entrada: informada no moodle)
 
 Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
 - prof. Hilmer - [canal de transmissão](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
@@ -94,13 +94,13 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 60% |
+| Projeto (avaliacao individual) | 65% |
+| Avaliacao Individual  | 35% |
 | Criterio Extra de avaliacao* | 10% |
-| Avaliacao Individual  | 30% |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
-- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle (a ser informado)
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a nao ser o repositorio da disciplina. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
+- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do [Moodle](https://aprender3.unb.br/course/view.php?id=7041)
+- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a não ser o repositorio do próprio projeto. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -155,12 +155,18 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 | **ARQ** - Levantamento de roadmao de requisitos |
 | **ARQ** - proposta de arquitetura micro servicos|
 | **ARQ** - orquestracao de containeres com micro servicos (sincronizado com devops)|
+| **AD** - orquestracao da ferramenta [SonarQube](https://www.sonarqube.org/downloads/) no pipeline (sincronizado com devops)|
+| **AD** - extração, tratamento e carga do arquivo fornecido pela ferramenta sonarqube|
+| **AD** - estimular a prática da análise de dados entre o time|
+| **AD** - orientar a prática de de tomada de decisões a partir dos dados do projeto|
+
 
 **PA** - Pratica Agil	
 **SM** - Scrum Master
 **PO** - Product Owner
 **DEVOPS** - DevOps
 **ARQ** - Arquiteto
+**AD** - Analista de Dados
 
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em sala.
@@ -169,19 +175,20 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
 - Os projetos sao avaliados continuamente
-- A cobertura de código deverá ser 90\%, excetuando a camada de apresentação
-- O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS.
+- A cobertura de código deverá ser 90\%, excetuando a camada de apresentação. Contudo, os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
+- O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
 - As atividades do projeto deverão ser organizadas por meio de issues e milestones.
-- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues.
-- A presença será  computada pela realização de atividades (exercícios propostos) tanto em aulas síncronas quanto aulas assíncronas.
+- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues e são de responsabilidade de EPS.
+- A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
+- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
 
 ## Cronograma
-O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis em [prof. Hilmer](./EPS-cronograma-2020-1-hrn.md)
+O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis em [prof. Hilmer](./EPS-cronograma-2020-2-hrn.md)
 
 ### Datas das Releases 1 e 2
 
-- Release 1 - 08 de outubro de 2020
-- Release 2 - 10 de dezembro de 2020
+- Release 1 (major) - 23 de março de 2021
+- Release 2 (major) - 21 de maio de 2021
 
 
 ## Bibliografia Básica
@@ -245,4 +252,7 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 [Site Reliability Engineering: How Google Runs Production Systems [Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy]](https://www.goodreads.com/book/show/27968891-site-reliability-engineering)
 
 [Accelerate: The Science of Lean Software and DevOps [Nicole Forsgren, Jez Humble, Gene Kim]](https://www.goodreads.com/book/show/39080433-accelerate)
+
+## Lean Inception
+[Lean Inception: como alinhar pessoas e construir o produto certo [Paulo Caroli]](https://www.amazon.com/Lean-Inception-alinhar-construir-Portuguese-ebook/dp/B08JHCT8GG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1600761893&sr=8-2)
 

@@ -46,9 +46,13 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Backlog do produto e backlog da iteração
 - Reuniões diárias
 - Monitoramento (tracking) da iteração
-### 05. Tomada de Decisão sobre Produtos de Software orientada à Análise de Dados 
+- Definindo o produto: Lean Inception
+
+### 05. Engenharia de Software Contínua
+- Implantação e Entrega Contínua
+- Tomada de Decisão sobre a qualidade de Produtos de Software orientada à análise contínua de dados
 - Software Analytics
-- Experimentação Contínua
+
 ### 06. Gestão Estratégica de Projetos
 - Portfólios e Programas
 - Escritório de Projetos
@@ -76,7 +80,6 @@ Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTub
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 
-
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
  avaliação será feita por meio de:
@@ -94,9 +97,9 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 65% |
-| Avaliacao Individual  | 35% |
-| Criterio Extra de avaliacao* | 10% |
+| Projeto (avaliacao individual) | 80% |
+| Avaliacao Individual  | 20% |
+| Criterio Extra de avaliacao* | 1pt na média |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do [Moodle](https://aprender3.unb.br/course/view.php?id=7041)
@@ -156,10 +159,9 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 | **ARQ** - proposta de arquitetura micro servicos|
 | **ARQ** - orquestracao de containeres com micro servicos (sincronizado com devops)|
 | **AD** - orquestracao da ferramenta [SonarQube](https://www.sonarqube.org/downloads/) no pipeline (sincronizado com devops)|
-| **AD** - extração, tratamento e carga do arquivo fornecido pela ferramenta sonarqube|
+| **AD** - extração, tratamento e carga do arquivo fornecido pela ferramenta de análise estática|
 | **AD** - estimular a prática da análise de dados entre o time|
 | **AD** - orientar a prática de de tomada de decisões a partir dos dados do projeto|
-
 
 **PA** - Pratica Agil	
 **SM** - Scrum Master
@@ -175,12 +177,15 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
 - Os projetos sao avaliados continuamente
-- A cobertura de código deverá ser 90\%, excetuando a camada de apresentação. Contudo, os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
+- A cobertura de código deverá ser 90\%, exceto na camada de apresentação. Contudo, os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
 - O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
 - As atividades do projeto deverão ser organizadas por meio de issues e milestones.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues e são de responsabilidade de EPS.
 - A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
+- Atenção! O servidor de CI do Travis atingiu o limite de geração de builds a partir do repositório da disciplina. Portanto, analisem bem o risco ao tomar a decisão de utilizá-lo. Isso pode trazer restrições ao seu projeto e consequentemente virar um potencial problema.
+- O pipeline de devops desenvolvido no projeto de MDS-EPS poderá ser utilizado como projeto na disciplina de GCES. Logo, as boas práticas de gerência de configuração e mudança devem seguir as orientações da disciplina de GCES. Portanto, é importante que haja membros do time que estejam cursando CGES no semestre vigente ou que já tenham cursado.
+
 
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis em [prof. Hilmer](./EPS-cronograma-2020-2-hrn.md)
@@ -207,7 +212,8 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 - [OPEN ACCESS] Scrum e XP direto das Trincheiras, Henrik Kniberg, InfoQ, 2005, (http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)
 - GRUBB, Penny; TAKANG, Armstrong A. Software maintenance: concepts and practice. 2nd ed. Hackensack: World Scientific, 2011. xix, 349 p. ISBN 9789812384263.
 - Kent Beck. Programação Extrema Explicada: escolha as mudanças. Bookman, 2004.
-- (eBrary) Preibel, René, and Stachmann, Bjorn. Git : Distributed Version Control–Fundamentals and Workflows. Van- couver, CA: Brainy Software, 2014.
+- [eBrary] Preibel, René, and Stachmann, Bjorn. Git : Distributed Version Control–Fundamentals and Workflows. Van- couver, CA: Brainy Software, 2014.
+- [EBOOK] Caroli, Paulo, Lean Inception: como alinhar pessoas e construir o produto certo (https://mailchi.mp/caroli.org/ebook-lean-inception-gratis)
 
 
 ## Bibliografia Extra:
@@ -252,7 +258,4 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 [Site Reliability Engineering: How Google Runs Production Systems [Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy]](https://www.goodreads.com/book/show/27968891-site-reliability-engineering)
 
 [Accelerate: The Science of Lean Software and DevOps [Nicole Forsgren, Jez Humble, Gene Kim]](https://www.goodreads.com/book/show/39080433-accelerate)
-
-## Lean Inception
-[Lean Inception: como alinhar pessoas e construir o produto certo [Paulo Caroli]](https://www.amazon.com/Lean-Inception-alinhar-construir-Portuguese-ebook/dp/B08JHCT8GG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1600761893&sr=8-2)
 

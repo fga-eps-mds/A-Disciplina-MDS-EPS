@@ -99,7 +99,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | ------ | ------ |
 | Projeto (avaliacao individual) | 80% |
 | Avaliacao Individual  | 20% |
-| Criterio Extra de avaliacao* | 1pt na média |
+| Criterio Extra de avaliacao* | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do [Moodle](https://aprender3.unb.br/course/view.php?id=7041)

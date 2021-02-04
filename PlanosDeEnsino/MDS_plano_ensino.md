@@ -54,7 +54,9 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Desenvolvimento Coletivo
 
 ### Fundamentos do Desenvolvimento Lean
-- Conceitos
+- Valores
+- Princípios
+- Práticas
 
 # Formação das equipes
 - Planilha para definição dos grupos e temas profa. Carla [aqui](https://docs.google.com/spreadsheets/d/1YPoA3LXVDLI4oI6b2vU4L6YPV8zAdaxhLSVa_qjobD8/edit?usp=sharing)
@@ -65,11 +67,11 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto 
 
 ## Dúvidas, conversas rápidas, avisos
 - profa. Carla - Grupo do telegram - [t.me/mds2020_1](t.me/mds2020_1)
-- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2020-1](https://discord.com/channels/805970484100988928/805970484100988933)
+- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2020-2](https://discord.com/channels/805970484100988928/805970484100988933)
 
 ## Aulas síncronas
 - profa. Carla - Video conferência no jitsi - [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina)
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-1-hrn](https://meet.jit.si/mds2020-2-hrn) (Senha de entrada: informada no moodle)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-2-hrn](https://meet.jit.si/mds2020-2-hrn) (Senha de entrada: informada no moodle)
 
 Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
 - profa. Carla - [canal de transmissão](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
@@ -91,7 +93,7 @@ Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao lo
 
 Para os times formados por integrantes de MDS e EPS, o objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho complementar, simulando uma situação real de desenvolvimento  e engenharia de Produto de Software. Enquanto os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes, os alunos de EPS irão se concentrar na gestão de tarefas, distribuição de recursos, estimativas do projeto, avaliação da qualidade, garantindo assim, a correta aplicação da metodologia de desenvolvimento contínuo e arquitetura de micro servicos. 
 
-Já para quales times formados **apenas por integrantes de MDS**, o objetivo do Projeto simula uma situação real de desenvolvimento  e engenharia de Produto de Software. Os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes. 
+Já para aquales times formados **apenas por integrantes de MDS**, o objetivo do Projeto simula uma situação real de desenvolvimento  e engenharia de Produto de Software. Os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes. 
 
 Haverá duas avaliações formais das releases a serem desenvolvidas.
 
@@ -99,13 +101,13 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 70% |
-| Avaliacao Individual  | 30% |
-| Criterio Extra de avaliacao* | 10% |
+| Projeto (avaliacao individual) | 80% |
+| Avaliacao Individual  | 20% |
+| Criterio Extra de avaliacao* | 1pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle (a ser informado)
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a nao ser o repositorio do próprio projeto na disciplina. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
+- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, exceto o repositorio do próprio projeto na disciplina. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -157,7 +159,7 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis:
 - [profa. Carla](./MDS-cronograma.md)
-- [prof. Hilmer]()
+- [prof. Hilmer](./MDS-cronograma-hrn.md)
 
 ### Datas das Releases 1 e 2
 
@@ -187,6 +189,10 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 [Clean Code: A Handbook of Agile Software Craftsmanship [Uncle Bob]](https://www.goodreads.com/book/show/3735293-clean-code)
 
 [The Pragmatic Programmer: From Journeyman to Master [Andy Hunt, Dave Thomas]](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+
+## Sites do XP e RUP
+[RUP](https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/)
+[XP](http://www.extremeprogramming.org/)
 
 ## Arquitetura de Software
 

@@ -3,11 +3,11 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 
 As aulas síncronas terão o timebox de 40 minutos.
 
-## Sprint 0 - 17/08 e 19/08
+## Sprint 0 - 02/02
 
-- 18/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina) - Apresentação do plano de ensino disciplina +   apresentacão sobre o trabalho da disciplina - definição dos times (máximo 6 membros - balanceado) 
+- 02/02 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-2) (Senha de entrada: codigo da disciplina) - Apresentação do plano de ensino disciplina +   apresentacão sobre o trabalho da disciplina - definição dos times (máximo 6 membros - balanceado) 
 
-- 20/08 - aula sincrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina) - Apresentação do projeto (definição dos temas) 
+- 04/02 - aula sincrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-2) (Senha de entrada: codigo da disciplina) - Apresentação do projeto (definição dos temas) 
 
 - Material assíncrono - Vídeo sobre a metodologia da disciplina apresentada na campus party 2020 - [https://youtu.be/MlGYHl3Iyyg](https://youtu.be/MlGYHl3Iyyg) + Responder ao questionário [https://forms.gle/qjiNRJPWSLnKFVz5A](https://forms.gle/qjiNRJPWSLnKFVz5A)
 
@@ -19,14 +19,14 @@ Sala das equipes:
 - Grupo 01 [grupo-1](grupo-1)
 - Grupo 05 [grupo-5](grupo-5)
 
-## Sprint 1 - 25/08 - 27/08
+## Sprint 1 - 09/02
 
 - Conteúdo assíncrono - Projeto de software e Modelos de ciclo de vida e processos de desenvolvimento de software - disponíveis no canal do youtube na playlist  S1 [https://www.youtube.com/channel/UC6VgsVODs17IAHuWF2HCfUQ?view_as=subscriber](https://www.youtube.com/channel/UC6VgsVODs17IAHuWF2HCfUQ?view_as=subscriber)
 
-- 25/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Roda de conversa sobre ciclo de desenvolvimento de software (fases) + divisão dos temas de projetos por time
+- 25/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-2) - Roda de conversa sobre ciclo de desenvolvimento de software (fases) + divisão dos temas de projetos por time
 
 
-- 27/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) - Roda de conversa sobre modelo de processo (o que é processo) + stand up com os times
+- 27/08 - aula síncrona no [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-2) - Roda de conversa sobre modelo de processo (o que é processo) + stand up com os times
 
 
 ## Sprint 2 - 01/09 - 03/09

@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2020
+**SEMESTRE/ANO**: 02/2020
 
 
 
@@ -37,10 +37,10 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizado tanto m
 
 
 ## Dúvidas, conversas rápidas, avisos
-- Grupo do telegram - [t.me/mds2020_1](t.me/mds2020_1)
+- Grupo do telegram - [t.me/mds2020_2](t.me/mds2020_2)
 
 ## Aulas síncronas
-- Video conferência no jitsi - [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina)
+- Video conferência no jitsi - [https://meet.jit.si/mds2020-2](https://meet.jit.si/mds2020-2) (Senha de entrada: codigo da disciplina)
 - Todas as aulas síncronas serão gravadas e disponibilizadas no [canal do youtube]( https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
 
 ## Aulas assíncronas
@@ -147,12 +147,12 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 
 ### Datas das Releases 1 e 2
 
-- Release 1 - 08 de outubro de 2020
-- Release 2 -  10 de dezembro de 2020
-
+- Release 1 (major) - 30 de março de 2021
+- Release 2 (major) - 20 de maio de 2021
 
 ## Bibliografia Basica
 - Beck, K., Programacao Extrema (XP) Explicada, 1st ed. Bookman, 2004
+- Alves, Isaque, Rocha,Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical concepts in a project-oriented course - (http://arxiv.org/abs/2102.06662)
 - Jacobson,I.,BoochG.,RumbauchJ.,TheUnifiedSoftwareDevelopmentProcess,1sted.,Addison- Wesley, 1999.
 - Sommerville, I., Engenharia de software. 8th ed., Pearson Addison Wesley, 2007.
 – Pfleeger, S. L., Engenharia de software: teoria e pratica. 2nd ed., Prentice Hall, 2004.

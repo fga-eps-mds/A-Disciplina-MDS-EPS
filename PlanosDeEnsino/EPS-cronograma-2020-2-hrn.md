@@ -1,4 +1,4 @@
-## Cronograma
+## CRONOGRAMA
 Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/assíncrona) e material de apoio. Observação: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do cruso.
 
 
@@ -137,7 +137,7 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 - Conteúdo assíncrono - Video [DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k), prof. Marco Tulio-UFMG
 
 13/05 - Aula assíncrona
-- Video [Engenharia de Software Contínua] (https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s), Prof. Breno França-UNICAMP
+- Video [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s), Prof. Breno França-UNICAMP
 
 ## Sprint 15 - 18/05 e 20/05
 18/05 - Aula síncrona - aula síncrona no Jitsi EPS 2020-2

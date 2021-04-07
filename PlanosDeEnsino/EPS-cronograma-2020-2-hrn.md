@@ -1,4 +1,4 @@
-## CRONOGRAMA
+## CRONOGRAMA EPS-T01A
 Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/assíncrona) e material de apoio. Observação: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do cruso.
 
 

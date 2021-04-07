@@ -111,8 +111,8 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 ## Sprint 12 -  27/04 e 29/04
 27/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
 - Extreme Programming: Refatoração
-- Conteúdo assíncrono - Leitura Cap. 9 do livro
-- Video Refatoração Prof. Eduardo Guerra
+- Conteúdo assíncrono - [Leitura Cap. 9 do livro](https://engsoftmoderna.info/cap9.html)
+- Video [Refatoração](https://www.youtube.com/watch?v=3ouXTIgIyxw), Prof. Eduardo Guerra INPE / UNIBZ
 
 29/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
 - Extreme Programming: Pareamento; Propriedade Coletiva de Código-Fonte; Cliente Presente 
@@ -124,7 +124,7 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 
 29/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
 - Devops
-- Conteúdo assíncrono - [Video DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k) prof. Marco Tulio 
+- Conteúdo assíncrono - [Video DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k) prof. Marco Tulio-UFMG
 
 ## Sprint 14 - 11/05 e 13/05
 11/05 - Aula assíncrona

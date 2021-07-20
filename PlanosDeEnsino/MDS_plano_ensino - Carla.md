@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2020
+**SEMESTRE/ANO**: 01/2021
 
 
 
@@ -30,17 +30,17 @@ Nesse contexto, a disciplina Metodos de Processos de Software se faz importante 
 Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de desenvolvimento de software. 	Outras abordagens de desenvolvimento de software (orientado a dados, orientado a funções, orientado a objetos,  orientado a aspectos). Ferramentas.
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1YPoA3LXVDLI4oI6b2vU4L6YPV8zAdaxhLSVa_qjobD8/edit?usp=sharing)
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1flBkIKpoJyAK8bC9UyiaNsr7qYpUnkiZZAgk578Khmo/edit#gid=0)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizado tanto material assincrono quanto aulas sincronas. A presença das aulas assíncrona será realizada por meio de exercícios disponibilizado junto ao material síncrono. 
 
 
 ## Dúvidas, conversas rápidas, avisos
-- Grupo do telegram - [t.me/mds2020_2](t.me/mds2020_2)
+- Grupo do telegram - [https://t.me/joinchat/i_sqPd_9HMtlZmMx](https://t.me/joinchat/i_sqPd_9HMtlZmMx)
 
 ## Aulas síncronas
-- Video conferência no jitsi - [https://meet.jit.si/mds2020-2](https://meet.jit.si/mds2020-2) (Senha de entrada: codigo da disciplina)
+- Video conferência no jitsi - [https://meet.jit.si/mds2021-1](https://meet.jit.si/mds2021-1) 
 - Todas as aulas síncronas serão gravadas e disponibilizadas no [canal do youtube]( https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
 
 ## Aulas assíncronas
@@ -48,7 +48,7 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizado tanto m
 - Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 
 # Planejamento das aulas
-- O planejamento das aulas semanais, discriminando se são assíncronas ou síncronas, e qual canal vai ser atualizado no início da semana no [link](https://docs.google.com/spreadsheets/d/1C7nn8smKEjuXiUGt4H7EvTLqfDl5zELyel94JDtEBlU/edit?usp=sharing) 
+- O planejamento das aulas semanais, discriminando se são assíncronas ou síncronas, e qual canal vai ser atualizado no início da semana no [link](https://docs.google.com/spreadsheets/d/1flBkIKpoJyAK8bC9UyiaNsr7qYpUnkiZZAgk578Khmo/edit#gid=0) 
 
 
 ## Descrição do Programa

@@ -71,7 +71,7 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto 
 ## Aulas síncronas
 
 - prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-2-hrn](https://meet.jit.si/eps2021-1-hrn) (Senha de entrada: informada no moodle)
-- As aulas síncronas não serão gravadas
+- As aulas síncronas não serão gravadas.
 
 ## Aulas assíncronas
 - prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
@@ -89,8 +89,6 @@ Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao lo
 
 O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho complementar, simulando uma situação real de desenvolvimento e engenharia de Produto de Software. Enquanto os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes, os alunos de EPS irão se concentrar na gestão de tarefas, distribuição de recursos, estimativas do projeto, garantindo assim a correta aplicação da metodologia de desenvolvimento contínuo e arquitetura de micro servicos. Haverá duas avaliações formais das releases a serem desenvolvidas.
 
-Haverá duas avaliações formais das releases a serem a.
-
 Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo:  
 
 | Evento da Avaliacao | Peso |
@@ -100,7 +98,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Criterio Extra de avaliacao* | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
-- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do [Moodle](https://aprender3.unb.br/course/view.php?id=7041)
+- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle. (a ser informado)
 - **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a não ser o repositorio do próprio projeto.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
@@ -185,6 +183,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O pipeline de devops desenvolvido no projeto de MDS-EPS poderá ser utilizado como projeto na disciplina de GCES. Logo, as boas práticas de gerência de configuração e mudança devem seguir as orientações da disciplina de GCES. Portanto, é importante que haja membros do time que estejam cursando CGES no semestre vigente ou que já tenham cursado.
 - Os repositórios devem ser criados na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds)
 - A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/invitation/team/unbfgaepsmds202111846?code=64c69699e8794895a30e2f2d2e729c7d&sender=ud8413517a97742009ec54625)
+- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)  
 
 
 ## Cronograma

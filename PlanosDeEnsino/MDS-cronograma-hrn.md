@@ -1,150 +1,145 @@
-# CRONOGRAMA MDS-T05A
-Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/assíncrona) e material de apoio. Observação: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do curso.
+# CRONOGRAMA MDS-TB
+Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/assíncrona) e material de apoio. **Observação:** Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do curso.
 
-## Sprint 0 - 02/02 e 04/02
-02/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 0 - 20/07 e 22/07
+20/07 - Aula síncrona
 - Apresentação do plano de ensino disciplina
 - Formação dos times
 - Conteúdo assíncrono - [Leitura Cap. 1 do livro](https://engsoftmoderna.info/cap1.html)
 
-04/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+22/07 - Aula síncrona
 - Modelos de ciclo de vida e processos de desenvolvimento de software
 - Conteúdo assíncrono - Projeto de software e [Modelos de ciclo de vida](https://www.youtube.com/watch?v=8jOB_ELiEqg&list=PLq2Sc9aWGU4g53IG7xWsTDiBNSZQrH_H2&index=1&t=108s) e [processos de desenvolvimento de software](https://www.youtube.com/watch?v=WiRwKm9M5w8&list=PLq2Sc9aWGU4g53IG7xWsTDiBNSZQrH_H2&index=2&t=2s) - disponíveis no canal do youtube da profa. Carla Rocha
 
-## Sprint 1 - 09/02 e 11/02
-09/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 1 - 27/07 e 29/07
+27/07 - Aula síncrona
 - Modelos de ciclo de vida e processos de desenvolvimento de software
-- Escolha de temas
-- Reunião com os times
+- Reunião com os times (assíncrono)
 - Conteúdo assíncrono - [Leitura Cap. 2 do livro](https://engsoftmoderna.info/cap2.html)
 
-11/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+29/07 - Aula síncrona
 - Introdução ao processo unificado
 
-## Sprint 2
-16/02 - FERIADO CARNAVAL
+## Semana 2 - 03/08 e 05/08
+03/08- Aula síncrona
 
-18/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+05/08 - Aula síncrona
 - Fases do Processo Unificado
 
-## Sprint 3 - 23/02 e 25/02
-23/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 3 - 10/08 e 12/08
+10/08 - Aula síncrona
 - Disciplinas do Processo Unificado
 
-25/02 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+12/08 - Aula
 - Disciplinas do Processo Unificado
 - Pitch 1 - Visão do Produto-LI
 
-## Sprint 4 - 02/03 e 04/03
-02/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 4 - 17/08 e 19/08
+17/08 - Aula síncrona
 - Área de Processo Requisitos: tradicional e ágil
 
-04/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+19/08 - Aula síncrona
 - Área de Processo Requisitos: tradicional e ágil
 
-## Sprint 5 - 09/03 e 11/03
-09/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 5 - 24/08 e 26/08
+24/08 - Aula síncrona
 - Área de Processo Requisitos: tradicional e ágil
 
-11/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+26/08 - Aula síncrona
 - Área de Processo Projeto, Arquitetura: tradicional e ágil
 - Conteúdo assíncrono - [Leitura Cap. 7 do livro](https://engsoftmoderna.info/cap7.html)
 
-## Sprint 6 - 16/03 e 18/03
-16/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 6 - 31/08 e 02/09
+31/08 - Aula síncrona
 - Ponto de controle do projeto: histórias de usuário, fluxo de trabalho, responsabilidades dos membros de MDS 
 
-18/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+02/09 - Aula síncrona
 - Área de Processo Projeto, Arquitetura: tradicional e ágil
 
-## Sprint 7 - 23/03 e 25/03
-23/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
-- Conversa com a turma sobre a redistribuição dos times de
-- Atividade assíncrona: fechamento da 1a release
+## Semana 7 - 07/09 e 09/09
+07/09 - FERIADO NACIONAL
 
-## Entrega da 1a Release
+09/09 - Aula síncrona
+- Área de Processo Testes: tradicional e ágil
+- Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
+
+## Entrega da 1a Release - 10/09/2021 ##
 - **A entrega da Release 1 (major)** se dará por meio do envio de um vídeo com duração de 20 minutos. Todos os integrantes do time devem participar.
 
 - **Peso da R1** - 40% da nota de projeto
 
-- **Tempo de feedback sobre as correções**: 15 minutos/time 
+- **O feedback sobre as correções da R1 ocorrerá de forma assíncrona (discord)**
 
-- **Artefatos avaliados**: (I) Documento de Visão do Projeto, (II) Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas), Documento de Arquitetura do Projeto, (III) Especificação das historias de usuários (critérios de aceitação), (IV) Configuração do repositório de acordo com os padrões de comunidade de software livre (Github), (V) Wiki atualizada (VI) Identidade Visual do  e Protótipos de alta fidelidade 
+- **Artefatos avaliados**: Documentos relacionados à Visão do Produto; Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas), Documento de Arquitetura do Projeto; Especificação das historias de usuários (critérios de aceitação); Configuração do repositório de acordo com os padrões de comunidade de software livre (Github); Wiki atualizada; Identidade Visual e Protótipos de alta fidelidade; repositório de código-fonte; testes unitários e de integração; Quadro de Conhecimento; Quadro de Pareamento; Participação nas reuniões
 
-- **Praticas avaliadas**: pareamento, produtividade, participação nos rituais, desempenho
+- **Detalhamento da avaliação**: (I) Código-Fonte/entregas (30%): contribuições no repositório e no projeto (II) Coerência entre a documentação e implementação (10%), (III) Documentação: Visão do Produto e relacionamento com as histórias de usuários (15%); (IV) Arquitetura (15%), (V) IDV + Protótipos (baixa e alta fidelidade) (10%); (VI) Casos/condições de testes e cobertura de código-fonte (20%)
 
-- **Detalhamento da avaliação**: Código-Fonte/entregas (30%), (II) Coerência entre a documentação e implementação (10%), (III) Documentação: Doc. visão (15%), doc arq (15%), Requisitos Especificados (10%), IDV + Protótipos (10%), (IV) testes funcionais (10%)
 
-25/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
-- Área de Processo Testes: tradicional e ágil
-- Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
-
-## Sprint 8 - 30/03 e 01/04
-30/03 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 8 - 14/09 e 16/09
+14/09 - Aula síncrona
 - Área de Processo Testes: tradicional e ágil
 
-01/04 - FERIADO SEMANA SANTA 
-
-## Sprint 9 - 06/04 e 08/04
-06/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+16/09 - Aula síncrona
 - Área de Processo Testes: tradicional e ágil
 
-08/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 9 - 21/09 e 23/09
+21/09 - Aula síncrona
 - Área de Processo Testes: tradicional e ágil
+
+23/09 - Aula síncrona
 - Conteúdo assíncrono - Video sobre [Testes Automatizados](https://www.youtube.com/watch?v=OinhnbZWo3A&list=PL-diSX68u5h9pxXM_P8_OeuBL7jLYQ_EB&index=18), Prof. Eduardo Guerra INPE / UNIBZ
 - Video sobre [testes "mock"](https://www.youtube.com/watch?v=sJRnJcz6btA&list=PL-diSX68u5h9pxXM_P8_OeuBL7jLYQ_EB&index=9), Prof. Eduardo Guerra INPE / UNIBZ
 
-## Sprint 10 -  13/04 e 15/04
-13/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 10 - 28/09 e 30/09  (Semana Universitária UnB)
+28/09 - Aula assíncrona
 - Correções da R1
 
-15/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+30/09 Aula assíncrona
+- Correções da R1
 - Introdução aos métodos Ágeis 
 
-## Sprint 11 -  20/04 e 22/04
-20/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 11 -  05/10 e 07/10
+05/10 - Aula síncrona
 - Extreme Programming: artefatos, rituais, papeis
 
-22/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+07/10 - Aula síncrona
 - Extreme Programming: planejamento de releases, planning poker, velocity
 
-## Sprint 12 -  27/04 e 29/04
-27/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+## Semana 12 -  12/10 e 14/10
+12/10 - FERIADO NACIONAL
+
+14/10 - Aula assíncrona
 - Extreme Programming: Refatoração
 - Conteúdo assíncrono - [Leitura Cap. 9 do livro](https://engsoftmoderna.info/cap9.html)
 - Video [Refatoração](https://www.youtube.com/watch?v=3ouXTIgIyxw), Prof. Eduardo Guerra INPE / UNIBZ
 
-29/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
-- Extreme Programming: Pareamento; Propriedade Coletiva de Código-Fonte; Cliente Presente 
-
-## Sprint 13 - 04/05 e 06/05
-04/05 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
-- Extreme Programming: Integração Contínua
+## Semana 13 - 19/10 e 21/10
+19/10 - Aula síncrona
+- Extreme Programming: Pareamento; Propriedade Coletiva de Código-Fonte; Cliente Presente
 - Implantação e Entrega Contínua
 
-29/04 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
+21/10 - Aula síncrona
 - Devops
 - Conteúdo assíncrono - [Video DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k) prof. Marco Tulio-UFMG
 
-## Sprint 14 - 11/05 e 13/05
-11/05 - Aula assíncrona
+## Semana 14 - 26/10 e 28/10
+26/10 - Aula síncrona
 - Video [O que é o Desenvolvimento de Software de Código-Fonte Aberto](https://www.youtube.com/watch?v=jGHzJU1_RJ8&list=PLFFHHqnY3q2FReM-gw2o8qlManD709ko6&index=4), canal BOSS
 
-13/05 - Aula assíncrona
+28/10 - Aula assíncrona
 - Video [Contribuindo para um projeto de código-fonte Aberto](https://www.youtube.com/watch?v=UdDaeMCC0Jw&list=PLFFHHqnY3q2FReM-gw2o8qlManD709ko6&index=3&t=87s), canal BOSS
 
-## Sprint 15 - 18/05 e 20/05
-18/05 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
-- Lean Development: valores e princípios
+## Semana 15 - 02/09 e 04/09
+- 02/09 - FERIADO NACIONAL
 
-20/05 - Aula síncrona no [Jitsi MDS 2020-2-hrn](https://meet.jit.si/mds2020-2-hrn)
-- Lean Development: práticas
+04/09 - Aula síncrona
+- Lean Development: valores, princípios e práticas
 
-## Sprint 16 - 25/05 e 27/05
-24/05 - Entrega da última release R2(n)
+## Semana 16 -  08/11
+- 08/11 - Entrega da última release RN
 
 ## Entrega da Última Release
-- **A entrega da Release 2(n) (major)** se dará por meio do envio de um vídeo com duração de 25 minutos. Todos os integrantes do time devem participar.
+- **A entrega da Release N (major)** se dará por meio do envio de um vídeo com duração de 25 minutos. Todos os integrantes do time devem participar.
 
 - **Peso da R2(n)**: 60% da nota de projeto
 

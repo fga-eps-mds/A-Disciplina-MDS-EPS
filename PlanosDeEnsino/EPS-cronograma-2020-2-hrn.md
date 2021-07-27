@@ -91,67 +91,68 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 - Apresentação do notebook - interpretação das métricas fornecidas pela ferramenta SonarQube 
 
 ## Semana 9 - 21/09 e 23/09
-06/04 - Aula síncrona
+21/09 - Aula síncrona
 - Área de Conhecimento Aquisições
 
-08/04 - Aula síncrona
+23/09 - Aula síncrona
 - Área de Conhecimento Risco
 
-## Semana 10 -  13/04 e 15/04
-13/04 - Aula síncrona
+## Semana 10 - 28/09 e 30/09  (Semana Universitária UnB)
+28/09 - Aula assíncrona
+- Video [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
+- Artigo padrões para adoção de tomada de decisões por meio [Analytics](https://drive.google.com/file/d/1jrinbZfU92qtWEAcWwfKcpzf6PYjiQ-6/view?usp=sharing) 
+
+30/09 Aula assíncrona
 - Correções da R1
 
-15/04 Aula síncrona
-- Introdução aos métodos Ágeis
+## Semana 11 -  05/10 e 07/10
+05/10 - Aula síncrona
+- Introdução e Panorama de Adoção dos Métodos Ágeis
 
-## Semana 11 -  20/04 e 22/04
-20/04 - Aula síncrona
+05/10 - Aula síncrona
 - SCRUM: artefatos, rituais, papeis
 
-22/04 - Aula síncrona
+## Semana 12 -  12/10 e 14/10
+12/10 - FERIADO NACIONAL
+
+14/10 - Aula síncrona
 - Desenvolvimento Lean
 - Kanbam
 
-## Semana 12 -  27/04 e 29/04
-27/04 - Aula assíncrona
-- Video [Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
-- Artigo padrões para Analytics 
-
-29/04 - Aula síncrona - [Jitsi EPS 2020-2](https://meet.jit.si/eps2020-2-hrn)
-
-
-## Semana 13 - 04/05 e 06/05
-04/05 - Aula síncrona - [Jitsi EPS 2020-2](https://meet.jit.si/eps2020-2-hrn)
+## Semana 13 - 19/10 e 21/10
+19/10 - Aula síncrona
 - Revisão de Medição
+
+21/10 - Aula síncrona
 - Revisão Estatística Descritiva
 
-29/04 - Aula síncrona - [Jitsi EPS 2020-2](https://meet.jit.si/eps2020-2-hrn)
-- Revisão Estatística Descritiva
-
-## Semana 14 - 11/05 e 13/05
-11/05 - Aula síncrona - [Jitsi EPS 2020-2](https://meet.jit.si/eps2020-2-hrn)
+## Semana 14 - 26/10 e 28/10
+26/10 - Aula síncrona
 - Devops
 - Implantação e Entrega Contínua
 - Conteúdo assíncrono - Video [DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k), prof. Marco Tulio-UFMG
 
-13/05 - Aula assíncrona
+28/10 - Aula assíncrona
 - Video [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s), Prof. Breno França-UNICAMP
 
-## Semana 15 - 18/05 e 20/05
-18/05 - Aula síncrona - aula síncrona no Jitsi EPS 2020-2
+## Semana 15 - 02/09 e 04/09
+- 02/09 - FERIADO NACIONAL
+
+04/09 - Aula síncrona - aula síncrona no Jitsi EPS 2020-2
 - Engenharia de Software Contínua
+- Visão estratégica dO gerenciamento de projetos e produtos
 
-20/05 - Aula síncrona - aula síncrona no Jitsi EPS 2020-2
-- Visão estratégica de gerenciamento de projetos e produtos
 
-## Semana 16 -  25/05 e 27/05
-- 24/05 - Entrega da última release RN
+## Semana 16 -  08/11
+- 08/11 - Entrega da última release RN
 
 ## Entrega da Última Release
 - **A Release N (major)** se dará por meio do envio de um vídeo com duração de 25 minutos. Todos os integrantes do time devem participar.
 
-- **Peso da R2(n)** - 60% da nota de projeto
+- **Peso da RN** - 60% da nota de projeto
 
 - **Duração do Vídeo**: 25 minutos 
 
-- **Detalhe da avaliacao**: (I) Revisão do Codigo entregue (40%): features, implantacao, qualidade, cobertura de testes, testes de aceitacao, Validação do MVP (II) Documentação/evidências da execução metodologia de desenvolvimento contínua (30%), (III) Analytics (30%)
+- **Artefatos avaliados**: Canvas MVP; Backlog do Produto Planejado X Realizado (escopo); Historias de usuários + critérios de aceitação aceitas; Configuração do repositório de acordo com os padrões de comunidade de software livre (ex: como contribuir, licença, código de conduta,...); Planejado X realizado (Custo, Risco e Qualidade); Wiki atualizada; Ambientes de homologação e produção; Quadros de Conhecimento e Pareamentos; Testes em nível unitário, integração e sistemas; Canvas Analytics
+
+- **Detalhe da avaliacao**: (I) Revisão das entregas (40%): requisitos; código-fonte; qualidade; cobertura de testes; testes de aceitacao; práticas de gerência de configuração e mudanças; Validação do MVP(hipóteses de negócio) (II) Documentação/evidências da execução metodologia de desenvolvimento contínua (30%): Kanban; assets no repositórtio(código-fonte, arquivo com métricas coletadas do SonarCloud); código-fonte; diretório com as métricas coletadas; orquestração do pipeline de DevOps (III) Implementação do notebook Analytics (30%): tratamento das métricas(normalização, interpretação e agregação); análises, interpretações e gráficos estatísticos; decisões tomadas a partir das análises das medidas

@@ -37,38 +37,38 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 10/08 - Aula síncrona
 - Processos de Gerenciamento de Projetos-GP
 
-12/08 - Aula
+12/08 - Aula síncrona
 - Processos de Gerenciamento de Projetos-GP
 - Área de Conhecimento Escopo: tradicional (síncrona) e ágil (assíncrono)
 - Pitch 1 - Visão do Produto-LI
 
 ## Semana 4 - 17/08 e 19/08
-17/08 - Aula
+17/08 - Aula síncrona
 - Área de Conhecimento Escopo: tradicional (síncrona) e ágil (assíncrono)
 
-19/08 - Aula
+19/08 - Aula síncrona
 - Área de Conhecimento Escopo: tradicional (síncrona) e ágil (assíncrono)
 
 ## Semana 5 - 24/08 e 26/08
-24/08 - Aula
+24/08 - Aula síncrona
 - Área de Conhecimento Tempo: tradicional e ágil (assíncrono)
 - Pitch 2 - PBB
 
-26/08
+26/08 - Aula síncrona
 - Área de Conhecimento Tempo: tradicional (síncrono) e ágil (assíncrono)
 
 ## Semana 6 - 31/08 e 02/09
-31/08 - Aula
+31/08 - Aula síncrona
 - Área de Conhecimento Custo: tradicional (síncrono) e ágil (assíncrono)
 - Pitch 3 - PBB
 
-02/09 - Aula
+02/09 - Aula síncrona
 - Área de Conhecimento Custo: tradicional (síncrono) e ágil (assíncrono)
 
 ## Semana 7 - 07/09 e 09/09
 07/09 - FERIADO NACIONAL
 
-09/09 - Aula
+09/09 - Aula síncrona
 - Área de Conhecimento Qualidade: ISO 25010, [Q-Rapids](https://www.q-rapids.eu/download)
 
 ## Semana da 1a Release - 10/09/2021
@@ -78,9 +78,9 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 
 - **O feedback sobre as correções da R1 ocorrerá de forma assíncrona (discord)**
 
-- **Artefatos avaliados**: Visão do Produto e Canvas MVP; Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas); RoadMap( GitHub); Gráfico de Gantt com os Marcos do Projeto; Documento de Arquitetura do Produto; Backlog do Produto; Especificação das historias de usuários + critérios de aceitação; Configuração do repositório de acordo com os padrões de comunidade de software livre (ex: como contribuir, licença, código de conduta,...); Planilhas e Gráficos, Custo, Risco e Qualidade; Wiki atualizada; Protótipo de baixa e alta fidelidade; Quadros de Conhecimento e Pareamentos; Testes em nível unitário, integração e sistemas 
+- **Artefatos avaliados**: Visão do Produto e Canvas MVP; Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas); RoadMap( GitHub); Gráfico de Gantt com os Marcos do Projeto; Documento de Arquitetura do Produto; Backlog do Produto; Template no (github) de Especificação das historias de usuários + critérios de aceitação; Configuração do repositório de acordo com os padrões de comunidade de software livre (ex: como contribuir, licença, código de conduta,...); Planilhas e Gráficos, Custo, Risco e Qualidade; Wiki atualizada; Protótipo de baixa e alta fidelidade; Quadros de Conhecimento e Pareamentos; Testes em nível unitário, integração e sistemas 
 
-- **Detalhamento da avaliação**: (I) Revisão do Código/entregas (15%), (II) Coerência entre a documentação e implementação (10%), (III) Plano e Monitoramento do Projeto (escopo, custo, tempo, qualidade, riscos, comunicação, pessoas+recursos) (25%), (IV) Visão do Produto + requisitos (10%), Doc. Arq (10%), (V) Orquestração do pipeline de Devops (integração) + coleta (organização da disciplina no SonarCloud) e disponibilização no repositório, (asset + diretório) das métricas de produto (a serem definidas) (30%)
+- **Detalhamento da avaliação**: (I) Revisão do Código/entregas (15%), (II) Coerência entre a documentação e implementação (10%), (III) Plano e Monitoramento do Projeto (escopo, custo, tempo, qualidade, riscos, comunicação, pessoas+recursos) (25%), (IV) Visão do Produto + requisitos (10%), Doc. Arq (10%), (V) Orquestração do pipeline de Devops (integração) + coleta (organização da disciplina no SonarCloud) e disponibilização no repositório, (asset + diretório arquivos .json) das métricas de produto (a serem definidas) (30%)
 
 ## Semana 8 - 14/09 e 16/09
 14/09 - Aula síncrona
@@ -109,7 +109,7 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 05/10 - Aula síncrona
 - Introdução e Panorama de Adoção dos Métodos Ágeis
 
-05/10 - Aula síncrona
+07/10 - Aula síncrona
 - SCRUM: artefatos, rituais, papeis
 
 ## Semana 12 -  12/10 e 14/10
@@ -138,7 +138,7 @@ Aqui serão atualizados o cronograma (data da aula), tipo de aula (sincrona/ass�
 ## Semana 15 - 02/09 e 04/09
 - 02/09 - FERIADO NACIONAL
 
-04/09 - Aula síncrona - aula síncrona no Jitsi EPS 2020-2
+04/09 - Aula síncrona
 - Engenharia de Software Contínua
 - Visão estratégica dO gerenciamento de projetos e produtos
 

@@ -14,7 +14,7 @@
 
 ## Objetivos da Disciplina
 
-Métodos de desenvolvimento de software podem ser entendidos como conjuntos estruturados de boas páaticas, podendo ser repetıveis durante o processo de produção do software.
+Métodos de desenvolvimento de software podem ser entendidos como conjuntos estruturados de boas práticas, podendo ser repetıveis durante o processo de produção do software.
 
 Nesse contexto, a disciplina Metodos de Processos de Software se faz importante para os futuros Engenheiros de Software por apresentar diferentes métodos de desenvolvimento, com enfoque especial aos diferentes ciclos de vida e técnicas de desenvolvimento de software. Os principais objetivos sao:
 
@@ -147,8 +147,8 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 
 ### Datas das Releases 1 e 2
 
-- Release 1 (major) - 30 de março de 2021
-- Release 2 (major) - 20 de maio de 2021
+- Release 1 (major) - 02 de setembro de 2021
+- Release 2 (major) - 26 de outubro de 2021
 
 ## Bibliografia Basica
 - Beck, K., Programacao Extrema (XP) Explicada, 1st ed. Bookman, 2004

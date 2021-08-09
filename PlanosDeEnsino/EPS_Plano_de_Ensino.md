@@ -4,11 +4,11 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSORES**: Carla Silva Rocha Aguiar e Hilmer Rodrigues Neri
+**PROFESSORES**: Hilmer Rodrigues Neri
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2020
+**SEMESTRE/ANO**: 01/2021
 
 ## Objetivos da Disciplina
 A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com visão e ciclo de vida do produto, o que engloba o ciclo de vida do projeto.
@@ -47,6 +47,7 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Reuniões diárias
 - Monitoramento (tracking) da iteração
 - Definindo o produto: Lean Inception
+- Visão do Produto, Objetivos do Produto, Personas, Jornada do Usuário, Brainstorming de Funcionalidades, O Sequenciador, Canvas MVP
 
 ### 05. Engenharia de Software Contínua
 - Implantação e Entrega Contínua
@@ -59,23 +60,20 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1HQn39atf4IXd2IDcCoRrd_I0KVzepEMAil2ePgWXZVI/edit#gid=0)
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1WusPbIFWdeRjavLTs-GZ13hYAuZW14v_KO3lKK10ZYc/edit#gid=0)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2020-2](https://discord.com/channels/805970484100988928/805970484100988933)
+- Canal no Discord - [unb-fga-eps-mds-2021-1](https://discord.com/channels/866867707856027688/866867707856027690)
 
 ## Aulas síncronas
 
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-2-hrn](https://meet.jit.si/eps2020-2-hrn) (Senha de entrada: informada no moodle)
-
-Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
-- prof. Hilmer - [canal de transmissão](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-2-hrn](https://meet.jit.si/eps2021-1-hrn) (Senha de entrada: informada no moodle)
+- As aulas síncronas não serão gravadas.
 
 ## Aulas assíncronas
-- profa. Carla - [Vídeos](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
 - prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
@@ -91,19 +89,17 @@ Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao lo
 
 O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho complementar, simulando uma situação real de desenvolvimento e engenharia de Produto de Software. Enquanto os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes, os alunos de EPS irão se concentrar na gestão de tarefas, distribuição de recursos, estimativas do projeto, garantindo assim a correta aplicação da metodologia de desenvolvimento contínuo e arquitetura de micro servicos. Haverá duas avaliações formais das releases a serem desenvolvidas.
 
-Haverá duas avaliações formais das releases a serem desenvolvidas.
-
 Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo:  
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 80% |
-| Avaliacao Individual  | 20% |
+| Projeto (avaliacao individual) | 75% |
+| Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao* | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
-- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do [Moodle](https://aprender3.unb.br/course/view.php?id=7041)
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a não ser o repositorio do próprio projeto. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
+- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle. (a ser informado)
+- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a não ser o repositorio do próprio projeto.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -185,15 +181,18 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
 - Atenção! O servidor de CI do Travis atingiu o limite de geração de builds a partir do repositório da disciplina. Portanto, analisem bem o risco ao tomar a decisão de utilizá-lo. Isso pode trazer restrições ao seu projeto e consequentemente virar um potencial problema.
 - O pipeline de devops desenvolvido no projeto de MDS-EPS poderá ser utilizado como projeto na disciplina de GCES. Logo, as boas práticas de gerência de configuração e mudança devem seguir as orientações da disciplina de GCES. Portanto, é importante que haja membros do time que estejam cursando CGES no semestre vigente ou que já tenham cursado.
+- Os repositórios devem ser criados na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds)
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/invitation/team/unbfgaepsmds202111846?code=64c69699e8794895a30e2f2d2e729c7d&sender=ud8413517a97742009ec54625)
+- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)  
 
 
 ## Cronograma
-O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis em [prof. Hilmer](./EPS-cronograma-2020-2-hrn.md)
+O cronograma das aulas e os detalhamento da avaliação das Releases 1 e N estão disponíveis em [prof. Hilmer](./EPS-cronograma-2020-2-hrn.md)
 
-### Datas das Releases 1 e 2
+### Datas das Releases 1 e N
 
-- Release 1 (major) - 23 de março de 2021
-- Release 2 (major) - 21 de maio de 2021
+- Release 1 (major) - 10 de setembro de 2021
+- Release N (major) - 8 de novembro de 2021
 
 
 ## Bibliografia Básica

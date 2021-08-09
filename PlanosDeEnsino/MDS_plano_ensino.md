@@ -4,11 +4,11 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSORES**: Carla Silva Rocha Aguiar e Hilmer Rodrigues Neri
+**PROFESSORES**: Hilmer Rodrigues Neri
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2020
+**SEMESTRE/ANO**: 01/2021
 
 
 
@@ -59,26 +59,19 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas profa. Carla [aqui](https://docs.google.com/spreadsheets/d/1YPoA3LXVDLI4oI6b2vU4L6YPV8zAdaxhLSVa_qjobD8/edit?usp=sharing)
-- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1HQn39atf4IXd2IDcCoRrd_I0KVzepEMAil2ePgWXZVI/edit#gid=0)
+- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1WusPbIFWdeRjavLTs-GZ13hYAuZW14v_KO3lKK10ZYc/edit#gid=0)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- profa. Carla - Grupo do telegram - [t.me/mds2020_1](t.me/mds2020_1)
-- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2020-2](https://discord.com/channels/805970484100988928/805970484100988933)
+- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2021-1](https://discord.com/channels/866867707856027688/866867707856027690)
 
 ## Aulas síncronas
-- profa. Carla - Video conferência no jitsi - [https://meet.jit.si/mds2020-1](https://meet.jit.si/mds2020-1) (Senha de entrada: codigo da disciplina)
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-2-hrn](https://meet.jit.si/mds2020-2-hrn) (Senha de entrada: informada no moodle)
-
-Todas as aulas síncronas serão gravadas e disponibilizadas em canais no YouTube 
-- profa. Carla - [canal de transmissão](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
-- prof. Hilmer - [canal do transmissão](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-2-hrn](https://meet.jit.si/mds2021-1-hrn) (Senha de entrada: informada no moodle)
+- As aulas síncronas não serão gravadas.
 
 ## Aulas assíncronas
-- profa. Carla - [Vídeos](https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
 - prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
 
 Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
@@ -101,8 +94,8 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 80% |
-| Avaliacao Individual  | 20% |
+| Projeto (avaliacao individual) | 75% |
+| Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao* | 1pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
@@ -155,16 +148,17 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues e são de responsabilidade de EPS.
 - A presença será computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
+- Os repositórios devem ser criados na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds)
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/invitation/team/unbfgaepsmds202111846?code=64c69699e8794895a30e2f2d2e729c7d&sender=ud8413517a97742009ec54625)
 
 ## Cronograma
-O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estão disponíveis:
-- [profa. Carla](./MDS-cronograma.md)
+O cronograma das aulas e os detalhamento da avaliação das Releases 1 e N estão disponíveis:
 - [prof. Hilmer](./MDS-cronograma-hrn.md)
 
-### Datas das Releases 1 e 2
+### Datas das Releases 1 e N
 
-- Release 1 (major) - 23 de março de 2021
-- Release 2 (major) - 21 de maio de 2021
+- Release 1 (major) - 10 de setembro de 2021
+- Release N (major) - 8 de novembro de 2021
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020 -- https://engsoftmoderna.info/

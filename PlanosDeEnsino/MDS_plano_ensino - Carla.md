@@ -30,7 +30,7 @@ Nesse contexto, a disciplina Metodos de Processos de Software se faz importante 
 Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de desenvolvimento de software. 	Outras abordagens de desenvolvimento de software (orientado a dados, orientado a funções, orientado a objetos,  orientado a aspectos). Ferramentas.
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1flBkIKpoJyAK8bC9UyiaNsr7qYpUnkiZZAgk578Khmo/edit#gid=0)
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1fRMzKqWOm9cWzEYJPDdl3-wLvvhfoE60wIrCY3PINW0/edit?usp=sharing)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizado tanto material assincrono quanto aulas sincronas. A presença das aulas assíncrona será realizada por meio de exercícios disponibilizado junto ao material síncrono. 

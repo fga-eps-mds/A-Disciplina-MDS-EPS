@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2021
+**SEMESTRE/ANO**: 02/2021
 
 
 
@@ -37,10 +37,10 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizado tanto m
 
 
 ## Dúvidas, conversas rápidas, avisos
-- Grupo do telegram - [https://t.me/joinchat/i_sqPd_9HMtlZmMx](https://t.me/joinchat/i_sqPd_9HMtlZmMx)
+- Grupo do telegram - [https://t.me/+D7kUanVifkk1ZjE5](https://t.me/+D7kUanVifkk1ZjE5)
 
 ## Aulas síncronas
-- Video conferência no jitsi - [https://meet.jit.si/mds2021-1](https://meet.jit.si/mds2021-1) 
+- Video conferência no jitsi - [https://meet.jit.si/mds2021-2](https://meet.jit.si/mds2021-2) 
 - Todas as aulas síncronas serão gravadas e disponibilizadas no [canal do youtube]( https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
 
 ## Aulas assíncronas
@@ -147,8 +147,8 @@ O cronograma das aulas e os detalhamento da avaliação das Releases 1 e 2 estã
 
 ### Datas das Releases 1 e 2
 
-- Release 1 (major) - 02 de setembro de 2021
-- Release 2 (major) - 26 de outubro de 2021
+- Release 1 (major) - 10 de março de 2022
+- Release 2 (major) - 26 de abril de 2022
 
 ## Bibliografia Basica
 - Beck, K., Programacao Extrema (XP) Explicada, 1st ed. Bookman, 2004

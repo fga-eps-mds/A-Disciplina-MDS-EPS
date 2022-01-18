@@ -8,14 +8,14 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2021
+**SEMESTRE/ANO**: 02/2021
 
 ## Objetivos da Disciplina
-A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com visão e ciclo de vida do produto, o que engloba o ciclo de vida do projeto.
+A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com o ciclo de vida do produto de software o que, engloba o ciclo de vida do projeto.
 
 Já a gestão de portfólios está relacionada ao gerenciamento de um conjunto de projetos. A própria natureza do software obriga que o gerenciamento de sua construção seja sistemático, de modo a controlar todas as nuances intrínsecas ao software.
 
-Esta disciplina fornecerá um curso nos níveis intermediário e avançado sobre o gerenciamento do produto de software. O objetivo é formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software. Ao final o aluno será capaz de tomar as decisões  gerenciais corretas, reunir conhecimentos a cerca de como se planejar, controlar e monitorar projetos de desenvolvimento de software, de forma a otimizar o uso dos recursos envolvidos no projeto. Dessa maneira ele atenderá as necessidades e compromissos firmados com os usuários além de garantir a qualidade do produto gerado durante o projeto.
+Esta disciplina fornecerá um curso nos níveis intermediário e avançado sobre o gerenciamento do produto de software. O objetivo é formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software. Ao final o aluno será capaz de tomar as decisões  gerenciais corretas, reunir conhecimentos a cerca de como se planejar, controlar e monitorar processos e projetos de desenvolvimento de software, bem como, garantir a qualidade do produto em suas diferentes visões (interna, externa e em uso). Dessa maneira, ele atenderá as necessidades e compromissos firmados com os usuários além, de garantir que o produto gerado a partir do projeto atenda às nececssidades do negócio.
 
 
 ## Ementa do Programa
@@ -27,56 +27,55 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 ## Descrição do Programa
 ### 01. As origens do gerenciamento
 - Apresentação da teoria da administração científica
+
 ### 02. Gerenciamento de Projetos Tradicional
 - Contextualização do gerenciamento de projetos
 - Ciclo de Vida de Projeto e Produto
 - Grupos de Processo
 - Áreas de Conhecimento
 - Planejamento, execução, monitoramento e controle de projetos
-### 03. O pensamento sistêmico e a complexidade no contexto do gerenciamento
-- Apresentação da teoria geral dos sistemas
-- Apresentação da teoria da complexidade
-- Apresentação da teoria das restrições
-### 04. Gerenciamento Ágil de Projetos
+- Métricas, Medidas e Indicadores tradicionais
+
+### 03. Gerenciamento Ágil de Projetos
 - O manifesto Ágil
-- Programação Extrema (XP) e Scrum
+- O pensamento sistêmico e a complexidade no contexto do gerenciamento
+- Definindo o produto (ou incremento): Lean Inception
+- Visão do Produto, Objetivos do Produto, Personas, Jornada do Usuário, Brainstorming de Funcionalidades, O Sequenciador, Canvas MVP
+- Programação Extrema (XP), Scrum e Lean
 - Principais Papeis
 - Ciclo de vida
 - Planejando ágil
 - Backlog do produto e backlog da iteração
-- Reuniões diárias
 - Monitoramento (tracking) da iteração
-- Definindo o produto: Lean Inception
-- Visão do Produto, Objetivos do Produto, Personas, Jornada do Usuário, Brainstorming de Funcionalidades, O Sequenciador, Canvas MVP
+- Métricas, Medidas e Indicadores ágeis
 
-### 05. Engenharia de Software Contínua
+### 04. Engenharia de Software Contínua
 - Implantação e Entrega Contínua
 - Tomada de Decisão sobre a qualidade de Produtos de Software orientada à análise contínua de dados
 - Software Analytics
 
-### 06. Gestão Estratégica de Projetos
+### 05. Gestão Estratégica de Projetos
 - Portfólios e Programas
 - Escritório de Projetos
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1WusPbIFWdeRjavLTs-GZ13hYAuZW14v_KO3lKK10ZYc/edit#gid=0)
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/19agEGSW-4UDgzW8j9bYW5TchfhYBS1pF7vxK1P-7t7k/edit?usp=sharing)
 
 # Canais de Comunicação
-Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
+Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizados junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2021-1](https://discord.com/channels/866867707856027688/866867707856027690)
+- Canal no Discord - [unb-fga-eps-mds-2021-2](https://discord.com/channels/930595255902945290/930595255902945293)
 
 ## Aulas síncronas
 
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-2-hrn](https://meet.jit.si/eps2021-1-hrn) (Senha de entrada: informada no moodle)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/eps2020-2-hrn](https://meet.jit.si/eps2021-2-hrn) (Senha de entrada: informada no moodle - [Aprender 3](https://aprender3.unb.br/course/view.php?id=12011))
 - As aulas síncronas não serão gravadas.
 
 ## Aulas assíncronas
 - prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XGq-74T8GfRqa6y2qempO_f&playnext=1&index=1)
-
-Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
+- Leituras sugeridas na sprint e video-aulas de outros professores estão disponibilizados no cronograma da disciplina.
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -85,9 +84,13 @@ A avaliação será feita por meio de:
 - MT1 a MTn: MiniTeste Individual.
 - P1: Participação em atividades da disciplina.
 
-Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao longo do semestre (número a ser definido).  A avaliação será individual e sem consulta a qualquer material didático. A duração de cada mini-teste será de 15-30 minutos,  e será realizado no início da aula. A aplicação dos mini-testes não será previamente comunicada. Além dos conteúdos apresentados em sala de aula, poderão ser propostos artigos em complemento as discussões e que também poderão ser objeto dos minitestes. Portanto, é importante manter os estudos do material teórico em dia!
+Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao longo do semestre (número a ser definido).  A avaliação será individual e sem consulta a qualquer material didático. A duração de cada mini-teste será de 15-30 minutos. A aplicação dos mini-testes não será previamente comunicada. Além dos conteúdos apresentados em sala de aula, poderão ser propostos artigos em complemento as discussões e que também poderão ser objeto dos minitestes. Portanto, é importante manter os estudos do material teórico em dia!
 
-O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho complementar, simulando uma situação real de desenvolvimento e engenharia de Produto de Software. Enquanto os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes, os alunos de EPS irão se concentrar na gestão de tarefas, distribuição de recursos, estimativas do projeto, garantindo assim a correta aplicação da metodologia de desenvolvimento contínuo e arquitetura de micro servicos. Haverá duas avaliações formais das releases a serem desenvolvidas.
+O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho prático, lidando com situações reais de desenvolvimento e gerenciamento do produto de software, em um ambiente controlado. Enquanto os alunos de MDS terão o foco em aspectos da construção (ex: especificação de requisitos, codificação e testes) os alunos de EPS terão o foco em aspectos da gestão (ex: planejamento e monitoramento do projeto, cadência do fluxo de trabalho, garantia da qualidade do produto). **ATENÇÃO: Foco != Exclusividade**
+
+Os projetos possuem usuários reais, representantes de organizações da sociedade civil ou da Administração Pública. Logo, os problemas e necessidades são reais. Contudo, são tratados de forma controlada e obedecendo aos aspectos pedagógicos. No contexto da disciplina, esses usuários e usuárias  assumem o papel de donos e donas dos produtos e também são co-responsáveis nesse processo de ensino-aprendizagem, baseado em problema, com uso de metodologias ativas.
+
+Várias releases serão entregues ao longo da disciplina das quais três representarão Major releases e as demais Minor. Porém, duas dessas major releases serão objeto de avaliação formal.
 
 Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo:  
 
@@ -99,7 +102,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle. (a ser informado)
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, a não ser o repositorio do próprio projeto.
+- **Criterio Extra de avaliacao** serão considerados  contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -132,39 +135,37 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 | **PA** - comunicacao tecnica nas issues |
 | **PA** - pull requests educativos |
 | **PA** - praticas de comunidades de software livre|
-| **SM** - Comunicacao |
-| **SM** - Indicadores e metricas de produtividade|
-| **SM** - Metas de entrega continua|
-| **SM** - Monitoramento e controle Agil|
-| **SM** - Roadmap para alcancar a produtividade maxima do time|
-| **SM** - Análise da qualidade do Produto baseada em Dados|
-| **PO** - Visao de produto|
-| **PO** - ROI - retorno de investimento|
-| **PO** - Plano de negocio - Canvas|
+| **PG** - Comunicacao |
+| **PG** - Indicadores e metricas de produtividade|
+| **PG** - Metas de entrega continua|
+| **PG** - Monitoramento e controle Agil|
+| **PG** - Roadmap para alcancar a produtividade maxima do time|
+| **PG** - Análise da qualidade do Produto baseada em Dados|
+| **PG** - Visao de produto|
+| **PG** - Plano de negocio - Canvas|
 | **PO** - Priorizacao das issues - visao de produto|
-| **PO** - Guia de usabilidade/prototipos idv - identidade visual|
-| **PO** - Roadmap de produto - MVP + Pitch de venda|
-| **DEVOPS** - Ambiente de desenvolvimento via container|
-| **DEVOPS** - gitflow|
-| **DEVOPS** - pipeline de integracao e deploy continuos|
-| **DEVOPS** - integracao continua|
-| **DEVOPS** - ambiente de homologacao/producao|
-| **DEVOPS** - Roadmap de deploy continuo|
-| **DEVOPS** - evidencia de deploy continuo|
-| **ARQ** - Levantamento de roadmao de requisitos |
-| **ARQ** - proposta de arquitetura micro servicos|
-| **ARQ** - orquestracao de containeres com micro servicos (sincronizado com devops)|
-| **AD** - orquestracao da ferramenta [SonarQube](https://www.sonarqube.org/downloads/) no pipeline (sincronizado com devops)|
-| **AD** - extração, tratamento e carga do arquivo fornecido pela ferramenta de análise estática|
-| **AD** - estimular a prática da análise de dados entre o time|
-| **AD** - orientar a prática de de tomada de decisões a partir dos dados do projeto|
+| **PG** - Guia de usabilidade/prototipos idv - identidade visual|
+| **PG** - Roadmap de produto - MVP + Pitch de venda|
+| **PD** - Ambiente de desenvolvimento via container|
+| **PD** - gitflow|
+| **PD** - pipeline de integracao e deploy continuos|
+| **PD** - integracao continua|
+| **PD** - ambiente de homologacao/producao|
+| **PG** - Roadmap de deploy continuo|
+| **PD** - evidencia de deploy continuo|
+| **PD** - Levantamento de roadmap de requisitos |
+| **PD** - proposta ou evolução da arquitetura em microsserviços|
+| **PD** - orquestracao de containeres com micro servicos (sincronizado com devops)|
+| **PG** - orquestracao da ferramenta [SonarQube](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name) nos pipelines de devops|
+| **PG** - extração, tratamento e carga do arquivo fornecido pela ferramenta de análise estática|
+| **PG** - estimular a prática da análise de dados entre o time|
+| **PG** - orientar a prática de de tomada de decisões a partir dos dados do projeto|
+| **PG** - aceitação dos requisitos por parte dos usuários|
 
 **PA** - Pratica Agil	
-**SM** - Scrum Master
+**PG** - Prática de Gestão
 **PO** - Product Owner
-**DEVOPS** - DevOps
-**ARQ** - Arquiteto
-**AD** - Analista de Dados
+**PD** - Prática de Desenvolvimento
 
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em sala.
@@ -172,27 +173,25 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
-- Os projetos sao avaliados continuamente
-- A cobertura de código deverá ser 90\%, exceto na camada de apresentação. Contudo, os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
-- O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
-- As atividades do projeto deverão ser organizadas por meio de issues e milestones.
-- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues e são de responsabilidade de EPS.
+- Os projetos sao avaliados continuamente.
+- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
+- O tamanho dos times deve respeitar o limite máximo de 11 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
+- Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios.
+- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
+- Os requisitos devem ser aceitos pelos donos/donas dos produtos.
 - A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
-- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
-- Atenção! O servidor de CI do Travis atingiu o limite de geração de builds a partir do repositório da disciplina. Portanto, analisem bem o risco ao tomar a decisão de utilizá-lo. Isso pode trazer restrições ao seu projeto e consequentemente virar um potencial problema.
-- O pipeline de devops desenvolvido no projeto de MDS-EPS poderá ser utilizado como projeto na disciplina de GCES. Logo, as boas práticas de gerência de configuração e mudança devem seguir as orientações da disciplina de GCES. Portanto, é importante que haja membros do time que estejam cursando CGES no semestre vigente ou que já tenham cursado.
-- Os repositórios devem ser criados na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds)
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/invitation/team/unbfgaepsmds202111846?code=64c69699e8794895a30e2f2d2e729c7d&sender=ud8413517a97742009ec54625)
+- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
+- Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202121686/r/1642520131691)
 - A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)  
-
 
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases 1 e N estão disponíveis em [prof. Hilmer](./EPS-cronograma-2020-2-hrn.md)
 
-### Datas das Releases 1 e N
+### Datas das Releases X e Xn
 
-- Release 1 (major) - 10 de setembro de 2021
-- Release N (major) - 8 de novembro de 2021
+- Release X  (major) - 07 à 11 de março de 2022
+- Release Xn (major) - 02 à 06 de maio de 2022
 
 
 ## Bibliografia Básica

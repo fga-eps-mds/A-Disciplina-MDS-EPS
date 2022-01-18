@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2021
+**SEMESTRE/ANO**: 02/2021
 
 
 
@@ -59,22 +59,21 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1WusPbIFWdeRjavLTs-GZ13hYAuZW14v_KO3lKK10ZYc/edit#gid=0)
+- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/19agEGSW-4UDgzW8j9bYW5TchfhYBS1pF7vxK1P-7t7k/edit?usp=sharing)
 
 # Canais de Comunicação
 Toda a disciplina será realizada de modo remoto. Serão disponibilizados tanto material assíncrono quanto aulas síncronas. A presença das aulas assíncronas será realizada por meio de exercícios disponibilizado junto ao material síncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2021-1](https://discord.com/channels/866867707856027688/866867707856027690)
+- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2021-2](https://discord.com/channels/930595255902945290/930595255902945293)
 
 ## Aulas síncronas
-- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2020-2-hrn](https://meet.jit.si/mds2021-1-hrn) (Senha de entrada: informada no moodle)
+- prof. Hilmer - Video conferência no jitsi - [https://meet.jit.si/mds2021-2-hrn](https://meet.jit.si/mds2021-2-hrn) (Senha de entrada: informada no moodle)
 - As aulas síncronas não serão gravadas.
 
 ## Aulas assíncronas
 - prof. Hilmer - [Vídeos](https://www.youtube.com/playlist?list=PLCJCA7NrZ4XHWj3p-kaz9iDaEOEHsyUAS&playnext=1&index=1)
-
-Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
+- Leituras sugeridas na sprint e video-aulas de outros professores estão disponibilizados no cronograma da disciplina.
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -82,13 +81,13 @@ A avaliação será feita por meio de:
 - MT1 a MTn: MiniTeste Individual.
 - P1: Participação em atividades da disciplina
 
-Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao longo do semestre (número a ser definido).  A avaliação será individual e sem consulta a qualquer material didático. A duração de cada mini-teste será de 15-30 minutos,  e será realizado no início da aula. A aplicação dos mini-testes não será previamente comunicada. Além dos conteúdos apresentados em sala de aula, poderão ser propostos artigos em complemento as discussões e que também poderão ser objeto dos minitestes. Portanto, é importante manter os estudos do material teórico em dia!
+Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao longo do semestre (número a ser definido). A avaliação será individual e sem consulta a qualquer material didático. A duração de cada mini-teste será de 15-30 minutos. A aplicação dos mini-testes não será previamente comunicada. Além dos conteúdos apresentados em sala de aula, poderão ser propostos artigos em complemento as discussões e que também poderão ser objeto dos minitestes. Portanto, é importante manter os estudos do material teórico em dia!
 
-Para os times formados por integrantes de MDS e EPS, o objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho complementar, simulando uma situação real de desenvolvimento  e engenharia de Produto de Software. Enquanto os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes, os alunos de EPS irão se concentrar na gestão de tarefas, distribuição de recursos, estimativas do projeto, avaliação da qualidade, garantindo assim, a correta aplicação da metodologia de desenvolvimento contínuo e arquitetura de micro servicos. 
+O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho prático, lidando com situações reais de desenvolvimento e gerenciamento do produto de software, em um ambiente controlado. Enquanto os alunos de MDS terão o foco em aspectos da construção (ex: especificação de requisitos, codificação e testes) os alunos de EPS terão o foco em aspectos da gestão (ex: planejamento e monitoramento do projeto, cadência do fluxo de trabalho, garantia da qualidade do produto). ATENÇÃO: Foco != Exclusividade
 
-Já para aquales times formados **apenas por integrantes de MDS**, o objetivo do Projeto simula uma situação real de desenvolvimento  e engenharia de Produto de Software. Os alunos de MDS irão se concentrar na execução metodologia de desenvolvimento através da especificação de requisitos, codificação e testes. 
+Os projetos possuem usuários reais, representantes de organizações da sociedade civil ou da Administração Pública. Logo, os problemas e necessidades são reais. Contudo, são tratados de forma controlada e obedecendo aos aspectos pedagógicos. No contexto da disciplina, esses usuários e usuárias assumem o papel de donos e donas dos produtos e também são co-responsáveis nesse processo de ensino-aprendizagem, baseado em problema, com uso de metodologias ativas.
 
-Haverá duas avaliações formais das releases a serem desenvolvidas.
+Várias releases serão entregues ao longo da disciplina das quais três representarão Major releases e as demais Minor. Porém, duas dessas major releases serão objeto de avaliação formal.
 
 Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo:  
 
@@ -96,11 +95,11 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | ------ | ------ |
 | Projeto (avaliacao individual) | 75% |
 | Avaliacao Individual  | 25% |
-| Criterio Extra de avaliacao* | 1pt |
+| Criterio Extra de avaliacao* | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle (a ser informado)
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para a wiki da disciplina (conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios, exceto o repositorio do próprio projeto na disciplina. Os alunos serao previamente avisados sobre o criterio de avaliacao individual adotado no semestre. 
+- **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor. 
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -136,29 +135,31 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 | PA - praticas de comunidades de software livre|
 
 ## Avisos
+## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em sala.
 - Os documentos referentes à disciplina, estarão disponíveis em: https://github.com/fga-eps-mds/A-Disciplina
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
--  O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
+- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
-- Os projetos sao avaliados continuamente
-- A cobertura de código deverá ser 90%, excetuando a camada de apresentação. Contudo, os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
-- O tamanho dos times deve respeitar o limite máximo de 10 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
-- As atividades do projeto deverão ser organizadas por meio de issues e milestones.
-- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests e issues e são de responsabilidade de EPS.
-- A presença será computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
-- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas deverão ser utilizados em observações e investigações científicas.
-- Os repositórios devem ser criados na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds)
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/invitation/team/unbfgaepsmds202111846?code=64c69699e8794895a30e2f2d2e729c7d&sender=ud8413517a97742009ec54625)
+- Os projetos sao avaliados continuamente.
+- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
+- O tamanho dos times deve respeitar o limite máximo de 11 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
+- Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios.
+- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
+- Os requisitos devem ser aceitos pelos donos/donas dos produtos.
+- A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
+- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
+- Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202121686/r/1642520131691)
+- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 
 ## Cronograma
-O cronograma das aulas e os detalhamento da avaliação das Releases 1 e N estão disponíveis:
+O cronograma das aulas e os detalhamento da avaliação das Releases X e Xn estão disponíveis:
 - [prof. Hilmer](./MDS-cronograma-hrn.md)
 
-### Datas das Releases 1 e N
-
-- Release 1 (major) - 10 de setembro de 2021
-- Release N (major) - 8 de novembro de 2021
+### Datas das Releases X e Xn
+- Release X  (major) - 07 à 11 de março de 2022
+- Release Xn (major) - 02 à 06 de maio de 2022
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Leanpub, 2020 -- https://engsoftmoderna.info/

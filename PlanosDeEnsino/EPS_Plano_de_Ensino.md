@@ -145,7 +145,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 | **PG** - Plano de negocio - Canvas|
 | **PO** - Priorizacao das issues - visao de produto|
 | **PG** - Guia de usabilidade/prototipos idv - identidade visual|
-| **PG** - Roadmap de produto - MVP + Pitch de venda|
+| **PG** - Roadmap de produto - MVP ou Incremento de Produto disponível no Zenhub do projeto|
 | **PD** - Ambiente de desenvolvimento via container|
 | **PD** - gitflow|
 | **PD** - pipeline de integracao e deploy continuos|

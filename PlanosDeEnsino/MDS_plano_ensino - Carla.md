@@ -37,18 +37,14 @@ Toda a disciplina será realizada de modo remoto. Serão disponibilizado tanto m
 
 
 ## Dúvidas, conversas rápidas, avisos
-- Grupo do telegram - [https://t.me/+D7kUanVifkk1ZjE5](https://t.me/+D7kUanVifkk1ZjE5)
-
-## Aulas síncronas
-- Video conferência no jitsi - [https://meet.jit.si/mds2021-2](https://meet.jit.si/mds2021-2) 
-- Todas as aulas síncronas serão gravadas e disponibilizadas no [canal do youtube]( https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
+- Grupo do telegram - [https://t.me/+FvNorRH9kFUzODcx](https://t.me/+FvNorRH9kFUzODcx)
 
 ## Aulas assíncronas
 - Vídeos disponibilizadas no youtube - [canal youtube] (https://www.youtube.com/channel/UC_VXpS5GIL8NdJNkwNeAorw/videos?view_as=subscriber)
 - Leituras sugeridas na sprint - disponibilizados no planejamento das aulas
 
 # Planejamento das aulas
-- O planejamento das aulas semanais, discriminando se são assíncronas ou síncronas, e qual canal vai ser atualizado no início da semana no [link](https://docs.google.com/spreadsheets/d/1flBkIKpoJyAK8bC9UyiaNsr7qYpUnkiZZAgk578Khmo/edit#gid=0) 
+- O planejamento das aulas semanais, discriminando se são assíncronas ou síncronas, e qual canal vai ser atualizado no início da semana no [link](https://docs.google.com/document/d/1CI8ty75dFyb9xw1olZELF7zkANb_POgEidcXgrMdviw/edit?usp=sharing)
 
 
 ## Descrição do Programa

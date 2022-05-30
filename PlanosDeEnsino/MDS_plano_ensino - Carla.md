@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2021
+**SEMESTRE/ANO**: 01/2022
 
 
 

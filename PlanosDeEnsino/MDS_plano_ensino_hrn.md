@@ -65,7 +65,8 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- prof. Hilmer - Canal no Discord - [unb-fga-eps-mds-2022-1](https://discord.com/channels/983525905085370368/983525905760657474)
+- Canal no Discord - [unb-fga-eps-mds-2022-1](https://discord.com/channels/983525905085370368/983525905760657474)
+- Canal no Teams - [unb-fga-eps-mds-2022-1](https://teams.microsoft.com/l/team/19%3arWTELW6RXsoFNsI0NGfWh0WQwPjnsMXpT16dy7dqXMQ1%40thread.tacv2/conversations?groupId=4c5ec55e-2d22-439a-84f8-97a6ff503471&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:

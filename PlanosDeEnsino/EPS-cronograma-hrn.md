@@ -4,18 +4,15 @@
 ## Semana 1 - 7/6 e 9/6
 - Plano de ensino da disciplina
 - Temas dos projetos no semestre
-- Ambientes de trabalho e canais de comunicação da disciplina
-
+- Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1OaqAJNCBN3DwcRo_hgrCHz1Au-9M7_crNq8cDQ9j0qM/edit?usp=sharing)
 - --
 - Ambientes de trabalho e canais de comunicação da disciplina
-- Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1OaqAJNCBN3DwcRo_hgrCHz1Au-9M7_crNq8cDQ9j0qM/edit?usp=sharing)
 - Escolha do tema
 
 ## Semana 2 - 14/6 e **16/6(Feriado Nacional)**
 - Introdução a Lean Inception - [Livro base](https://www.caroli.org/ebook-lean-inception-gratuito-para-instituicoes-de-ensino/)
 - Introdução sobre as visões filosóficas e seu reflexo na atividade de gerenenciamento
 - Reunião de Kick-off dos projetos e contato com os usuários e donos, donas dos produtos
-- --
 
 ## Semana 3 - 21/6 e 23/6
 - Introdução sobre as visões filosóficas na Engenharia de Ssoftware e seu reflexo na atividade de gerenciamento
@@ -27,23 +24,22 @@ e desenvolvimento do software. [Artigo](https://drive.google.com/file/d/1xcXtyau
 ## Semana 4 - 28/6 e 30/6
 - Gerenciamento de Projetos-GP e Visão do Produto
 - --
-- Gerenciamento de Projetos-GP
 - Área de Conhecimento Escopo
 
 ## Semana 5 - 5/7 e 7/7
-- Escopo (tradicional e ágil)
-- --
 - Escopo (tradicional e ágil) 
+- --
+- Área de Conhecimento Tempo
 
 ## Semana 6 - 12/7 e 14/7
-- Área de Conhecimento Tempo
-- --
 - Área de Conhecimento Tempo (tradicional e ágil)
+- --
+- Área de Conhecimento Custo
 
 ## Semana 7 - 19/7 e 21/7
-- Área de Conhecimento Custo
-- --
 - Área de Conhecimento Custo (tradicional e ágil)
+- --
+- Área de Conhecimento Risco
 
 ## Semana 8 - 25/7 à 29/7  - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
@@ -76,7 +72,7 @@ pessoas+recursos) (30%), (IV) Visão do Produto/Incremento + requisitos (10%), (
 e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (25%)
 
 ## Semana 9 - 2/8 e 4/8
-- Área de Conhecimento Risco
+- Prova 1
 - --
 - Área de Conhecimento Qualidade
 
@@ -117,7 +113,7 @@ ferramenta SonarQube
 - Video de apoio [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s),
 Prof. Breno França-UNICAMP
 - --
-- Buffer de Contigência
+- Prova 2
 
 ## Semana 17 - 27/9 e 29/9 - Entrega da Última Release
 - Visão estratégica do gerenciamento de projetos e produtos
@@ -149,4 +145,4 @@ repositórtio(código-fonte, releases entregues e implantadass, arquivo com mét
 código-fonte; diretório com as métricas coletadas; orquestração do pipeline de DevOps (III) Garantia da Qualidade
 do Produto: Implementação/Evoluação do notebook Analytics (20%): testes de aceitacao, tratamento das
 métricas(normalização, interpretação e agregação), análises, interpretações e gráficos estatísticos; decisões tomadas
-a partir das análises das medidas
+a partir das análises das medidas;

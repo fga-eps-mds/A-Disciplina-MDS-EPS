@@ -185,11 +185,11 @@ O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N e
 
 ### Datas das Releases
 - Release R_1 (major) - 25 à 29 de julho de 2022
-- Release R_N (major) - 26 à 29 de setembro de 2022
+- Release R_N (major) - 19 à 23 de setembro de 2022
 
 ### Datas das Provas
 - Prova 1 - 2 de agosto de 2022 (a confirmar)
-- Prova 2 - 20 de setembro de 2022 (a confirmar)
+- Prova 2 - 15 de setembro de 2022 (a confirmar)
 
 ## Bibliografia Básica
 

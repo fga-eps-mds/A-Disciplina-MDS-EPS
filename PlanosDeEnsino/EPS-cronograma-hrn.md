@@ -1,4 +1,4 @@
-## CRONOGRAMA EPS-T01
+# ## CRONOGRAMA EPS-T01
 **Observação**: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do curso.
 
 ## Semana 1 - 7/6 e 9/6
@@ -102,22 +102,16 @@ ferramenta SonarQube
 - Sistemas Kanbam
 
 ## Semana 15 - 13/9 e 15/9
-- Devops
 - Implantação e Entrega Contínua
+- Engenharia de Software Contínua
 - Video de apoio [DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k), prof. Marco Tulio-UFMG
-- --
-- Engenharia de Software Contínua
-
-## Semana 16 - 20/9 e 22/9
-- Engenharia de Software Contínua
 - Video de apoio [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s),
 Prof. Breno França-UNICAMP
 - --
 - Prova 2
 
-## Semana 17 - 27/9 e 29/9 - Entrega da Última Release
+## Semana 16 - 19/9 à 23/9  - Entrega da Última Release
 - Visão estratégica do gerenciamento de projetos e produtos
--  --
 
 - **A entrega da Release R_N (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes

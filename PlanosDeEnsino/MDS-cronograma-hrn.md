@@ -96,13 +96,7 @@
 - --
 - Desenvolvimento de software Lean: valores, princípios e práticas
 
-## Semana 16 - 20/9 e 22/9
-- Desenvolvimento de software livre/código-fonte aberto
-- Video de apoio [Contribuindo para um projeto de código-fonte Aberto](https://www.youtube.com/watch?v=UdDaeMCC0Jw&list=PLFFHHqnY3q2FReM-gw2o8qlManD709ko6&index=3&t=87s), canal BOSS
-- --
-- Buffer de Contingência
-
-## Semana 17 - 27/9 e 29/9 - Entrega da Última Release
+## Semana 16 - 19/9 à 23/9  - Entrega da Última Release
 - **A entrega da Release R_N (major)**
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO 

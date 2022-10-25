@@ -61,12 +61,10 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 # Formação das equipes
 - Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1OaqAJNCBN3DwcRo_hgrCHz1Au-9M7_crNq8cDQ9j0qM/edit#gid=0)
 
-# Canais de Comunicação
-Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
-## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2022-1](https://discord.com/channels/983525905085370368/983525905760657474)
-- Canal no Teams - [unb-fga-eps-mds-2022-1](https://teams.microsoft.com/l/team/19%3arWTELW6RXsoFNsI0NGfWh0WQwPjnsMXpT16dy7dqXMQ1%40thread.tacv2/conversations?groupId=4c5ec55e-2d22-439a-84f8-97a6ff503471&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+# Canais de Comunicação: dúvidas, conversas rápidas, avisos
+- Canal no Discord - [unb-fga-eps-mds-2022-2](https://discord.com/channels/1032851424515727451/1032851425224572960)
+- Canal no Teams - [unb-fga-eps-mds-2022-2](https://teams.microsoft.com/l/team/19%3aPYCjJoVgrMlvK9u7EYNFsC_nRsv_uH6yYV9McsoN-hk1%40thread.tacv2/conversations?groupId=23a61594-3c7a-480b-8062-c6a6a9c88ce0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:

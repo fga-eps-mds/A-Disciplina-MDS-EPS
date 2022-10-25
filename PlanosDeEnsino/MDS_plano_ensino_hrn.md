@@ -59,7 +59,7 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1OaqAJNCBN3DwcRo_hgrCHz1Au-9M7_crNq8cDQ9j0qM/edit#gid=0)
+- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit#gid=0)
 
 
 # Canais de Comunicação: dúvidas, conversas rápidas, avisos

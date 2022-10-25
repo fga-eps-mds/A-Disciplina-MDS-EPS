@@ -66,8 +66,8 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2022-1](https://discord.com/channels/983525905085370368/983525905760657474)
-- Canal no Teams - [unb-fga-eps-mds-2022-1](https://teams.microsoft.com/l/team/19%3arWTELW6RXsoFNsI0NGfWh0WQwPjnsMXpT16dy7dqXMQ1%40thread.tacv2/conversations?groupId=4c5ec55e-2d22-439a-84f8-97a6ff503471&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2022-2](https://discord.com/channels/1032851424515727451/1032851425224572960)
+- Canal no Teams - [unb-fga-eps-mds-2022-2](https://teams.microsoft.com/l/team/19%3aPYCjJoVgrMlvK9u7EYNFsC_nRsv_uH6yYV9McsoN-hk1%40thread.tacv2/conversations?groupId=23a61594-3c7a-480b-8062-c6a6a9c88ce0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -184,12 +184,12 @@ Para não haver dúvidas e questionamentos, não deixe de fechar seus pull-reque
 O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](./EPS-cronograma-hrn.md)
 
 ### Datas das Releases
-- Release R_1 (major) - 25 à 29 de julho de 2022
-- Release R_N (major) - 19 à 23 de setembro de 2022
+- Release R_1 (major) - 12 à 16 de dezembro de 2022
+- Release R_N (major) - 6 à 10 de fevereiro de 2023
 
 ### Datas das Provas
-- Prova 1 - 2 de agosto de 2022 (a confirmar)
-- Prova 2 - 15 de setembro de 2022 (a confirmar)
+- Prova 1 - 22 de dezembro de 2022
+- Prova 2 - 16 de fevereiro de 2022 
 
 ## Bibliografia Básica
 

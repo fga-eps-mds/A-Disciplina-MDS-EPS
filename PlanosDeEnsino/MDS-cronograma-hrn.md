@@ -1,55 +1,60 @@
-# CRONOGRAMA MDS-T01
+  # CRONOGRAMA MDS-T01
 **Observação**: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do curso.
 
-## Semana 1 - 7/6 e 9/6
+## Semana 1 - 25/10 e 27/10
 - Plano de ensino da disciplina
 - Temas dos projetos no semestre
-- Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1OaqAJNCBN3DwcRo_hgrCHz1Au-9M7_crNq8cDQ9j0qM/edit?usp=sharing)
+- Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit?usp=sharing)
 - --
 - Ambientes de trabalho e canais de comunicação da disciplina
 - Escolha do tema
 
-## Semana 2 - 14/6 e **16/6(Feriado Nacional)**
+## Semana 2 - 1/11 e 3/11
 - Modelos de ciclo de vida e processos de desenvolvimento de software
 
-## Semana 3 - 21/6 e 23/6
+## Semana 3 - 8/11 e 10/11
 - Modelos de ciclo de vida e processos de desenvolvimento de software
 - [Leitura Cap. 2 do livro](https://engsoftmoderna.info/cap2.html)
 - --
-- Introdução ao processo unificado
-- Fases do Processo Unificado
+- Introdução aos métodos Ágeis
+- Panorama de adoção aos métodos Ágeis
 
-## Semana 4 - 28/6 e 30/6
-- Disciplinas do Processo Unificado
+## Semana 4 - **15/11(Feriado Nacional)** e 17/11
+- Introdução ao Scrum: artefatos, papeis e práticas
+- [Guia do Scrum](https://scrumguides.org/scrum-guide.html)
+- Visão geral do [Zenhub](https://www.zenhub.com/)
 - --
-- Área de Processo Requisitos: tradicional e ágil
+- Extreme Programming: artefatos, papeis
+- [Site Extreme Programming](http://www.extremeprogramming.org/)
+
+## Semana 5 - 22/11 e 24/11
+- Extreme Programming: práticas
+- --
+- Área de Processo Requisitos
 - Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
 
-## Semana 5 - 5/7 e 7/7
-- Área de Processo Requisitos: tradicional e ágil
+## Semana 6 - 29/11 e 1/12
+- Área de Processo Requisitos
+- Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
 - --
-- Área de Processo Requisitos: tradicional e ágil
+- Área de Processo Controle de Versão
+- Práticas e políticas contribuição em repositórios de código-fonte
 
-## Semana 6 - 12/7 e 14/7
-- Área de Processo Projeto
-- Conteúdo assíncrono - [Leitura Cap. 5 do livro](https://engsoftmoderna.info/cap5.html)
+## Semana 7 - 6/12 e 8/12
+- Área de Processo Controle de Versão
+- Pull request, merge request, revisão de código-fonte, gitflow.
 - --
-- Área de Processo Projeto -> Arquitetura: tradicional e ágil
-
-## Semana 7 - 19/7 e 21/7
-- Área de Processo Projeto -> Arquitetura: tradicional e ágil
+- Área de Processo Projeto -> Arquitetura
 - Conteúdo assíncrono - [Leitura Cap. 7 do livro](https://engsoftmoderna.info/cap7.html)
-- --
-- Área de Processo Testes: tradicional e ágil
-- Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
 
-## Semana 8 - 25/7 à 29/7  - Entrega da Primeira Release
+
+## Semana 8 - 12/12 à 16/12  - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados iniciais além do planejamento do projeto
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
-  - Será gravado um video no canal do time, no teams.
+  - A apresentação será gravada no teams.
   - Tempo de apresentação: 20min
   - Duração da reunião: 1h
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
@@ -58,55 +63,61 @@
 
 - **Artefatos avaliados**: Documentos relacionados à Visão do Produto; Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas), Documento de Arquitetura do Projeto; Especificação das historias de usuários (critérios de aceitação); Configuração do repositório de acordo com os padrões de comunidade de software livre (Github); Wiki atualizada; Identidade Visual e Protótipos de alta fidelidade; repositório de código-fonte; testes unitários e de integração; Quadro de Conhecimento; Quadro de Pareamento; Participação nas reuniões
 
-- **Detalhamento da avaliação**: (I) Código-Fonte/entregas (35%): contribuições no repositório e no projeto (II) Coerência entre a documentação e implementação (5%), (III) Documentação: Visão do Produto, relacionamento e documentação das histórias de usuários (15%); (IV) Arquitetura (15%), (V) IDV + Protótipos (baixa e alta fidelidade) (15%); (VI) Casos/condições de testes e cobertura de código-fonte (15%)
+- **Detalhamento da avaliação**: (I) Código-Fonte/entregas (45%): contribuições no repositório e no projeto (II) Coerência entre a documentação e implementação (5%), (III) Visão do Produto, relacionamento e documentação das histórias de usuários, épicos e features (20%); (IV) Arquitetura (15%), (V) IDV + Protótipos (baixa e alta fidelidade) (15%)
 
-## Semana 9 - 2/8 e 4/8
-- Área de Processo Testes: tradicional e ágil
+## Semana 9 - 20/12 e 22/12
+- Área de Processo Projeto -> Arquitetura
 - --
-- Área de Processo Testes: tradicional e ágil
+- Área de Processo Testes
+- Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
+
+## Semana 10 - 3/1 e 5/1
+- Área de Processo Testes
+- --
+- Área de Processo Testes
 - Video-aula de apoio sobre [testes "mock"](https://www.youtube.com/watch?v=sJRnJcz6btA&list=PL-diSX68u5h9pxXM_P8_OeuBL7jLYQ_EB&index=9), Prof. Eduardo Guerra INPE / UNIBZ
 
-## Semana 10 - 9/8 e 11/8
+## Semana 11 - 10/1 e 12/1
+- Integração Contínua
+- --
+- Implantação Contínua
+- Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)
+
+## Semana 12 -  17/1 e 19/1
+- Entrega Contínua
+- --
 - Refatoração
 - Conteúdo [Leitura Cap. 9 do livro](https://engsoftmoderna.info/cap9.html)
-- --
+
+## Semana 13 -  24/1 e 26/1
 - Refatoração
 - Video-aula de apoio [Refatoração](https://www.youtube.com/watch?v=3ouXTIgIyxw), Prof. Eduardo Guerra INPE / UNIBZ
-
-## Semana 11 - 16/8 e 18/8
-- Introdução aos métodos Ágeis
 - --
-- Panorama de adoção aos métodos Ágeis
-
-## Semana 12 -  23/8 e 25/8
-- Extreme Programming: artefatos, práticas, papeis
-- --
-- Extreme Programming: planejamento de releases, planning poker, velocity, dia ideal de trabalho
-
-## Semana 13 -  30/8 e 1/9
-- Semana Universitária
-
-## Semana 14 - 6/9 e 8/9
-- Extreme Programming: pareamento; Propriedade Coletiva de Código-Fonte; Cliente Presente
-- --
-- Implantação e Entrega Contínua
-
-## Semana 15 - 13/9 e 15/9
+- Outros métodos e processos de desenvolvimento
 - Introdução ao desenvolvimento de software Lean
-- --
-- Desenvolvimento de software Lean: valores, princípios e práticas
 
-## Semana 16 - 19/9 à 23/9  - Entrega da Última Release
+## Semana 14 - 31/1 e 2/2
+- Desenvolvimento de software Lean: valores, princípios e práticas
+- --
+- Outros Modelos de Processo: Espiral, RAD
+
+
+## Semana 15 - 6/2 à 10/2 - Entrega da Última Release
 - **A entrega da Release R_N (major)**
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO 
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
-  - Será gravado um video no canal do time, no teams.
+  - A apresentação será gravada no teams.
   - Tempo de apresentação: 30min
   - Duração da reunião: 1:30h
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
   
 - **Peso da R_N** - 60% da nota de projeto
 
-- **Detalhe da avaliacao**:  (I) Produto entregue (60%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (20%)
+- **Detalhe da avaliacao**:  (I) Produto entregue (50%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (30%)
+
+## Semana 16 - 14/2 e 16/2
+- Outros Modelos de Processo: processo Unificado
+- --
+- Aspectos legais: patentes e licenças de código-fonte livre/aberto

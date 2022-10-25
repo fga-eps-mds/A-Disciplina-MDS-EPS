@@ -60,7 +60,7 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui]((https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit#gid=0))
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit#gid=0)
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.

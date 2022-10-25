@@ -160,8 +160,8 @@ O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N e
 - [prof. Hilmer](./MDS-cronograma-hrn.md)
 
 ### Datas das Releases
-- Release R_1 (major) - 25 à 29 de julho de 2022
-- Release R_N (major) - 26 à 29 de setembro de 2022
+- Release R_1 (major) - 12 à 16 de dezembro de 2022
+- Release R_N (major) - 6 à 10 de fevereiro de 2023
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** [Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Versão HTML, 2020](https://engsoftmoderna.info/)

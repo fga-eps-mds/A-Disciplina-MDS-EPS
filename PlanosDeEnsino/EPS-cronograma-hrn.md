@@ -1,53 +1,53 @@
 # ## CRONOGRAMA EPS-T01
 **Observação**: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do curso.
 
-## Semana 1 - 7/6 e 9/6
+## Semana 1 - 25/10 e 27/10
 - Plano de ensino da disciplina
 - Temas dos projetos no semestre
-- Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1OaqAJNCBN3DwcRo_hgrCHz1Au-9M7_crNq8cDQ9j0qM/edit?usp=sharing)
+- Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit?usp=sharing)
 - --
 - Ambientes de trabalho e canais de comunicação da disciplina
 - Escolha do tema
 
-## Semana 2 - 14/6 e **16/6(Feriado Nacional)**
+## Semana 2 - 1/11 e 3/11
 - Introdução a Lean Inception - [Livro base](https://www.caroli.org/ebook-lean-inception-gratuito-para-instituicoes-de-ensino/)
 - Introdução sobre as visões filosóficas e seu reflexo na atividade de gerenenciamento
 - Reunião de Kick-off dos projetos e contato com os usuários e donos, donas dos produtos
 
-## Semana 3 - 21/6 e 23/6
+## Semana 3 - 8/11 e 10/11
 - Introdução sobre as visões filosóficas na Engenharia de Ssoftware e seu reflexo na atividade de gerenciamento
 e desenvolvimento do software. [Artigo](https://drive.google.com/file/d/1xcXtyauJHkV6SNAzPemOHuJWJsBNspXt/view?usp=sharing)
 - --
 - Contextualização do gerenciamento de projetos e produtos
 - Ciclo de Vida do Projeto e Produto
 
-## Semana 4 - 28/6 e 30/6
+## Semana 4 - **15/11(Feriado Nacional)** e 17/11
 - Gerenciamento de Projetos-GP e Visão do Produto
 - --
 - Área de Conhecimento Escopo
 
-## Semana 5 - 5/7 e 7/7
+## Semana 5 - 22/11 e 24/11
 - Escopo (tradicional e ágil) 
 - --
-- Área de Conhecimento Tempo
+- Área de Conhecimento Tempo (tradicional e ágil)
 
-## Semana 6 - 12/7 e 14/7
+## Semana 6 - 29/11 e 1/12
 - Área de Conhecimento Tempo (tradicional e ágil)
 - --
 - Área de Conhecimento Custo
 
-## Semana 7 - 19/7 e 21/7
-- Área de Conhecimento Custo (tradicional e ágil)
+## Semana 7 - 6/12 e 8/12
+- Área de Conhecimento Custo
 - --
 - Área de Conhecimento Risco
 
-## Semana 8 - 25/7 à 29/7  - Entrega da Primeira Release
+## Semana 8 - 12/12 à 16/12  - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados iniciais além do planejamento do projeto
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
-  - Será gravado um video no canal do time, no teams.
+  - A apresentação será gravada no teams.
   - Tempo de apresentação: 20min
   - Duração da reunião: 1h
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
@@ -65,60 +65,54 @@ Protótipo de baixa e alta fidelidade; Quadros de Conhecimento e Pareamentos (MD
 Testes em nível unitário, integração e sistema; Criação ou Revisão dos pipelines de coleta e geração do arquivo
 de métricas extraídas do sonarcloud; Repositórios códido fonte e documentação
 
-- **Detalhamento da avaliação**: (I) Revisão do Código/entregas(PR's) (20%), (II) Coerência entre a documentação e
+- **Detalhamento da avaliação**: (I) Revisão do Código/entregas(PR's, testes automatizados) (25%), (II) Coerência entre a documentação e
 implementação (5%), (III) Plano e Monitoramento do Projeto (escopo, custo, tempo, qualidade, riscos, comunicação,
 pessoas+recursos) (30%), (IV) Visão do Produto/Incremento + requisitos (10%), (V) Doc. Arquitetura (10%),
 (VI) Orquestração/revisão dos pipelines de Devops (integração) + coleta (organização da disciplina no SonarCloud)
-e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (25%)
+e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (20%)
 
-## Semana 9 - 2/8 e 4/8
+## Semana 9 - 20/12 e 22/12
+- Panorama de Adoção dos Métodos Ágeis
+- SCRUM: artefatos, práticas e papeis
+- --
 - Prova 1
+## Semana 10 - 3/1 e 5/1
+- Sistemas Kanbam
 - --
-- Área de Conhecimento Qualidade
-
-## Semana 10 - 9/8 e 11/8
 - A Qualidade de Software ao longo do tempo
+
+## Semana 11 - 10/1 e 12/1
+- Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
 - --
-- ISO 25010, [Q-Rapids](https://www.q-rapids.eu/download)
+- Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
+
+## Semana 12 -  17/1 e 19/1
 - Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
 ferramenta SonarQube
-
-## Semana 11 - 16/8 e 18/8
+- --
 - Software Analytics
-- Video de Apoio [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
-- Artigo padrões para adoção de tomada de decisões por meio [Analytics](https://drive.google.com/file/d/1jrinbZfU92qtWEAcWwfKcpzf6PYjiQ-6/view?usp=sharing)
+- Video aula de Apoio [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
 
-## Semana 12 -  23/8 e 25/8
-- Panorama de Adoção dos Métodos Ágeis
+## Semana 13 -  24/1 e 26/1 
+- Padrões para adoção de tomada de decisões por meio de [Analytics](https://drive.google.com/file/d/1jrinbZfU92qtWEAcWwfKcpzf6PYjiQ-6/view?usp=sharing)
 - --
-- SCRUM: artefatos, rituais, papeis
-
-## Semana 13 -  30/8 e 1/9 
-- Semana Universitária
-
-## Semana 14 - 6/9 e 8/9
-- Desenvolvimento Lean
-- --
-- Sistemas Kanbam
-
-## Semana 15 - 13/9 e 15/9
 - Implantação e Entrega Contínua
+- Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)
+
+## Semana 14 - 31/1 e 2/2
 - Engenharia de Software Contínua
-- Video de apoio [DevOps](https://www.youtube.com/watch?v=odqn_6S-p6k), prof. Marco Tulio-UFMG
-- Video de apoio [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s),
-Prof. Breno França-UNICAMP
 - --
-- Prova 2
+- Engenharia de Software Contínua
+- Video aula de apoio [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s),
+Prof. Breno França-UNICAMP
 
-## Semana 16 - 19/9 à 23/9  - Entrega da Última Release
-- Visão estratégica do gerenciamento de projetos e produtos
-
+## Semana 15 - 6/2 à 10/2 - Entrega da Última Release
 - **A entrega da Release R_N (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
-  - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO 
+  - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO (em diferentes áreas)
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
-  - Será gravado um video no canal do time, no teams.
+  - A apresentação será gravada no teams.
   - Tempo de apresentação: 30min
   - Duração da reunião: 1:30h
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
@@ -128,15 +122,22 @@ Prof. Breno França-UNICAMP
 - **Artefatos avaliados**: Canvas MVP; Backlog do Produto Planejado X Realizado (escopo); Historias de usuários + critérios de aceitação aceitas/totais;
 Configuração do repositório de acordo com os padrões de comunidade de software livre (ex: como contribuir, licença, código de conduta,...);
 Planejado X Realizado (Custo, Risco e Qualidade); Wiki atualizada; Ambientes de homologação e testes;
-Quadros de Conhecimento e Pareamentos (MDS e EPS); Testes em nível unitário, integração e sistema; Manual de instalação do produto;
+Quadros de Conhecimento e Pareamentos (MDS e EPS); Testes em nível unitário, integração e sistema; Manual de instalação do produto para o usuário;
 Canvas Analytics
 
-- **Detalhe da avaliacao**: (I) Revisão das entregas (50%): requisitos; código-fonte; cobertura de testes;
-práticas de gerência de configuração e mudanças; Fechamento de PR's, Validação do MVP(hipóteses de negócio), 
+- **Detalhe da avaliacao**: (I) Revisão das entregas (60%): requisitos; código-fonte; cobertura de testes;
+testes de aceitacao; práticas de gerência de configuração e mudanças; Fechamento de PR's, Validação do MVP(hipóteses de negócio), 
 Manual de instalação do produto
-(II) Documentação/evidências da execução metodologia de desenvolvimento contínua (30%): Kanban; assets no
+(II) Documentação/evidências da execução metodologia de desenvolvimento contínua (20%): Quadro de tarefas; assets no
 repositórtio(código-fonte, releases entregues e implantadass, arquivo com métricas coletadas do SonarCloud);
 código-fonte; diretório com as métricas coletadas; orquestração do pipeline de DevOps (III) Garantia da Qualidade
-do Produto: Implementação/Evoluação do notebook Analytics (20%): testes de aceitacao, tratamento das
+do Produto: Implementação/Evoluação do notebook Analytics (20%): tratamento das
 métricas(normalização, interpretação e agregação), análises, interpretações e gráficos estatísticos; decisões tomadas
 a partir das análises das medidas;
+
+
+## Semana 16 - 14/2 e 16/2  
+- Visão estratégica do gerenciamento de projetos e produtos
+- --
+- Prova 2
+

@@ -1,7 +1,7 @@
 # ## CRONOGRAMA EPS-T01
 **Observação**: Este cronograma é apenas uma referência para a apresentação do conteúdo, podendo ser alterado a depender do andamento do curso.
 
-## Semana 1 - 25/10 e 27/10
+## Semana 1 - 28/3 e 30/3
 - Plano de ensino da disciplina
 - Temas dos projetos no semestre
 - Formação dos Grupos [Planilha dos times](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit?usp=sharing)
@@ -9,39 +9,45 @@
 - Ambientes de trabalho e canais de comunicação da disciplina
 - Escolha do tema
 
-## Semana 2 - 1/11 e 3/11
+## Semana 2 - 4/4 e 6/4
 - Introdução a Lean Inception - [Livro base](https://www.caroli.org/ebook-lean-inception-gratuito-para-instituicoes-de-ensino/)
 - Introdução sobre as visões filosóficas e seu reflexo na atividade de gerenenciamento
 - Reunião de Kick-off dos projetos e contato com os usuários e donos, donas dos produtos
 
-## Semana 3 - 8/11 e 10/11
+## Semana 3 - 11/4 e 13/4
 - Introdução sobre as visões filosóficas na Engenharia de Ssoftware e seu reflexo na atividade de gerenciamento
-e desenvolvimento do software. [Artigo](https://drive.google.com/file/d/1xcXtyauJHkV6SNAzPemOHuJWJsBNspXt/view?usp=sharing)
+e desenvolvimento do software. [Artigo](https://unbbr.sharepoint.com/:f:/s/unb-fga-eps-mds-2023-1/Egkf-NOVul1NlcPKpcBEFmIBuc5-VFM7TuiPAkj2p3Q0iA?e=KERIbF)
 - --
 - Contextualização do gerenciamento de projetos e produtos
 - Ciclo de Vida do Projeto e Produto
 
-## Semana 4 - **15/11(Feriado Nacional)** e 17/11
+## Semana 4 - 18/4 e 20/4
 - Gerenciamento de Projetos-GP e Visão do Produto
 - --
 - Área de Conhecimento Escopo
 
-## Semana 5 - 22/11 e 24/11
+## Semana 5 - 25/4 e 27/4
 - Escopo (tradicional e ágil) 
 - --
 - Área de Conhecimento Tempo (tradicional e ágil)
 
-## Semana 6 - 29/11 e 1/12
+## Semana 6 - 2/5 e 4/5
 - Área de Conhecimento Tempo (tradicional e ágil)
 - --
 - Área de Conhecimento Custo
 
-## Semana 7 - 6/12 e 8/12
+## Semana 7 - 9/5 e 11/5
 - Área de Conhecimento Custo
 - --
 - Área de Conhecimento Risco
 
-## Semana 8 - 12/12 à 16/12  - Entrega da Primeira Release
+## Semana 8 - 16/5 à 18/5
+- Panorama de Adoção dos Métodos Ágeis
+- SCRUM: artefatos, práticas e papeis
+- --
+- Buffer de contigência
+
+## Semana 9 - 23/5 e 25/5 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados iniciais além do planejamento do projeto
@@ -71,49 +77,48 @@ pessoas+recursos) (30%), (IV) Visão do Produto/Incremento + requisitos (10%), (
 (VI) Orquestração/revisão dos pipelines de Devops (integração) + coleta (organização da disciplina no SonarCloud)
 e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (20%)
 
-## Semana 9 - 20/12 e 22/12
-- Panorama de Adoção dos Métodos Ágeis
-- SCRUM: artefatos, práticas e papeis
-- --
+## Semana 10 - 30/5 e 1/6
 - Prova 1
-## Semana 10 - 3/1 e 5/1
-- Sistemas Kanbam
 - --
-- A Qualidade de Software ao longo do tempo
+- Sistemas Kanbam
 
-## Semana 11 - 10/1 e 12/1
+## Semana 11 - 6/6 e 8/6
+- A Qualidade de Software ao longo do tempo
 - Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
 - --
 - Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
 
-## Semana 12 -  17/1 e 19/1
+## Semana 12 - 13/6 e 15/6
 - Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
 ferramenta SonarQube
 - --
 - Software Analytics
 - Video aula de Apoio [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
 
-## Semana 13 -  24/1 e 26/1 
-- Padrões para adoção de tomada de decisões por meio de [Analytics](https://drive.google.com/file/d/1jrinbZfU92qtWEAcWwfKcpzf6PYjiQ-6/view?usp=sharing)
+## Semana 13 - 20/6 e 22/6 
+- Padrões para adoção de tomada de decisões por meio de [Analytics](https://unbbr.sharepoint.com/:f:/s/unb-fga-eps-mds-2023-1/Egkf-NOVul1NlcPKpcBEFmIBuc5-VFM7TuiPAkj2p3Q0iA?e=KERIbF)
 - --
 - Implantação e Entrega Contínua
 - Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)
 
-## Semana 14 - 31/1 e 2/2
+## Semana 14 - 27/6 e 29/6
 - Engenharia de Software Contínua
 - --
 - Engenharia de Software Contínua
 - Video aula de apoio [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s),
 Prof. Breno França-UNICAMP
 
-## Semana 15 - 6/2 à 10/2 - Entrega da Última Release
+## Semana 15 - 4/7 à 6/7
+- Visão estratégica do gerenciamento de projetos e produtos
+
+## Semana 16 - 10/7 à 14/7 - Entrega da Última Release
 - **A entrega da Release R_N (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO (em diferentes áreas)
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
   - A apresentação será gravada no teams.
-  - Tempo de apresentação: 30min
+  - Tempo de apresentação: 25min
   - Duração da reunião: 1:30h
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
   
@@ -127,7 +132,7 @@ Canvas Analytics
 
 - **Detalhe da avaliacao**: (I) Revisão das entregas (60%): requisitos; código-fonte; cobertura de testes;
 testes de aceitacao; práticas de gerência de configuração e mudanças; Fechamento de PR's, Validação do MVP(hipóteses de negócio), 
-Manual de instalação do produto
+**Relatório de Encerramento do Projeto**
 (II) Documentação/evidências da execução metodologia de desenvolvimento contínua (20%): Quadro de tarefas; assets no
 repositórtio(código-fonte, releases entregues e implantadass, arquivo com métricas coletadas do SonarCloud);
 código-fonte; diretório com as métricas coletadas; orquestração do pipeline de DevOps (III) Garantia da Qualidade
@@ -135,9 +140,7 @@ do Produto: Implementação/Evoluação do notebook Analytics (20%): tratamento 
 métricas(normalização, interpretação e agregação), análises, interpretações e gráficos estatísticos; decisões tomadas
 a partir das análises das medidas;
 
-
-## Semana 16 - 14/2 e 16/2  
-- Visão estratégica do gerenciamento de projetos e produtos
+## Semana 17 - 18/7 e 20/7
+- Buffer de contigência
 - --
 - Prova 2
-

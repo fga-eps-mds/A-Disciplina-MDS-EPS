@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2021
+**SEMESTRE/ANO**: 01/2023
 
 ## Objetivos da Disciplina
 A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com o ciclo de vida do produto de software o que, engloba o ciclo de vida do projeto.
@@ -60,14 +60,14 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit#gid=0)
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1M80T7mmnpTGDdeUvmR2EeMKVAs6wFH7NdpzfGJyrEUY/edit?usp=sharing) 
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2022-2](https://discord.com/channels/1032851424515727451/1032851425224572960)
-- Canal no Teams - [unb-fga-eps-mds-2022-2](https://teams.microsoft.com/l/team/19%3aPYCjJoVgrMlvK9u7EYNFsC_nRsv_uH6yYV9McsoN-hk1%40thread.tacv2/conversations?groupId=23a61594-3c7a-480b-8062-c6a6a9c88ce0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2023-1](https://discord.com/channels/1087854121895329893/1087854122486739059)
+- Canal no Teams - [unb-fga-eps-mds-2023-1](https://teams.microsoft.com/l/team/19%3aXaFXz61Vuf6gLefhPpWbMnb2DsUW0WT_2zQV3ysQkGI1%40thread.tacv2/conversations?groupId=98e3c5ef-76be-49f0-b5c9-5ebc9665c268&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -160,7 +160,6 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 **PD** - Prática de Desenvolvimento
 
 ## Avisos
-- [Circular no 1/2022/DEG/DPG/DAC](https://deg.unb.br/images/DEG/informativos/circulares/2022/circular_deg_dpg_dac_1_2022_orientacoes_atividades_acad%C3%AAmicas_1_2022.pdf)
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
 - Os documentos referentes à disciplina, estarão disponíveis em: https://github.com/fga-eps-mds/A-Disciplina
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
@@ -174,22 +173,24 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - A presença será  computada por meio da lista de presença.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202121686/r/1642520131691)
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202111846/rooms)
 - A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 - Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto.
 Para não haver dúvidas e questionamentos, não deixe de fechar seus pull-requests e de fazer seus commits.
 - Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, um membro de EPS deverá participar.
+- **OBS:** O relatório de encerramento do projeto deve auxiliar o time do semestre seguinte em continuar a evolução do produto. Vale 10% do total do Critério I, na R_N
+- Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](./EPS-cronograma-hrn.md)
 
 ### Datas das Releases
-- Release R_1 (major) - 12 à 16 de dezembro de 2022
-- Release R_N (major) - 6 à 10 de fevereiro de 2023
+- Release R_1 (major) - 22 à 26 de maio de 2023
+- Release R_N (major) - 10 à 14 de julho de 2023
 
 ### Datas das Provas
-- Prova 1 - 22 de dezembro de 2022
-- Prova 2 - 16 de fevereiro de 2022 
+- Prova 1 - 30 de maio de 2023
+- Prova 2 - 20 de julho de 2023 
 
 ## Bibliografia Básica
 

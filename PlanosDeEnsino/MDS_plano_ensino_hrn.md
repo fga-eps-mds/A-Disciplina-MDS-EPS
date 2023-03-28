@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2021
+**SEMESTRE/ANO**: 01/2023
 
 
 
@@ -59,12 +59,11 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1Y_kE4qCRRueApBeJHkawLx1fMQh0j11JB-qNRZJDSdU/edit#gid=0)
-
+- Planilha para definição das equipes e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1M80T7mmnpTGDdeUvmR2EeMKVAs6wFH7NdpzfGJyrEUY/edit?usp=sharing)
 
 # Canais de Comunicação: dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2022-2](https://discord.com/channels/1032851424515727451/1032851425224572960)
-- Canal no Teams - [unb-fga-eps-mds-2022-2](https://teams.microsoft.com/l/team/19%3aPYCjJoVgrMlvK9u7EYNFsC_nRsv_uH6yYV9McsoN-hk1%40thread.tacv2/conversations?groupId=23a61594-3c7a-480b-8062-c6a6a9c88ce0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - - Canal no Discord - [unb-fga-eps-mds-2023-1](https://discord.com/channels/1087854121895329893/1087854122486739059)
+- Canal no Teams - [unb-fga-eps-mds-2023-1](https://teams.microsoft.com/l/team/19%3aXaFXz61Vuf6gLefhPpWbMnb2DsUW0WT_2zQV3ysQkGI1%40thread.tacv2/conversations?groupId=98e3c5ef-76be-49f0-b5c9-5ebc9665c268&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -111,7 +110,7 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 | Wiki Atualizada	                                  |			
 | Software Implantado e Disponível para Uso	        |
 | PA - pareamento                                   |
-| PG - reuniao de planejamento da sprint            |
+| PA - reuniao de planejamento da sprint            |
 | PA - planning poker                               |
 | PA - sprint time box                              |
 | PA - participacao nas daylies                     |
@@ -119,11 +118,11 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 | PA - retrospectiva na sprint                      |
 | PA - user stories                                 |
 | PA - risco sustentavel de trabalho                |
-| PA - codigo escrito com padroes                   |
+| PD - codigo escrito com padroes                   |
 | PA - plano de comunicacao                         |
-| PA - comunicacao tecnica nas issues               |
-| PA - pull requests educativos                     |
-| PA - praticas de comunidades de software livre    |
+| PD - comunicacao tecnica nas issues               |
+| PD - pull requests educativos                     |
+| PD - praticas de comunidades de software livre    |
 | PD - Testes automatizados, em diferentes níveis   |
 | PD - Levantamento de roadmap de requisitos        |
 
@@ -133,7 +132,6 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 
 
 ## Avisos
-- [Circular no 1/2022/DEG/DPG/DAC](https://deg.unb.br/images/DEG/informativos/circulares/2022/circular_deg_dpg_dac_1_2022_orientacoes_atividades_acad%C3%AAmicas_1_2022.pdf)
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
 - Os documentos referentes à disciplina, estarão disponíveis em: https://github.com/fga-eps-mds/A-Disciplina
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
@@ -154,14 +152,15 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 Para não haver dúvidas e questionamentos, não deixe de abrir seus pull-requests e de fazer seus commits.
 - Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, faça isso com um membro de EPS.
 - Os membros de MDS devem participar da agenda da Lean Inception
+- Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
 O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis:
 - [prof. Hilmer](./MDS-cronograma-hrn.md)
 
 ### Datas das Releases
-- Release R_1 (major) - 12 à 16 de dezembro de 2022
-- Release R_N (major) - 6 à 10 de fevereiro de 2023
+- Release R_1 (major) - 22 à 26 de maio de 2023
+- Release R_N (major) - 10 à 14 de julho de 2023
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** [Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Versão HTML, 2020](https://engsoftmoderna.info/)

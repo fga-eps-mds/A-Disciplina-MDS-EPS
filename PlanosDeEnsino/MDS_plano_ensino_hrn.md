@@ -89,7 +89,8 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
 - **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle (a ser informado)
-- **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor. 
+- **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
+- **Atrasos** Os atrasos nas entregas parciais dos projetos acarretarão uma penalização de 0.25%, ao dia, da nota total do critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -155,8 +156,8 @@ Para não haver dúvidas e questionamentos, não deixe de abrir seus pull-reques
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis:
-- [prof. Hilmer](./MDS-cronograma-hrn.md)
+O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](./MDS-cronograma-hrn.md)
+- Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
 - Release R_1 (major) - 22 à 26 de maio de 2023

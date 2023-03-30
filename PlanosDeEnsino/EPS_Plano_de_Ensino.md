@@ -95,6 +95,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 - **Provas** será realizada por meio de provas no ambiente do Moodle (a ser informado). A nota é definida pela média
 aritmética entre as duas provas.
 - **Criterio Extra de avaliacao** serão considerados  contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
+- **Atrasos** Os atrasos nas entregas parciais dos projetos acarretarão uma penalização de 0.25%, ao dia, da nota total, em seu critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -166,7 +167,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
 - A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação.
-- O tamanho dos times deve respeitar o limite máximo de 11 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
+- O tamanho dos times deve respeitar o limite máximo de 18 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
 - Os requisitos devem ser aceitos pelos donos/donas dos produtos.
@@ -182,7 +183,8 @@ Para não haver dúvidas e questionamentos, não deixe de fechar seus pull-reque
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](./EPS-cronograma-hrn.md)
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](./EPS-cronograma-hrn.md)
+- Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
 - Release R_1 (major) - 22 à 26 de maio de 2023

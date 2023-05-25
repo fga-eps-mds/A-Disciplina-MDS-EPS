@@ -50,6 +50,26 @@ e desenvolvimento do software. [Artigo](https://unbbr.sharepoint.com/:f:/s/unb-f
 ## Semana 9 - 23/5 e 25/5 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
+- --
+- Área de Conhecimento Custo
+- --
+- Área de Conhecimento Risco
+
+## Semana 10 - 30/5 e 1/6
+- Prova 1
+- --
+- Sistemas Kanbam
+
+## Semana 11 - 6/6 e 8/6
+- A Qualidade de Software ao longo do tempo
+- Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
+- --
+- Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
+- Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
+ferramenta SonarQube
+
+## Semana 12 - 13/6 e 15/6
+- **Avaliação da entrega da Release R_1 (major)**
   - Apresentação dos resultados iniciais além do planejamento do projeto
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
@@ -76,27 +96,12 @@ implementação (5%), (III) Plano e Monitoramento do Projeto (escopo, custo, tem
 pessoas+recursos) (30%), (IV) Visão do Produto/Incremento + requisitos (10%), (V) Doc. Arquitetura (10%),
 (VI) Orquestração/revisão dos pipelines de Devops (integração) + coleta (organização da disciplina no SonarCloud)
 e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (20%)
-
-## Semana 10 - 30/5 e 1/6
-- Prova 1
-- --
-- Sistemas Kanbam
-
-## Semana 11 - 6/6 e 8/6
-- A Qualidade de Software ao longo do tempo
-- Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
-- --
-- Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
-
-## Semana 12 - 13/6 e 15/6
-- Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
-ferramenta SonarQube
-- --
+ 
+  
+## Semana 13 - 20/6 e 22/6
 - Software Analytics
-- Video aula de Apoio [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
-
-## Semana 13 - 20/6 e 22/6 
 - Padrões para adoção de tomada de decisões por meio de [Analytics](https://unbbr.sharepoint.com/:f:/s/unb-fga-eps-mds-2023-1/Egkf-NOVul1NlcPKpcBEFmIBuc5-VFM7TuiPAkj2p3Q0iA?e=KERIbF)
+- Video aula de Apoio [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
 - --
 - Implantação e Entrega Contínua
 - Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)

@@ -37,23 +37,38 @@
 - Área de Processo Requisitos
 - Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
 - --
+- Área de Processo Requisitos
+- Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
+
+## Semana 7 - 9/5 e 11/5
+- Integração Contínua
+- --
 - Área de Processo Controle de Versão
 - Práticas e políticas contribuição em repositórios de código-fonte
 
-## Semana 7 - 9/5 e 11/5
+## Semana 8 - 16/5 à 18/5
 - Área de Processo Controle de Versão
 - Pull request, merge request, revisão de código-fonte, gitflow.
-- --
-- Área de Processo Projeto -> Arquitetura
-- Conteúdo assíncrono - [Leitura Cap. 7 do livro](https://engsoftmoderna.info/cap7.html)
-
-
-## Semana 8 - 16/5 à 18/5
-
 
 ## Semana 9 - 23/5 e 25/5 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
+- --
+- Área de Processo Projeto -> Arquitetura
+- Conteúdo assíncrono - [Leitura Cap. 7 do livro](https://engsoftmoderna.info/cap7.html)
+
+## Semana 10 - 30/5 e 1/6
+- Área de Processo Testes
+- Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
+
+## Semana 11 - 6/6 e 8/6
+- Área de Processo Testes
+- --
+- Área de Processo Testes
+- Video-aula de apoio sobre [testes "mock"](https://www.youtube.com/watch?v=sJRnJcz6btA&list=PL-diSX68u5h9pxXM_P8_OeuBL7jLYQ_EB&index=9), Prof. Eduardo Guerra INPE / UNIBZ
+
+## Semana 12 - 13/6 e 15/6
+- **Avaliação da entrega da Release R_1 (major)**
   - Apresentação dos resultados iniciais além do planejamento do projeto
   - Acontecerão no horário da reunião semanal de cada time.
   - Todos os integrantes do time devem participar.
@@ -68,32 +83,15 @@
 
 - **Detalhamento da avaliação**: (I) Código-Fonte/entregas (45%): contribuições no repositório e no projeto (II) Coerência entre a documentação e implementação (5%), (III) Visão do Produto, relacionamento e documentação das histórias de usuários, épicos e features (20%); (IV) Arquitetura (15%), (V) IDV + Protótipos (baixa e alta fidelidade) (15%)
 
-## Semana 10 - 30/5 e 1/6
-- Área de Processo Projeto -> Arquitetura
-- --
-- Área de Processo Testes
-- Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
-
-## Semana 11 - 6/6 e 8/6
-- Área de Processo Testes
-- --
-- Área de Processo Testes
-- Video-aula de apoio sobre [testes "mock"](https://www.youtube.com/watch?v=sJRnJcz6btA&list=PL-diSX68u5h9pxXM_P8_OeuBL7jLYQ_EB&index=9), Prof. Eduardo Guerra INPE / UNIBZ
-
-## Semana 12 - 13/6 e 15/6
-- Integração Contínua
+## Semana 13 - 20/6 e 22/6 
+- Entrega Contínua
 - --
 - Implantação Contínua
 - Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)
 
-## Semana 13 - 20/6 e 22/6 
-- Entrega Contínua
-- --
-- Refatoração
-- Conteúdo [Leitura Cap. 9 do livro](https://engsoftmoderna.info/cap9.html)
-
 ## Semana 14 - 27/6 e 29/6
 - Refatoração
+- Conteúdo [Leitura Cap. 9 do livro](https://engsoftmoderna.info/cap9.html)
 - Video-aula de apoio [Refatoração](https://www.youtube.com/watch?v=3ouXTIgIyxw), Prof. Eduardo Guerra INPE / UNIBZ
 - --
 - Outros métodos e processos de desenvolvimento

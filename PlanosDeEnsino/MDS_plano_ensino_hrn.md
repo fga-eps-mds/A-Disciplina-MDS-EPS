@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2023
+**SEMESTRE/ANO**: 02/2023
 
 
 
@@ -59,11 +59,11 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição das equipes e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1M80T7mmnpTGDdeUvmR2EeMKVAs6wFH7NdpzfGJyrEUY/edit?usp=sharing)
+- Planilha para definição das equipes e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1nSZfWB3GiPbwuOocP_zpkhe3ayVQ4p-E9-XaP-I1GiU/edit#gid=0)
 
 # Canais de Comunicação: dúvidas, conversas rápidas, avisos
-- Canal no Discord - - Canal no Discord - [unb-fga-eps-mds-2023-1](https://discord.com/channels/1087854121895329893/1087854122486739059)
-- Canal no Teams - [unb-fga-eps-mds-2023-1](https://teams.microsoft.com/l/team/19%3aXaFXz61Vuf6gLefhPpWbMnb2DsUW0WT_2zQV3ysQkGI1%40thread.tacv2/conversations?groupId=98e3c5ef-76be-49f0-b5c9-5ebc9665c268&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - - Canal no Discord - [unb-fga-eps-mds-2023-2](https://discord.com/channels/1144345998341197834/1144345998911606805)
+- Canal no Teams - [unb-fga-eps-mds-2023-2](https://teams.microsoft.com/l/team/19%3areuoDE60YwRcIgYsGTcAy3OTisqTYMn1GUu878zi5Zk1%40thread.tacv2/conversations?groupId=f080a481-b7a2-41a8-b619-db73a91829e0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -88,9 +88,9 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Criterio Extra de avaliacao* | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
-- **Avaliacao Individual** será realizada por meio de mini-testes no ambiente do Moodle (a ser informado)
+- **Avaliacao Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
-- **Atrasos** Os atrasos nas entregas parciais dos projetos acarretarão uma penalização de 0.25%, ao dia, da nota total do critério de avaliação correspondente.
+- **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -134,7 +134,7 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
-- Os documentos referentes à disciplina, estarão disponíveis em: https://github.com/fga-eps-mds/A-Disciplina
+- Os documentos referentes à disciplina, estarão disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
@@ -147,10 +147,10 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 - A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202121686/r/1642520131691)
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202111846/home)
 - A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 - Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto. 
-Para não haver dúvidas e questionamentos, não deixe de abrir seus pull-requests e de fazer seus commits.
+- [ATENÇÃO] Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
 - Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, faça isso com um membro de EPS.
 - Os membros de MDS devem participar da agenda da Lean Inception
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
@@ -160,8 +160,8 @@ O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N e
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
-- Release R_1 (major) - 22 à 26 de maio de 2023
-- Release R_N (major) - 10 à 14 de julho de 2023
+- Release R_1 (major) - 23 à 27 de outubro de 2023
+- Release R_N (major) - 12 à 14 de dezembro de 2023
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** [Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Versão HTML, 2020](https://engsoftmoderna.info/)

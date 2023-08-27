@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2023
+**SEMESTRE/ANO**: 02/2023
 
 ## Objetivos da Disciplina
 A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com o ciclo de vida do produto de software o que, engloba o ciclo de vida do projeto.
@@ -60,20 +60,20 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1M80T7mmnpTGDdeUvmR2EeMKVAs6wFH7NdpzfGJyrEUY/edit?usp=sharing) 
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1nSZfWB3GiPbwuOocP_zpkhe3ayVQ4p-E9-XaP-I1GiU/edit#gid=0) 
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2023-1](https://discord.com/channels/1087854121895329893/1087854122486739059)
-- Canal no Teams - [unb-fga-eps-mds-2023-1](https://teams.microsoft.com/l/team/19%3aXaFXz61Vuf6gLefhPpWbMnb2DsUW0WT_2zQV3ysQkGI1%40thread.tacv2/conversations?groupId=98e3c5ef-76be-49f0-b5c9-5ebc9665c268&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2023-2](https://discord.com/channels/1144345998341197834/1144345998911606805)
+- Canal no Teams - [unb-fga-eps-mds-2023-2](https://teams.microsoft.com/l/team/19%3areuoDE60YwRcIgYsGTcAy3OTisqTYMn1GUu878zi5Zk1%40thread.tacv2/conversations?groupId=f080a481-b7a2-41a8-b619-db73a91829e0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
 - EP1 a EPn: Entregas do Projeto.
-- PRV1 e PRV2: Provas 
-- P1: Participação em atividades da disciplina e do projeto.
+- MT1 a MTn: MiniTeste Individual.
+- P1: Participação em atividades da disciplina
 
 Para avaliar o desempenho nas aulas teóricas, serão aplicadas duas provas ao longo do semestre. A avaliação será individual e sem consulta a qualquer material didático.
 
@@ -88,14 +88,13 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Evento da Avaliacao            | Peso |
 |--------------------------------| ------ |
 | Projeto (avaliacao individual) | 75% |
-| Provas                         | 25% |
+| Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao*   | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
-- **Provas** será realizada por meio de provas no ambiente do Moodle (a ser informado). A nota é definida pela média
-aritmética entre as duas provas.
-- **Criterio Extra de avaliacao** serão considerados  contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
-- **Atrasos** Os atrasos nas entregas parciais dos projetos acarretarão uma penalização de 0.25%, ao dia, da nota total, em seu critério de avaliação correspondente.
+- **Avaliacao Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
+- **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
+- **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -162,7 +161,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
-- Os documentos referentes à disciplina, estarão disponíveis em: https://github.com/fga-eps-mds/A-Disciplina
+- Os documentos referentes à disciplina, estarão disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
@@ -174,10 +173,10 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - A presença será  computada por meio da lista de presença.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202111846/rooms)
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202111846/home)
 - A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 - Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto.
-Para não haver dúvidas e questionamentos, não deixe de fechar seus pull-requests e de fazer seus commits.
+- [ATENÇÃO] Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
 - Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, um membro de EPS deverá participar.
 - **OBS:** O relatório de encerramento do projeto deve auxiliar o time do semestre seguinte em continuar a evolução do produto. Vale 10% do total do Critério I, na R_N
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
@@ -187,12 +186,8 @@ Para não haver dúvidas e questionamentos, não deixe de fechar seus pull-reque
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
-- Release R_1 (major) - 22 à 26 de maio de 2023
-- Release R_N (major) - 10 à 14 de julho de 2023
-
-### Datas das Provas
-- Prova 1 - 30 de maio de 2023
-- Prova 2 - 20 de julho de 2023 
+- Release R_1 (major) - 23 à 27 de outubro de 2023
+- Release R_N (major) - 12 à 14 de dezembro de 2023
 
 ## Bibliografia Básica
 

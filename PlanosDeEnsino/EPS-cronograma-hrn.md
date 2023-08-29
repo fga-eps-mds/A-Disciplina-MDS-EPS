@@ -52,26 +52,7 @@ e desenvolvimento do software. [Artigo](https://unbbr.sharepoint.com/:b:/s/EPS-M
 ## Semana 9 - 24/10 e 26/10 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
-- --
-- Área de Conhecimento Custo
-- --
-- Área de Conhecimento Risco
-
-## Semana 10 - 31/10 e 2/11 (FERIADO NACIONAL)
-- Sistemas Kanbam
-- --
-- A Qualidade de Software ao longo do tempo
-- Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
-
-
-## Semana 11 - 7/11 e 9/11
-- Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
-- --
-- Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
-- Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
-ferramenta SonarQube
-
-## Semana 12 - 14/11 e 16/11
+- 
 - **Avaliação da entrega da Release R_1 (major)**
   - Apresentação dos resultados iniciais além do planejamento do projeto
   - Acontecerão no horário da reunião semanal de cada time.
@@ -83,24 +64,22 @@ ferramenta SonarQube
 
 - **Peso da R_1** - 40% da nota de projeto
 
-- **Principais Artefatos avaliados**: Visão do Produto/Incremento Produto e Canvas MVP; Planejamento, 
-Comunicação (Interna e Externa). Agenda de trabalho e ferramentas; RoadMap do Projeto no ZenHub (escopo e tempo);
-Gráfico de Gantt com os Marcos do Projeto, no ZenHub; Definição/Atualização do Documento de Arquitetura do Produto;
-Backlog inicial do Produto / Incremento Produto(inclui o mapeamento e correções dos defeitos);
-Template no github de Especificação das historias de usuários + critérios de aceitação e defeitos-melhoria (incremento);
-Configuração/Revisão do repositório de acordo com os padrões de comunidade de software livre (ex: como contribuir,
-licença, código de conduta,...); Planilhas e Gráficos, Custo, Risco e Qualidade; Wiki atualizada;
-Protótipo de baixa e alta fidelidade; Quadros de Conhecimento e Pareamentos (MDS e EPS);
-Testes em nível unitário, integração e sistema; Criação ou Revisão dos pipelines de coleta e geração do arquivo
-de métricas extraídas do sonarcloud; Repositórios códido fonte e documentação
+## Semana 10 - 31/10 e 2/11 (FERIADO NACIONAL)
+- Sistemas Kanbam
+- --
+- Sistemas Kanbam
 
-- **Detalhamento da avaliação**: (I) Revisão do Código/entregas(PR's, testes automatizados) (25%), (II) Coerência entre a documentação e
-implementação (5%), (III) Plano e Monitoramento do Projeto (escopo, custo, tempo, qualidade, riscos, comunicação,
-pessoas+recursos) (30%), (IV) Visão do Produto/Incremento + requisitos (10%), (V) Doc. Arquitetura (10%),
-(VI) Orquestração/revisão dos pipelines de Devops (integração) + coleta (organização da disciplina no SonarCloud)
-e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (20%)
- 
-  
+## Semana 11 - 7/11 e 9/11
+- A Qualidade de Software ao longo do tempo
+- --
+- Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
+
+## Semana 12 - 14/11 e 16/11
+- Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
+- --
+- Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
+ferramenta SonarQube
+
 ## Semana 13 - 21/11 e 23/11
 - Software Analytics
 - Padrões para adoção de tomada de decisões por meio de [Analytics](https://unbbr.sharepoint.com/:b:/s/EPS-MDS-2023-2/EfFaLN_D6NxMmjoK38Auf0oBj86LKaqTJF1TwllWrS_KwA?e=my9BRp)

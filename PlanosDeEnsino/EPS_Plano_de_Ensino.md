@@ -92,7 +92,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Criterio Extra de avaliacao*   | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto.
-- **Avaliacao Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
+- **Avaliacao Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 

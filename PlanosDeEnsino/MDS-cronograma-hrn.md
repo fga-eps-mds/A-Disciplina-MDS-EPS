@@ -50,7 +50,7 @@
 - Área de Processo Controle de Versão
 - Pull request, merge request, revisão de código-fonte, gitflow.
 
-## Semana 9 - 24/10 e 26/10 - Entrega da Primeira Release
+## Semana 9 - 23/10 à 27/10 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
 - --
@@ -102,7 +102,7 @@
 - --
 - Outros Modelos de Processo: Espiral, RAD
 
-## Semana 16 - 12/12 e 14/12 - Entrega da Última Release
+## Semana 16 - 11/12 à 15/12 - Entrega da Última Release
 - **A entrega da Release R_N (major)**
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO 

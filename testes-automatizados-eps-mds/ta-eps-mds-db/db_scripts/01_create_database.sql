@@ -1,6 +1,6 @@
 CREATE DATABASE ta_eps_mds;
 
-\c ta_eps_mds;  -- Connect to the new database
+\c ta_eps_mds;
 
 CREATE TABLE usuario (
      nome VARCHAR(50) UNIQUE NOT NULL,

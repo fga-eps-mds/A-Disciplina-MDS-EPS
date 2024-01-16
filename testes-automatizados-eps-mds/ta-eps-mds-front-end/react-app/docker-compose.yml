@@ -1,0 +1,17 @@
+version: "3.4"
+services:
+  ta-eps-mds-react-front:
+    build: .
+    image: ta-eps-mds-react-front:latest
+    container_name: ta-eps-mds-front
+    ports:
+      - "3000:3000"
+    working_dir: /srv/app
+    volumes:
+      - type: bind
+        source: ./
+        target: /srv/app
+    tty: true
+    environment:
+      - TZ=America/Sao_Paulo
+    command: npm run dev

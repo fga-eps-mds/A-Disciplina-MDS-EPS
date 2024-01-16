@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  djangoapp:
+    container_name: djangoapp
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - DEBUG=1
+      - DB_NAME=ta_eps_mds
+      - DB_USER=postgres
+      - DB_PASS=postgres
+      - DB_HOST=db
+      - DB_PORT=5432
+
+volumes:
+  postgres_data:
+
+networks:
+  default:
+    external: true
+    name: ta_eps_mds_network

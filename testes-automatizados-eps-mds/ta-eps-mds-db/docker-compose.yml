@@ -1,0 +1,21 @@
+version: "3.3"
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: db-ta-eps-mds
+    volumes:
+      - ./data/db:/var/lib/postgresql/data
+      - ./db_scripts/01_create_database.sql:/docker-entrypoint-initdb.d/01_create_database.sql
+#      - ./db_scripts/02_create_tables.sh:/docker-entrypoint-initdb.d/02_create_tables.sh
+    restart: always
+    ports:
+      - 5432:5432
+    env_file:
+      - .env
+
+networks:
+  default:
+    external: true
+    name: ta_eps_mds_network
+

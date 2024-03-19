@@ -8,14 +8,14 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2023
+**SEMESTRE/ANO**: 01/2024
 
 ## Objetivos da Disciplina
 A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com o ciclo de vida do produto de software o que, engloba o ciclo de vida do projeto.
 
 Já a gestão de portfólios está relacionada ao gerenciamento de um conjunto de projetos. A própria natureza do software obriga que o gerenciamento de sua construção seja sistemático, de modo a controlar todas as nuances intrínsecas ao software.
 
-Esta disciplina fornecerá um curso nos níveis intermediário e avançado sobre o gerenciamento do produto de software. O objetivo é formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software. Ao final o aluno será capaz de tomar as decisões  gerenciais corretas, reunir conhecimentos a cerca de como se planejar, controlar e monitorar processos e projetos de desenvolvimento de software, bem como, garantir a qualidade do produto em suas diferentes visões (interna, externa e em uso). Dessa maneira, ele atenderá as necessidades e compromissos firmados com os usuários além, de garantir que o produto gerado a partir do projeto atenda às nececssidades do negócio.
+Esta disciplina fornecerá um curso nos níveis intermediário e avançado sobre o gerenciamento do produto de software, em ambiente real. O objetivo é formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software. Ao final o aluno será capaz de tomar as decisões  gerenciais corretas, reunir conhecimentos a cerca de como se planejar, controlar e monitorar produto, processo e projeto de desenvolvimento de software, bem como, garantir a qualidade do produto em suas diferentes visões (interna, externa e em uso). Dessa maneira, ele atenderá as necessidades e compromissos firmados com os usuários além, de garantir que o produto gerado a partir do projeto atenda às nececssidades do negócio. Trata-se de uma disciplina com caráter extensionista.
 
 
 ## Ementa do Programa
@@ -60,14 +60,15 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1nSZfWB3GiPbwuOocP_zpkhe3ayVQ4p-E9-XaP-I1GiU/edit#gid=0) 
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/14-rHSwl7exlyGkFU5kVT3WB9xTZa-j9XV1jMX1RVFVw/edit#gid=0) 
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2023-2](https://discord.com/channels/1144345998341197834/1144345998911606805)
-- Canal no Teams - [unb-fga-eps-mds-2023-2](https://teams.microsoft.com/l/team/19%3areuoDE60YwRcIgYsGTcAy3OTisqTYMn1GUu878zi5Zk1%40thread.tacv2/conversations?groupId=f080a481-b7a2-41a8-b619-db73a91829e0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2024-1](https://discord.com/channels/1217493595808989386/1217493596303921263)
+- Canal no Teams - [unb-fga-eps-mds-2024-1](https://teams.microsoft.com/l/team/19%3AWM5JKlQcY63hy6qZIM1FqCdIbLg3mJJ9WG_qkw6ugFk1%40thread.tacv2/conversations?groupId=f71c21d9-efad-447d-b119-799970b68c02&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -91,7 +92,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao*   | 1 pt |
 
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto.
+- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](./EPS-cronograma-hrn.md) da disciplina.
 - **Avaliacao Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
@@ -161,15 +162,15 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
-- Os documentos referentes à disciplina, estarão disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
+- A maior parte do material relacionado a disciplina, está disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
-- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
+- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
-- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação.
-- O tamanho dos times deve respeitar o limite máximo de 18 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
+- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação e aceitos pelos usuários.
+- O tamanho dos times deve respeitar o limite máximo de 12-13 membros. A configuração dos times está disponível [aqui.](https://docs.google.com/spreadsheets/d/14-rHSwl7exlyGkFU5kVT3WB9xTZa-j9XV1jMX1RVFVw/edit#gid=1744345250)
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
-- Os requisitos devem ser aceitos pelos donos/donas dos produtos.
+- Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
 - A presença será  computada por meio da lista de presença.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
@@ -186,8 +187,8 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
-- Release R_1 (major) - 23 à 27 de outubro de 2023
-- Release R_N (major) - 12 à 14 de dezembro de 2023
+- Release R_1 (major) - 13 a 17 de maio de 2024 (dia e horário a confirmar)
+- Release R_N (major) - 1  a 5  de julho de 2024 (dia e horário a confirmar)
 
 ## Bibliografia Básica
 

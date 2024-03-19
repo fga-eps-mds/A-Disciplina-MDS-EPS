@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2023
+**SEMESTRE/ANO**: 01/2024
 
 
 
@@ -20,7 +20,7 @@ Nesse contexto, a disciplina Metodos de Processos de Software se faz importante 
 
 - Capacitar o aluno a compreender os diferentes métodos, ferramentas, procedimentos e paradigmas de desenvolvimento de software.
 
-- Capacitar o aluno a aplicar / adaptar processos de desenvolvimento de software a resolucao de problemas de software.
+- Capacitar o aluno a aplicar / adaptar processos de desenvolvimento de software a resolucao de problemas de software, am ambiente real. Trata-se de uma disciplina com caráter extensionista.
 
 - Capacitar os estudantes para construírem sistemas complexos e distribuídos, utilizando metodologias de desenvolvimento e tecnologias web / mobile atuais.
 
@@ -59,11 +59,11 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição das equipes e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1nSZfWB3GiPbwuOocP_zpkhe3ayVQ4p-E9-XaP-I1GiU/edit#gid=0)
+- Planilha para definição das equipes e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/14-rHSwl7exlyGkFU5kVT3WB9xTZa-j9XV1jMX1RVFVw/edit#gid=0)
 
 # Canais de Comunicação: dúvidas, conversas rápidas, avisos
-- Canal no Discord - - Canal no Discord - [unb-fga-eps-mds-2023-2](https://discord.com/channels/1144345998341197834/1144345998911606805)
-- Canal no Teams - [unb-fga-eps-mds-2023-2](https://teams.microsoft.com/l/team/19%3areuoDE60YwRcIgYsGTcAy3OTisqTYMn1GUu878zi5Zk1%40thread.tacv2/conversations?groupId=f080a481-b7a2-41a8-b619-db73a91829e0&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - Canal no Discord - [unb-fga-eps-mds-2024-1](https://discord.com/channels/1217493595808989386/1217493596303921263)
+- Canal no Teams - [unb-fga-eps-mds-2024-1](https://teams.microsoft.com/l/team/19%3AWM5JKlQcY63hy6qZIM1FqCdIbLg3mJJ9WG_qkw6ugFk1%40thread.tacv2/conversations?groupId=f71c21d9-efad-447d-b119-799970b68c02&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -87,7 +87,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao* | 1 pt |
 
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto.
+- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](./MDS-cronograma-hrn.md) da disciplina.
 - **Avaliacao Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
@@ -136,14 +136,14 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
 - Os documentos referentes à disciplina, estarão disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
-- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
+- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
 - Os projetos são avaliados continuamente.
 - A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
 - O tamanho dos times deve respeitar o limite máximo de 11 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
-- Os requisitos devem ser aceitos pelos donos/donas dos produtos. Isso delimita o conceito de pronto. 
+- Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos. 
 - A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
@@ -160,8 +160,8 @@ O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N e
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
-- Release R_1 (major) - 23 à 27 de outubro de 2023
-- Release R_N (major) - 12 à 14 de dezembro de 2023
+- Release R_1 (major) - 13 a 17 de maio de 2024 (dia e horário a confirmar)
+- Release R_N (major) - 1  a 5  de julho de 2024 (dia e horário a confirmar)
 
 ## Bibliografia Básica:
 - **[PRINCIPAL]** [Valente M.T., Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Versão HTML, 2020](https://engsoftmoderna.info/)

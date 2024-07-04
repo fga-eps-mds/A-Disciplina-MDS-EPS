@@ -27,30 +27,30 @@
 - Extreme Programming: artefatos, papeis
 - [Site Extreme Programming](http://www.extremeprogramming.org/)
 
-## Semana 5 - 16/4 e 18/4
+## Semana 5 - 27/6
 - Extreme Programming: práticas
 - --
 - Área de Processo Requisitos
 - Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
 
-## Semana 6 - 23/4 e 25/4
+## Semana 6 - 2/7 e 4/7
 - Área de Processo Requisitos
 - Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
 - --
 - Área de Processo Requisitos
 - Conteúdo assíncrono - [Leitura Cap. 3 do livro](https://engsoftmoderna.info/cap3.html)
 
-## Semana 7 - 30/4 e 2/5
+## Semana 7 - 9/7 e 11/7
 - Integração Contínua
 - --
 - Área de Processo Controle de Versão
 - Práticas e políticas contribuição em repositórios de código-fonte
 
-## Semana 8 - 7/5 e 9/5
+## Semana 8 - 16/7 e 18/7
 - Área de Processo Controle de Versão
 - Pull request, merge request, revisão de código-fonte, gitflow.
 
-## Semana 9 - 13/5 a 17/5 - Entrega da Primeira Release
+## Semana 9 - 22/7 a 26/7 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
 
@@ -69,27 +69,27 @@
 
 - **Detalhamento da avaliação**: (I) Código-Fonte/entregas (45%): contribuições no repositório e no projeto (II) Coerência entre a documentação e implementação (5%), (III) Visão do Produto, relacionamento e documentação das histórias de usuários, épicos e features (20%); (IV) Arquitetura (15%), (V) IDV + Protótipos (baixa e alta fidelidade) (15%)
 
-## Semana 10 - 21/5 e 23/5
+## Semana 10 - 30/7 e 1/8
 - Área de Processo Projeto -> Arquitetura
 - Conteúdo assíncrono - [Leitura Cap. 7 do livro](https://engsoftmoderna.info/cap7.html)
 
-## Semana 11 - 28/5 e 30/5
+## Semana 11 - 6/8 e 8/8
 - Área de Processo Testes
 - Conteúdo assíncrono - [Leitura Cap. 8 do livro](https://engsoftmoderna.info/cap8.html)
 
-## Semana 12 - 4/6 e 6/6
+## Semana 12 - 13/8 e 15/8
 - Área de Processo Testes
 - --
 - Área de Processo Testes
 - Video-aula de apoio sobre [testes "mock"](https://www.youtube.com/watch?v=sJRnJcz6btA&list=PL-diSX68u5h9pxXM_P8_OeuBL7jLYQ_EB&index=9), Prof. Eduardo Guerra INPE / UNIBZ
 
-## Semana 13 - 11/6 e 13/06 
+## Semana 13 - 20/8 e 22/8 
 - Entrega Contínua
 - --
 - Implantação Contínua
 - Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)
 
-## Semana 14 - 18/6 e 20/6
+## Semana 14 - 27/8 e 29/8
 - Refatoração
 - Conteúdo [Leitura Cap. 9 do livro](https://engsoftmoderna.info/cap9.html)
 - Video-aula de apoio [Refatoração](https://www.youtube.com/watch?v=3ouXTIgIyxw), Prof. Eduardo Guerra INPE / UNIBZ
@@ -97,12 +97,12 @@
 - Outros métodos e processos de desenvolvimento
 - Introdução ao desenvolvimento de software Lean
 
-## Semana 15 - 25/6 e 27/6
+## Semana 15 - 3/9 e 5/9
 - Desenvolvimento de software Lean: valores, princípios e práticas
 - --
 - Outros Modelos de Processo: Espiral, RAD
 
-## Semana 16 - 1/7 a 5/7 - Entrega da Última Release
+## Semana 16 - 9/9 a 13/9 - Entrega da Última Release
 - **A entrega da Release R_N (major)**
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO 
@@ -117,7 +117,7 @@
 
 - **Detalhe da avaliacao**:  (I) Produto entregue (50%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (30%)
 
-## Semana 17 - 9/7 e 11/7
+## Semana 17 - 17/9 e 19/9
 - Outros Modelos de Processo: processo Unificado
 - --
 - Aspectos legais: patentes e licenças de código-fonte livre/aberto

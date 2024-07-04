@@ -26,30 +26,30 @@ e desenvolvimento do software. [Artigo](https://unbbr.sharepoint.com/:b:/s/EPS-M
 - --
 - Área de Conhecimento Escopo (tradicional e ágil)
 
-## Semana 5 - 16/4 e 18/4
+## Semana 5 - 27/6
 - Área de Conhecimento Escopo (tradicional e ágil) 
 - --
 - Área de Conhecimento Tempo (tradicional e ágil)
 
-## Semana 6 - 23/4 e 25/4
+## Semana 6 - 2/7 e 4/7
 - Área de Conhecimento Tempo (tradicional e ágil)
 - --
 - Área de Conhecimento Custo
 
-## Semana 7 - 30/4 e 2/5
+## Semana 7 - 9/7 e 11/7
 - Área de Conhecimento Custo
 - [Artigo Risco](https://unbbr.sharepoint.com/:b:/s/EPS-MDS-2024-1/EbwZx1L7sTZMkX1AEBXdBdQBerltMXwpi19zoSIfrVjFCA?e=Z3PTCi)
 - --
 - Área de Conhecimento Risco
 - [Artigo EVM-Agil](https://unbbr.sharepoint.com/:b:/s/EPS-MDS-2024-1/ERRN9DPphlFIgsjMr8W-IiwBjo992fGcyRJRYLQDdm-v_w?e=GzhJLa)
 
-## Semana 8 - 7/5 e 9/5
+## Semana 8 - 16/7 e 18/7
 - Panorama de Adoção dos Métodos Ágeis
 - SCRUM: artefatos, práticas e papeis
 - --
 - Buffer de contigência
 
-## Semana 9 - 13/5 a 17/5 - Entrega da Primeira Release
+## Semana 9 - 22/7 a 26/7 - Entrega da Primeira Release
 - **A entrega da Release R_1 (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
 
@@ -81,30 +81,29 @@ pessoas+recursos) (30%), (IV) Visão do Produto/Incremento + requisitos (10%), (
 (VI) Orquestração/revisão dos pipelines de Devops (integração) + coleta (organização da disciplina no SonarCloud)
 e disponibilização no repositório, (asset -> diretório arquivos .json) das métricas de produto (a serem definidas) (25%)
 
-## Semana 10 - 21/5 e 23/5
+## Semana 10 - 30/7 e 1/8
 - Sistemas Kanbam
 
-## Semana 11 - 28/5 e 30/5
+## Semana 11 - 6/8 e 8/8
 - A Qualidade de Software ao longo do tempo
 - --
 - Modelos de referência de qualidade: McCall, Boehm, Dromey, ISO 9126/25010
 
-## Semana 12 - 4/6 e 6/6
+## Semana 12 - 13/8 e 15/8
 - Modelos de avaliação da qualidade de produto de software: Squale, Quamoco, [Q-Rapids](https://www.q-rapids.eu/download)
 - --
 - Software Analytics
 - Notebook de avaliação da qualidade interna do produto - interpretação das métricas fornecidas pela
 ferramenta SonarQube
 
-## Semana 13 - 11/6 e 13/06
-
+## Semana 13 - 20/8 e 22/8
 - Padrões para adoção de tomada de decisões por meio de [Analytics](https://unbbr.sharepoint.com/:b:/s/EPS-MDS-2024-1/ERRN9DPphlFIgsjMr8W-IiwBjo992fGcyRJRYLQDdm-v_w?e=GzhJLa)
 - Video aula de Apoio [Software Analytics](https://www.youtube.com/watch?v=8U5UUovl_VI&t=669s), Prof. Eduardo Guerra INPE/UNIBZ
 - --
 - Implantação e Entrega Contínua
 - Conteúdo assíncrono - [Leitura Cap. 10 do livro](https://engsoftmoderna.info/cap10.html)
 
-## Semana 14 - 18/6 e 20/6
+## Semana 14 - 27/8 e 29/8
 - Engenharia de Software Contínua
 - ESW Contínua [Artigo](https://unbbr.sharepoint.com/:b:/s/EPS-MDS-2024-1/ETMUd7FIp0JHj6KvbEMqDhoB-T4cSvvnArnVhYKZixY_3A?e=JgbjTN)
 - --
@@ -112,10 +111,10 @@ ferramenta SonarQube
 - Video aula de apoio [Engenharia de Software Contínua](https://www.youtube.com/watch?v=F5CygMN3EEg&t=4509s),
 Prof. Breno França-UNICAMP
 
-## Semana 15 - 25/6 e 27/6
+## Semana 15 - 3/9 e 5/9
 - Visão estratégica do gerenciamento de projetos e produtos
 
-## Semana 16 - 1/7 a 5/7 - Entrega da Última Release
+## Semana 16 - 9/9 a 13/9 - Entrega da Última Release
 - **A entrega da Release R_N (major)** 
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO (em diferentes áreas)
@@ -144,5 +143,5 @@ do Produto: Implementação/Evoluação do notebook Analytics (20%): tratamento 
 métricas(normalização, interpretação e agregação), análises, interpretações e gráficos estatísticos; decisões tomadas
 a partir das análises das medidas;
 
-## Semana 17 - 9/7 e 11/7
+## Semana 17 - 17/9 e 19/9
 - Buffer de contigência

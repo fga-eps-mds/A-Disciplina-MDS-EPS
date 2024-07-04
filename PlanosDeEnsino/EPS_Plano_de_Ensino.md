@@ -173,8 +173,8 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
 - A presença será  computada por meio da lista de presença.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
-- Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Mural, Discord e outros.
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Mural: [Mural Disciplinas](https://app.mural.co/t/unbfgaepsmds202111846/home)
+- Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Figma, Discord e outros.
+- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Figma: [Figma Disciplinas](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868)
 - A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 - Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto.
 - [ATENÇÃO] Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
@@ -187,8 +187,8 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ### Datas das Releases
-- Release R_1 (major) - 13 a 17 de maio de 2024 (dia e horário a confirmar)
-- Release R_N (major) - 1  a 5  de julho de 2024 (dia e horário a confirmar)
+- Release R_1 (major) - 22 a 26 de julho de 2024 (dia e horário a confirmar)
+- Release R_N (major) - 09 a 13 de setembro de 2024 (dia e horário a confirmar)
 
 ## Bibliografia Básica
 

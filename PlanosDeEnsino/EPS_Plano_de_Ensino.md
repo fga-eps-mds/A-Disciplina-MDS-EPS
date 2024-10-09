@@ -8,7 +8,7 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 01/2024
+**SEMESTRE/ANO**: 02/2024
 
 ## Objetivos da Disciplina
 A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com o ciclo de vida do produto de software o que, engloba o ciclo de vida do projeto.
@@ -60,14 +60,14 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/14-rHSwl7exlyGkFU5kVT3WB9xTZa-j9XV1jMX1RVFVw/edit#gid=0) 
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1B8FKyeUPHdJ6d2jX9Yv5rGujVnDcCajFldMtYukC4j8/edit?gid=0#gid=0) 
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2024-1](https://discord.com/channels/1217493595808989386/1217493596303921263)
-- Canal no Teams - [unb-fga-eps-mds-2024-1](https://teams.microsoft.com/l/team/19%3AWM5JKlQcY63hy6qZIM1FqCdIbLg3mJJ9WG_qkw6ugFk1%40thread.tacv2/conversations?groupId=f71c21d9-efad-447d-b119-799970b68c02&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2024-2](https://discord.com/channels/1288119683043823717/1288119683907719332)
+- Canal no Teams - [unb-fga-eps-mds-2024-2](https://teams.microsoft.com/l/team/19%3Ar4buhjYweoKpP6qmWtcmJ5pEcrSZxmOjjBZTg6CWsXM1%40thread.tacv2/conversations?groupId=4e73194e-18d7-435b-9ab1-aaa2caf60b30&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 
 ## Avaliações e Critérios de Avaliação
@@ -78,7 +78,8 @@ A avaliação será feita por meio de:
 
 Para avaliar o desempenho nas aulas teóricas, serão aplicadas duas provas ao longo do semestre. A avaliação será individual e sem consulta a qualquer material didático.
 
-O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho prático, lidando com situações reais de desenvolvimento e gerenciamento do produto de software, em um ambiente controlado. Enquanto os alunos de MDS terão o foco em aspectos da construção (ex: especificação de requisitos, codificação e testes) os alunos de EPS terão o foco em aspectos da gestão (ex: planejamento e monitoramento do projeto, cadência do fluxo de trabalho, garantia da qualidade do produto). **ATENÇÃO: Foco != Exclusividade**
+O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho prático, lidando com situações reais de desenvolvimento e gerenciamento do produto de software, em um ambiente controlado. Enquanto os alunos de MDS terão o foco em aspectos da construção (ex: especificação de requisitos, codificação e testes) os alunos de EPS terão o foco em aspectos da gestão (ex: planejamento e monitoramento do projeto, cadência do fluxo de trabalho, garantia da qualidade do produto). 
+⚠️⚠️**Foco != Exclusividade**⚠️⚠️
 
 Os projetos possuem usuários reais, representantes de organizações da sociedade civil ou da Administração Pública. Logo, os problemas e necessidades são reais. Contudo, são tratados de forma controlada e obedecendo aos aspectos pedagógicos. No contexto da disciplina, esses usuário(a)s, dono(a)s do produto assumem o papel de donos e donas dos produtos e também são co-responsáveis nesse processo de ensino-aprendizagem, baseado em problema, com uso de metodologias ativas. 
 
@@ -92,7 +93,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao*   | 1 pt |
 
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](./EPS-cronograma-hrn.md) da disciplina.
+- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md) da disciplina.
 - **Avaliacao Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
@@ -167,7 +168,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
 - A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação e aceitos pelos usuários.
-- O tamanho dos times deve respeitar o limite máximo de 12-13 membros. A configuração dos times está disponível [aqui.](https://docs.google.com/spreadsheets/d/14-rHSwl7exlyGkFU5kVT3WB9xTZa-j9XV1jMX1RVFVw/edit#gid=1744345250)
+- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.](https://docs.google.com/spreadsheets/d/1B8FKyeUPHdJ6d2jX9Yv5rGujVnDcCajFldMtYukC4j8/edit?gid=1744345250#gid=1744345250)
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
 - Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
@@ -175,20 +176,30 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Figma, Discord e outros.
 - A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Figma: [Figma Disciplinas](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868)
-- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
+- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud Disciplinas](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 - Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto.
-- [ATENÇÃO] Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
+-  ⚠️⚠️⚠️ Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
 - Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, um membro de EPS deverá participar.
 - **OBS:** O relatório de encerramento do projeto deve auxiliar o time do semestre seguinte em continuar a evolução do produto. Vale 10% do total do Critério I, na R_N
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](./EPS-cronograma-hrn.md)
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md)
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
-### Datas das Releases
-- Release R_1 (major) - 22 a 26 de julho de 2024 (dia e horário a confirmar)
-- Release R_N (major) - 09 a 13 de setembro de 2024 (dia e horário a confirmar)
+## Datas das Releases
+- ### Release R_1 (major) 📦
+  - **09 de dezembro de 2024 às 8:00h -** Data de referência para registro nos reposiótios.
+  - **16 a 21 de dezembro de 2024 -** Apresentações (dia e horário a confirmar)
+
+- ### Release R_N (major) 📦
+  - **10 fevereiro de 2025, às 8:00h -** Data de referência para registro nos reposiótios.
+  - **10 a 15 de fevereiro de 2025** - Apresentações (dia e horário a confirmar)
+
+
+### ⚠️
+  - A data e hora de referência para o registro das contribuições nos reposiótios de código-fonte e documentação é em relação ao [horário de Brasília](https://greenwichmeantime.com/time-zone/south-america/brazil/brasilia/).
+  - Os repositórios devem ser continuamente atualizados. As datas de referência para registro da contribuições não impedem a atualização. Contudo,  servem como uma linha de base (_baseline_) para as correções.
 
 ## Bibliografia Básica
 

@@ -8,14 +8,14 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2024
+**SEMESTRE/ANO**: 01/2025
 
 ## Objetivos da Disciplina
 A Gestão de projetos é a aplicação de conhecimentos, habilidades e técnicas na elaboração de atividades relacionadas, para atingir um conjunto de objetivos pré- definidos, num certo prazo, com um certo custo e qualidade, através da mobilização de recursos técnicos e humanos. A Engenharia de Produto de software se preocupa com o ciclo de vida do produto de software o que, engloba o ciclo de vida do projeto.
 
 Já a gestão de portfólios está relacionada ao gerenciamento de um conjunto de projetos. A própria natureza do software obriga que o gerenciamento de sua construção seja sistemático, de modo a controlar todas as nuances intrínsecas ao software.
 
-Esta disciplina fornecerá um curso nos níveis intermediário e avançado sobre o gerenciamento do produto de software, em ambiente real. O objetivo é formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software. Ao final o aluno será capaz de tomar as decisões  gerenciais corretas, reunir conhecimentos a cerca de como se planejar, controlar e monitorar produto, processo e projeto de desenvolvimento de software, bem como, garantir a qualidade do produto em suas diferentes visões (interna, externa e em uso). Dessa maneira, ele atenderá as necessidades e compromissos firmados com os usuários além, de garantir que o produto gerado a partir do projeto atenda às nececssidades do negócio. Trata-se de uma disciplina com caráter extensionista.
+Esta disciplina fornecerá um curso nos níveis intermediário e avançado sobre o gerenciamento do produto de software, em ambiente real. O objetivo é formar o aluno em diferentes técnicas de como se gerenciar, de forma sistemática e disciplinada, todo o ciclo de vida do software. Ao final o aluno será capaz de tomar as decisões  gerenciais corretas, reunir conhecimentos a cerca de como se planejar, controlar e monitorar produto, processo e projeto de desenvolvimento de software, bem como, garantir a qualidade do produto em suas diferentes visões (interna, externa e em uso). Dessa maneira, ele atenderá as necessidades e compromissos firmados com os usuários além, de garantir que o produto gerado a partir do projeto atenda às necessidades do negócio. Trata-se de uma disciplina com caráter extensionista.
 
 
 ## Ementa do Programa
@@ -60,14 +60,14 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1B8FKyeUPHdJ6d2jX9Yv5rGujVnDcCajFldMtYukC4j8/edit?gid=0#gid=0) 
+- Planilha para definição dos grupos e temas [aqui]() 
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2024-2](https://discord.com/channels/1288119683043823717/1288119683907719332)
-- Canal no Teams - [unb-fga-eps-mds-2024-2](https://teams.microsoft.com/l/team/19%3Ar4buhjYweoKpP6qmWtcmJ5pEcrSZxmOjjBZTg6CWsXM1%40thread.tacv2/conversations?groupId=4e73194e-18d7-435b-9ab1-aaa2caf60b30&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2025-1]()
+- Canal no Teams - [unb-fga-eps-mds-2025-1]()
 
 
 ## Avaliações e Critérios de Avaliação
@@ -93,8 +93,8 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao*   | 1 pt |
 
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md) da disciplina.
-- **Avaliacao Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
+- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma]() da disciplina.
+- **Avaliação Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 
@@ -168,7 +168,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
 - A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação e aceitos pelos usuários.
-- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.](https://docs.google.com/spreadsheets/d/1B8FKyeUPHdJ6d2jX9Yv5rGujVnDcCajFldMtYukC4j8/edit?gid=1744345250#gid=1744345250)
+- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.]()
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
 - Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
@@ -176,7 +176,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Figma, Discord e outros.
 - A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Figma: [Figma Disciplinas](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868)
-- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud Disciplinas](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
+- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud Disciplinas](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
 - Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto.
 -  ⚠️⚠️⚠️ Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
 - Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, um membro de EPS deverá participar.
@@ -184,17 +184,17 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md)
-- Háverá um detalhamento do cronograma das entregas parciais dos projetos.
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer]()
+- Haverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ## Datas das Releases
 - ### Release R_1 (major) 📦
-  - **09 de dezembro de 2024 às 8:00h -** Data de referência para registro nos reposiótios.
-  - **16 a 21 de dezembro de 2024 -** Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios.(dia e horário a confirmar)
+  - ** -** Apresentações (dia e horário a confirmar)
 
 - ### Release R_N (major) 📦
-  - **10 fevereiro de 2025, às 8:00h -** Data de referência para registro nos reposiótios.
-  - **10 a 15 de fevereiro de 2025** - Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios.
+  - ** -** - Apresentações (dia e horário a confirmar)
 
 
 ### ⚠️

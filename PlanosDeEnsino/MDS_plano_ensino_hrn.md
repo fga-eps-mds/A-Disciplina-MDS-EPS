@@ -8,15 +8,15 @@
 
 **CREDITOS**: 04 
 
-**SEMESTRE/ANO**: 02/2024
+**SEMESTRE/ANO**: 01/2025
 
 
 
 ## Objetivos da Disciplina
 
-Métodos de desenvolvimento de software podem ser entendidos como conjuntos estruturados de boas práticas, podendo ser repetıtíveis durante o processo de produção do software.
+Métodos de desenvolvimento de software podem ser entendidos como conjuntos estruturados de boas práticas, podendo ser repetível durante o processo de produção do software.
 
-Nesse contexto, a disciplina Metodos de Processos de Software se faz importante para os futuros Engenheiros de Software por apresentar diferentes métodos de desenvolvimento, com enfoque especial aos diferentes ciclos de vida e técnicas de desenvolvimento de software. Os principais objetivos sao:
+Nesse contexto, a disciplina Métodos de Processos de Software se faz importante para os futuros Engenheiros de Software por apresentar diferentes métodos de desenvolvimento, com enfoque especial aos diferentes ciclos de vida e técnicas de desenvolvimento de software. Os principais objetivos são:
 
 - Capacitar o aluno a compreender os diferentes métodos, ferramentas, procedimentos e paradigmas de desenvolvimento de software.
 
@@ -42,7 +42,7 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 ### Fundamentos do Extreme Programming
 - O manifesto Ágil
 - Os Quatro valores e as Quatro variáveis
-- Praticas ageis
+- Praticas ágeis
 - O jogo do planejamento 	
 - Releases Pequenas
 - A metáfora
@@ -59,11 +59,11 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição das equipes e temas prof. Hilmer [aqui](https://docs.google.com/spreadsheets/d/1B8FKyeUPHdJ6d2jX9Yv5rGujVnDcCajFldMtYukC4j8/edit?gid=0#gid=0)
+- Planilha para definição das equipes e temas prof. Hilmer [aqui]()
 
 # Canais de Comunicação: dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2024-2](https://discord.com/channels/1288119683043823717/1288119683907719332)
-- Canal no Teams - [unb-fga-eps-mds-2024-2](https://teams.microsoft.com/l/team/19%3Ar4buhjYweoKpP6qmWtcmJ5pEcrSZxmOjjBZTg6CWsXM1%40thread.tacv2/conversations?groupId=4e73194e-18d7-435b-9ab1-aaa2caf60b30&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2025-1]()
+- Canal no Teams - [unb-fga-eps-mds-2025-1]()
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
@@ -84,12 +84,12 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
 | Projeto (avaliacao individual) | 75% |
-| Avaliacao Individual  | 25% |
-| Criterio Extra de avaliacao* | 1 pt |
+| Avaliação Individual  | 25% |
+| Critério Extra de avaliação* | 1 pt |
 
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MDS-cronograma-hrn.md) da disciplina.
-- **Avaliacao Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
-- **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
+- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma]() da disciplina.
+- **Avaliação Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
+- **Critério Extra de avaliacao** serão considerados contribuição para disciplina (ex: conteúdo abordado em sala de aula, issues abertas no repositório da disciplina, tutoriais), ou contribuição para outros repositórios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
@@ -99,9 +99,9 @@ Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disc
 
 Os critérios avaliados individualmente no projeto estão destacados na tabela abaixo
 
-| Evento da Avaliacao Individual no projeto         |
+| Evento da Avaliação Individual no projeto         |
 |---------------------------------------------------|
-| Codigo/ Entrega                                   |
+| Código/ Entrega                                   |
 | Documentação                                      |
 | Coerência - Documentos e Código                   |
 | Critério Extra	                                   |
@@ -156,15 +156,15 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MDS-cronograma-hrn.md)
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer]()
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
 ## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2024-2](https://discord.com/channels/1288119683043823717/1288119683907719332)
-- Canal no Teams - [unb-fga-eps-mds-2024-2](https://teams.microsoft.com/l/team/19%3Ar4buhjYweoKpP6qmWtcmJ5pEcrSZxmOjjBZTg6CWsXM1%40thread.tacv2/conversations?groupId=4e73194e-18d7-435b-9ab1-aaa2caf60b30&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
+- Canal no Discord - [unb-fga-eps-mds-2025-1]()
+- Canal no Teams - [unb-fga-eps-mds-2025-1]()
 
 
 ## Avaliações e Critérios de Avaliação
@@ -189,7 +189,7 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 | Avaliacao Individual  | 25% |
 | Criterio Extra de avaliacao*   | 1 pt |
 
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MDS-cronograma-hrn.md) da disciplina.
+- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma]() da disciplina.
 - **Avaliacao Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
 - **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
@@ -264,7 +264,7 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
 - A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação e aceitos pelos usuários.
-- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.](https://docs.google.com/spreadsheets/d/1B8FKyeUPHdJ6d2jX9Yv5rGujVnDcCajFldMtYukC4j8/edit?gid=1744345250#gid=1744345250)
+- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.]()
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
 - Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
@@ -280,17 +280,17 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MDS-cronograma-hrn.md)
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer]()
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ## Datas das Releases
 - ### Release R_1 (major) 📦
-  - **09 de dezembro de 2024 às 8:00h -** Data de referência para registro nos reposiótios.
-  - **16 a 21 de dezembro de 2024 -** Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios.(dia e horário a confirmar)
+  - ** -** Apresentações (dia e horário a confirmar)
 
 - ### Release R_N (major) 📦
-  - **10 fevereiro de 2025, às 8:00h -** Data de referência para registro nos reposiótios.
-  - **10 a 15 de fevereiro de 2025** - Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios.(dia e horário a confirmar)
+  - ** -** - Apresentações (dia e horário a confirmar)
 
 
 ### ⚠️

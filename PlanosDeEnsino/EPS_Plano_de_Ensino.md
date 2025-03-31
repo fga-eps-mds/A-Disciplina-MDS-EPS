@@ -4,7 +4,7 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSORES**: Hilmer Rodrigues Neri
+**PROFESSORES**: Joao Gabriel Rossi
 
 **CREDITOS**: 04 
 
@@ -60,20 +60,19 @@ Gestão de Projetos de software no contexto das normas e dos modelos de melhoria
 - Normas e dos modelos de processos de gerenciamento de software
 
 # Formação das equipes
-- Planilha para definição dos grupos e temas [aqui]() 
+- Planilha para definição dos grupos e temas [aqui](https://docs.google.com/spreadsheets/d/1cYeuhS4iVyv2s8V-GctRr8ATEfEZGi5fUzncONgTCWA/edit?gid=0#gid=0) 
 
 # Canais de Comunicação
 Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
 
-## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2025-1]()
-- Canal no Teams - [unb-fga-eps-mds-2025-1]()
+# Canais de Comunicação: dúvidas, conversas rápidas, avisos
+- Canal no Discord - [unb-fga-eps-mds-2025-1](https://discord.com/channels/1356290865621893132/1356290865630548282)
+- Canal no Teams - [unb-fga-eps-mds-2025-1](https://teams.microsoft.com/l/team/19%3Amngy1rTO0uAcI-ruilHb_FmluhfNI566oJRNrDpYfs01%40thread.tacv2/conversations?groupId=77d3058b-63b8-4245-9645-b893f3f18a57&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
 - EP1 a EPn: Entregas do Projeto.
-- MT1 a MTn: MiniTeste Individual.
 - P1: Participação em atividades da disciplina
 
 Para avaliar o desempenho nas aulas teóricas, serão aplicadas duas provas ao longo do semestre. A avaliação será individual e sem consulta a qualquer material didático.
@@ -81,22 +80,15 @@ Para avaliar o desempenho nas aulas teóricas, serão aplicadas duas provas ao l
 O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho prático, lidando com situações reais de desenvolvimento e gerenciamento do produto de software, em um ambiente controlado. Enquanto os alunos de MDS terão o foco em aspectos da construção (ex: especificação de requisitos, codificação e testes) os alunos de EPS terão o foco em aspectos da gestão (ex: planejamento e monitoramento do projeto, cadência do fluxo de trabalho, garantia da qualidade do produto). 
 ⚠️⚠️**Foco != Exclusividade**⚠️⚠️
 
-Os projetos possuem usuários reais, representantes de organizações da sociedade civil ou da Administração Pública. Logo, os problemas e necessidades são reais. Contudo, são tratados de forma controlada e obedecendo aos aspectos pedagógicos. No contexto da disciplina, esses usuário(a)s, dono(a)s do produto assumem o papel de donos e donas dos produtos e também são co-responsáveis nesse processo de ensino-aprendizagem, baseado em problema, com uso de metodologias ativas. 
-
-Várias releases serão entregues ao longo da disciplina das quais, no mínimo três representarão as releases principais(major) além daquelas de correções ou liberações menores (minor). Porém, duas dessas major releases serão objeto de avaliação formal.
-
 Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo:  
 
 | Evento da Avaliacao            | Peso |
 |--------------------------------| ------ |
-| Projeto (avaliacao individual) | 75% |
-| Avaliacao Individual  | 25% |
+| Projeto (avaliacao individual) | 100% |
 | Criterio Extra de avaliacao*   | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma]() da disciplina.
-- **Avaliação Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
 - **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
-- **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -164,11 +156,9 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
 - A maior parte do material relacionado a disciplina, está disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
-- Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
-- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
 - A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação e aceitos pelos usuários.
-- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.]()
+- O tamanho dos times deve respeitar o limite máximo de 4 membros de EPS e 10 de MDS. A configuração dos times está disponível [aqui.]()
 - Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
 - Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
@@ -184,17 +174,17 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer]()
-- Haverá um detalhamento do cronograma das entregas parciais dos projetos.
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Joao]()
+- Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ## Datas das Releases
 - ### Release R_1 (major) 📦
-  - ** -** Data de referência para registro nos repositórios.(dia e horário a confirmar)
-  - ** -** Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios - 02/06.
+  - ** -** Apresentações - 03/06 e 05/06.
 
 - ### Release R_N (major) 📦
-  - ** -** Data de referência para registro nos repositórios.
-  - ** -** - Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios - 21-06.
+  - ** -** - Apresentações - 22/07 e 24/07.
 
 
 ### ⚠️

@@ -4,7 +4,7 @@
 
 **CARGA HORÁRIA**: 60 horas
 
-**PROFESSORES**: Hilmer Rodrigues Neri
+**PROFESSORES**: Joao Gabriel Rossi
 
 **CREDITOS**: 04 
 
@@ -59,16 +59,15 @@ Modelos de ciclo de vida e de processos; Processo Unificado. Métodos Ágeis de 
 - Práticas
 
 # Formação das equipes
-- Planilha para definição das equipes e temas prof. Hilmer [aqui]()
+- Planilha para definição das equipes e temas prof. Joao [aqui](https://docs.google.com/spreadsheets/d/1cYeuhS4iVyv2s8V-GctRr8ATEfEZGi5fUzncONgTCWA/edit?gid=0#gid=0)
 
 # Canais de Comunicação: dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2025-1]()
-- Canal no Teams - [unb-fga-eps-mds-2025-1]()
+- Canal no Discord - [unb-fga-eps-mds-2025-1](https://discord.com/channels/1356290865621893132/1356290865630548282)
+- Canal no Teams - [unb-fga-eps-mds-2025-1](https://teams.microsoft.com/l/team/19%3Amngy1rTO0uAcI-ruilHb_FmluhfNI566oJRNrDpYfs01%40thread.tacv2/conversations?groupId=77d3058b-63b8-4245-9645-b893f3f18a57&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059)
 
 ## Avaliações e Critérios de Avaliação
 A avaliação será feita por meio de:
 - EP1 a EPn: Entregas do Projeto.
-- MT1 a MTn: MiniTeste Individual.
 - P1: Participação em atividades da disciplina
 
 Para avaliar o desempenho nas aulas teóricas, serão aplicados minitestes ao longo do semestre (número a ser definido). A avaliação será individual e sem consulta a qualquer material didático. A duração de cada mini-teste será de 15-30 minutos. A aplicação dos mini-testes não será previamente comunicada. Além dos conteúdos apresentados em sala de aula, poderão ser propostos artigos em complemento as discussões e que também poderão ser objeto dos minitestes. Portanto, é importante manter os estudos do material teórico em dia!
@@ -83,14 +82,11 @@ Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo
 
 | Evento da Avaliacao | Peso |
 | ------ | ------ |
-| Projeto (avaliacao individual) | 75% |
-| Avaliação Individual  | 25% |
+| Projeto (avaliacao individual) | 100% |
 | Critério Extra de avaliação* | 1 pt |
 
 - **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma]() da disciplina.
-- **Avaliação Individual** será realizada por meio de mini-testes presenciais, no ambiente do Moodle (Aprender 3)
 - **Critério Extra de avaliacao** serão considerados contribuição para disciplina (ex: conteúdo abordado em sala de aula, issues abertas no repositório da disciplina, tutoriais), ou contribuição para outros repositórios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
-- **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
 
 Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
 
@@ -98,108 +94,6 @@ Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disc
 - Reprovação se MF < 5,0ou se PF > 25%. Nessa situação o aluno será considerado reprovado por nota ou por falta.
 
 Os critérios avaliados individualmente no projeto estão destacados na tabela abaixo
-
-| Evento da Avaliação Individual no projeto         |
-|---------------------------------------------------|
-| Código/ Entrega                                   |
-| Documentação                                      |
-| Coerência - Documentos e Código                   |
-| Critério Extra	                                   |
-| Histórias e Planejamento da Release				           |
-| Testes Automatizados e Cobertura de Código > 90%	 |			
-| Tracking	                                         |			
-| Wiki Atualizada	                                  |			
-| Software Implantado e Disponível para Uso	        |
-| PA - pareamento                                   |
-| PA - reuniao de planejamento da sprint            |
-| PA - planning poker                               |
-| PA - sprint time box                              |
-| PA - participacao nas daylies                     |
-| PA - review com o cliente                         |
-| PA - retrospectiva na sprint                      |
-| PA - user stories                                 |
-| PA - risco sustentavel de trabalho                |
-| PD - codigo escrito com padroes                   |
-| PA - plano de comunicacao                         |
-| PD - comunicacao tecnica nas issues               |
-| PD - pull requests educativos                     |
-| PD - praticas de comunidades de software livre    |
-| PD - Testes automatizados, em diferentes níveis   |
-| PD - Levantamento de roadmap de requisitos        |
-
-
-**PA** - Pratica Agil
-**PD** - Prática de Desenvolvimento
-
-
-## Avisos
-- Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
-- Os documentos referentes à disciplina, estarão disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
-- Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
-- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
-- Os mini-testes não serão agendados previamente. Portanto, mantenham o conteúdo da disciplina sempre up to date! Na composição da média haverá o descarte da menor nota.
-- Os projetos são avaliados continuamente.
-- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
-- O tamanho dos times deve respeitar o limite máximo de 12/15 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
-- Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios.
-- O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
-- Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos. 
-- A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
-- Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
-- Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Figma, Discord e outros.
-- A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Figma: [Figma Disciplinas](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868)
-- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
-- Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto. 
-- [ATENÇÃO] Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
-- Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, faça isso com um membro de EPS.
-- Os membros de MDS devem participar da agenda da Lean Inception
-- Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
-
-## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer]()
-- Háverá um detalhamento do cronograma das entregas parciais dos projetos.
-
-# Canais de Comunicação
-Toda a disciplina será realizada em modo presencial. Serão disponibilizados materiais complementares para estudo assíncrono.
-
-## Dúvidas, conversas rápidas, avisos
-- Canal no Discord - [unb-fga-eps-mds-2025-1]()
-- Canal no Teams - [unb-fga-eps-mds-2025-1]()
-
-
-## Avaliações e Critérios de Avaliação
-A avaliação será feita por meio de:
-- EP1 a EPn: Entregas do Projeto.
-- MT1 a MTn: MiniTeste Individual.
-- P1: Participação em atividades da disciplina
-
-Para avaliar o desempenho nas aulas teóricas, serão aplicadas duas provas ao longo do semestre. A avaliação será individual e sem consulta a qualquer material didático.
-
-O objetivo do Projeto é integrar as disciplinas Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS), de forma que os alunos façam um trabalho prático, lidando com situações reais de desenvolvimento e gerenciamento do produto de software, em um ambiente controlado. Enquanto os alunos de MDS terão o foco em aspectos da construção (ex: especificação de requisitos, codificação e testes) os alunos de EPS terão o foco em aspectos da gestão (ex: planejamento e monitoramento do projeto, cadência do fluxo de trabalho, garantia da qualidade do produto). **ATENÇÃO: Foco != Exclusividade**
-
-Os projetos possuem usuários reais, representantes de organizações da sociedade civil ou da Administração Pública. Logo, os problemas e necessidades são reais. Contudo, são tratados de forma controlada e obedecendo aos aspectos pedagógicos. No contexto da disciplina, esses usuário(a)s, dono(a)s do produto assumem o papel de donos e donas dos produtos e também são co-responsáveis nesse processo de ensino-aprendizagem, baseado em problema, com uso de metodologias ativas. 
-
-Várias releases serão entregues ao longo da disciplina das quais, no mínimo três representarão as releases principais(major) além daquelas de correções ou liberações menores (minor). Porém, duas dessas major releases serão objeto de avaliação formal.
-
-Os pesos atribuídos aos diferentes eventos de avaliação são indicados abaixo:  
-
-| Evento da Avaliacao            | Peso |
-|--------------------------------| ------ |
-| Projeto (avaliacao individual) | 75% |
-| Avaliacao Individual  | 25% |
-| Criterio Extra de avaliacao*   | 1 pt |
-
-- **Projeto** consiste da nota do projeto das entregas e participação no projeto. O detalhamento dos critérios de correção estão no [cronograma]() da disciplina.
-- **Avaliacao Individual** será realizada por meio de minitestes presenciais, no ambiente do Moodle (Aprender 3). A menor nota é descartada e é calculada a média aritmética simples dos demais minitestes.
-- **Criterio Extra de avaliacao** serão considerados contribuicao para disciplina (ex: conteudo abordado em sala de aula, issues abertas no repositorio da disciplina, tutoriais), ou contibuicao para outros repositorios. Trata-se de um critério de avaliação mais holístico e exclusivo do professor.
-- **Atrasos** Os atrasos nas entregas dos projetos acarretarão uma penalização de 0,5pts, por  dia de atraso, em relação à nota total do critério de avaliação correspondente.
-
-Para o aluno satisfazer os seguintes requisitos para obter a aprovação na disciplina:
-
- - Aprovação se MF >= 5,0 e se Percentual de faltas (PF) for PF <= 25%. Onde PF é dado pelo número de aulas com faltas registradas dividido pelo número de aulas ministradas.
-- Reprovação se MF < 5,0ou se PF > 25%. Nessa situação o aluno será considerado reprovado por nota ou por falta.
-
-Os criterios avaliados individualmente no projeto esta destacado na tabela abaixo:
 
 | Evento de Avaliacao Individual no projeto                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -257,40 +151,40 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
 **PG** - Prática de Gestão
 **PD** - Prática de Desenvolvimento
 
+
 ## Avisos
 - Também são considerados critérios de avaliação da participação: assiduidade; pontualidade; interesse; participação em aula e reuniões com o usuário(a)s.
-- A maior parte do material relacionado a disciplina, está disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
+- Os documentos referentes à disciplina, estarão disponíveis em: [docs](https://github.com/fga-eps-mds/A-Disciplina)
 - Os casos não previstos de perda de avaliação serão tratados individualmente, de acordo com as circunstâncias.
-- O aluno que perder uma avaliação poderá fazer uma avaliação de reposição, caso a justificativa da ausência seja motivo de saúde, conforme normativo vigente da Universidade de Brasília. Neste caso  o aluno deverá comprovar tal situação por meio de atestado médico entregue ao professor no seu retorno às atividades. O teste de reposição poderá ser aplicado também em outros casos amparados legalmente.
 - Os projetos são avaliados continuamente.
-- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados desde a camada de apresentação e aceitos pelos usuários.
-- O tamanho dos times deve respeitar o limite máximo de 15 membros. A configuração dos times está disponível [aqui.]()
-- Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios, utilizando o ZenHub.
+- A cobertura de código deverá ser 90\%. Os testes funcionais devem ser planejados e executados a partir da camada de apresentação.
+- O tamanho dos times deve respeitar o limite máximo de 4/10 membros quando for composto por alunos de EPS e MDS. Casos excepcionais serão tratados.
+- Os requisitos e atividades do projeto deverão ser organizadas por meio de issues e milestones nos respectivos repositórios.
 - O código-fonte e demais artefatos elaborados deverão ser revisados utilizando pull/merge requests.
-- Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos.
-- A presença será  computada por meio da lista de presença.
+- Os requisitos + protótipos devem ser validados pelos donos/donas dos produtos. 
+- A presença será  computada pela realização de atividades propostas tanto em aulas síncronas quanto aulas assíncronas.
 - Os dados gerados ao longo do desenvolvimento, o que inclui dados de processo, produto e pessoas poderão ser utilizados em observações e investigações científicas.
 - Os repositórios devem ser criados ou mantidos na organização da disciplina: [GitHub Disciplinas](https://github.com/fga-eps-mds). Isso se estende aos demais ambientes virtuais como por exemplo: SonarCloud, Figma, Discord e outros.
 - A elaboração da Lean Inception deverá utilizar a área de trabalho na plataforma Figma: [Figma Disciplinas](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868)
-- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud Disciplinas](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
-- Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto.
--  ⚠️⚠️⚠️ Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
-- Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, um membro de EPS deverá participar.
-- **OBS:** O relatório de encerramento do projeto deve auxiliar o time do semestre seguinte em continuar a evolução do produto. Vale 10% do total do Critério I, na R_N
+- A ferramenta de análise estática utilizada é a SonarQube. Com isso, seus repositórios (exceto documnentação) devem estar disponíveis na organização da disciplina disponível no ambiente [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=name)
+- Número de commits, assim como qualquer outra métrica isolada, não são boas para analisar desempenho nos repositórios. Por outro lado, são as ótimas evidências da sua contribuição no projeto. 
+- [ATENÇÃO] Para não haver dúvidas e questionamentos, não deixe de registrar seus _pull-requests_ e _commits_.
+- Os pareamentos não poderão ter mais de 2 membros de MDS. Na necessidade de um super pareamento, faça isso com um membro de EPS.
+- Os membros de MDS devem participar da agenda da Lean Inception
 - Os times serão organizados em tribos e [squads](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 ## Cronograma
-- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Hilmer]()
+- O cronograma das aulas e os detalhamento da avaliação das Releases R_1 e R_N estão disponíveis em [prof. Joao](https://github.com/fga-eps-mds/PlanosDeEnsino/MDS-cronograma-hrn.md)
 - Háverá um detalhamento do cronograma das entregas parciais dos projetos.
 
 ## Datas das Releases
 - ### Release R_1 (major) 📦
-  - ** -** Data de referência para registro nos repositórios.(dia e horário a confirmar)
-  - ** -** Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios - 02/06.
+  - ** -** Apresentações - 03/06 e 05/06.
 
 - ### Release R_N (major) 📦
-  - ** -** Data de referência para registro nos repositórios.(dia e horário a confirmar)
-  - ** -** - Apresentações (dia e horário a confirmar)
+  - ** -** Data de referência para registro nos repositórios - 21-06.
+  - ** -** - Apresentações - 22/07 e 24/07.
 
 
 ### ⚠️

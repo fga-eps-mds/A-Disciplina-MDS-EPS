@@ -179,8 +179,8 @@ Os critérios avaliados individualmente no projeto estão destacados na tabela a
 
 ## Datas das Releases
 - ### Release R_1 (major) 📦
-  - ** -** Data de referência para registro nos repositórios - 02/06.
-  - ** -** Apresentações - 03/06 e 05/06.
+  - ** -** Data de referência para registro nos repositórios - 19/05.
+  - ** -** Apresentações - 20/05 e 22/05.
 
 - ### Release R_N (major) 📦
   - ** -** Data de referência para registro nos repositórios - 14/07.

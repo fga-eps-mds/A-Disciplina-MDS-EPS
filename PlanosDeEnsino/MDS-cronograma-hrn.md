@@ -127,6 +127,3 @@
  
 - **Peso da R_N** - 60% da nota de projeto
 - **Detalhe da avaliacao**:  (I) Produto entregue (50%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (30%)
-
-
-- **Detalhe da avaliacao**:  (I) Produto entregue (50%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (30%)

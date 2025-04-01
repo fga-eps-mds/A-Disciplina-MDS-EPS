@@ -183,8 +183,8 @@ Os criterios avaliados individualmente no projeto esta destacado na tabela abaix
   - ** -** Apresentações - 03/06 e 05/06.
 
 - ### Release R_N (major) 📦
-  - ** -** Data de referência para registro nos repositórios - 21-06.
-  - ** -** - Apresentações - 22/07 e 24/07.
+  - ** -** Data de referência para registro nos repositórios - 14/07.
+  - ** -** - Apresentações - 15/07 e 17/07.
 
 
 ### ⚠️

@@ -62,15 +62,13 @@
 - **Avaliação da entrega da Release R_1 (major)**
   - Apresentação dos resultados iniciais além do planejamento do projeto
   - Todos os integrantes do time devem participar.
-  - A apresentação será gravada no teams.
+  - A apresentação será presencial.
   - Tempo de apresentação: 20min
-  - Duração da reunião: 1h
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
 
     
 - **Peso da R_1** - 40% da nota de projeto
-
-
+- 
 
 ## Semana 10 - 27/05 e 29/05  📦
 - Área de Processo Projeto -> Arquitetura
@@ -119,9 +117,8 @@
   - A release deverá ser implantada e disponibilizada no ambiente de homologação e testes
   - Apresentação dos resultados finais do projeto. PLANEJADO X REALIZADO 
   - Todos os integrantes do time devem participar.
-  - A apresentação será gravada no teams.
+  - A apresentação será presencial.
   - Tempo de apresentação: 30min
-  - Duração da reunião: 2hrs
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
  
  

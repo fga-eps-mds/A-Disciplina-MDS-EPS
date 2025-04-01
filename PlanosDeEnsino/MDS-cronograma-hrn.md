@@ -68,7 +68,10 @@
 
     
 - **Peso da R_1** - 40% da nota de projeto
-- 
+- **Principais Artefatos avaliados**: Documentos relacionados à Visão do Produto; Planejamento/Comunicação Interna e Externa (agenda de trabalho + ferramentas), Documento de Arquitetura do Projeto; Especificação das historias de usuários (critérios de aceitação); Configuração do repositório de acordo com os padrões de comunidade de software livre (Github); Wiki atualizada; Identidade Visual e Protótipos de alta fidelidade; repositório de código-fonte; testes unitários e de integração; Quadro de Conhecimento; Quadro de Pareamento; Participação nas reuniões
+
+
+- **Detalhamento da avaliação**: (I) Código-Fonte/entregas (45%): contribuições no repositório e no projeto (II) Coerência entre a documentação e implementação (5%), (III) Visão do Produto, relacionamento e documentação das histórias de usuários, épicos e features (20%); (IV) Arquitetura (15%), (V) IDV + Protótipos (baixa e alta fidelidade) (15%)
 
 ## Semana 10 - 27/05 e 29/05  📦
 - Área de Processo Projeto -> Arquitetura
@@ -123,6 +126,7 @@
  
  
 - **Peso da R_N** - 60% da nota de projeto
+- **Detalhe da avaliacao**:  (I) Produto entregue (50%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (30%)
 
 
 - **Detalhe da avaliacao**:  (I) Produto entregue (50%) Codigo-fonte entregue, features, implantacao, qualidade, testes de aceitacao, (II) documentação/evidências da execução metodologia de desenvolvimento contínua (20%), (III) Tracking e cobertura de testes (30%)

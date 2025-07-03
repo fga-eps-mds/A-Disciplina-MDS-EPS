@@ -133,7 +133,7 @@ Prof. Breno França-UNICAMP
   
   - Todos os integrantes do time devem participar.
   - A apresentação será presencial.
-  - Tempo de apresentação: 30min
+  - Tempo de apresentação: 20-40min
   - Os apontamentos sobre as correções ocorrerão de forma síncrona e assíncrona
  
  

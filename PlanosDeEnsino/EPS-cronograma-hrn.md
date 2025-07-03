@@ -143,16 +143,13 @@ Prof. Breno França-UNICAMP
 - **Artefatos avaliados**: Canvas MVP; Backlog do Produto Planejado X Realizado (escopo); Historias de usuários + critérios de aceitação aceitas/totais;
 Configuração do repositório de acordo com os padrões de comunidade de software livre (ex: como contribuir, licença, código de conduta,...);
 Planejado X Realizado (Custo, Risco e Qualidade); Wiki atualizada; Ambientes de homologação e testes;
-Quadros de Conhecimento e Pareamentos (MDS e EPS); Testes em nível unitário, integração e sistema; Manual de instalação do produto para o usuário;
-Canvas Analytics
+Quadros de Conhecimento e Pareamentos (MDS e EPS); Testes em nível unitário, integração e sistema; Manual de instalação do produto para o usuário
 
 
 - **Detalhe da avaliacao**: (I) Revisão das entregas (60%): requisitos; código-fonte; cobertura de testes;
-testes de aceitacao; práticas de gerência de configuração e mudanças; Fechamento de PR's, Validação do MVP(hipóteses de negócio), 
+testes de aceitacao; Fechamento de PR's, Validação do MVP(hipóteses de negócio), 
 **Relatório de Encerramento do Projeto**
 (II) Documentação/evidências da execução metodologia de desenvolvimento contínua (20%): Quadro de tarefas; assets no
 repositórtio(código-fonte, releases entregues e implantadass, arquivo com métricas coletadas do SonarCloud);
-código-fonte; diretório com as métricas coletadas; orquestração do pipeline de DevOps (III) Garantia da Qualidade
-do Produto: Implementação/Evoluação do notebook Analytics (20%): tratamento das
-métricas(normalização, interpretação e agregação), análises, interpretações e gráficos estatísticos; decisões tomadas
-a partir das análises das medidas;
+código-fonte; diretório com as métricas coletadas; orquestração do pipeline de DevOps
+(III) Práticas de gerência de configuração e mudanças (20%): riscos, custos, qualidade;

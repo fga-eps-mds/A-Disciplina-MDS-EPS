@@ -62,7 +62,7 @@
 - Ciclo de vida do Projeto e do Produto
 - Diferenças e semelhanças entre manufatura e software
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - Copilot para expandir personas e sugerir funcionalidades a partir das etapas anteriores
@@ -83,7 +83,7 @@
 - EAP, backlog de produto, épicos e histórias de usuário
 - ZenHub: configuração do RoadMap e milestones
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - Copilot Chat para expandir épicos em histórias de usuário
@@ -104,7 +104,7 @@
 - Estimativas: Planning Poker, Pontos por História, Estimativa de tamanho
 - velocidade, burndown, gráfico de Gantt no ZenHub
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para gerar estimativas iniciais como linha de base de calibração do time
@@ -126,7 +126,7 @@
 - Área de Conhecimento: **Custo** (tradicional e ágil)
 - EVM-Ágil: VP, VA, CR, CPI, SPI — planilha e gráficos
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para montar estrutura da planilha EVM e calcular índices (CPI, SPI, EAC)
@@ -176,12 +176,12 @@
 
 #### III. Avaliação Individual — 20%
 
-- MD-R1 entregue com log de autoavaliação IA
+- MD-R1 entregue com log de autoavaliação da IA (seção 6.)
 - `MD_Template.md`: ≥ 3 entradas individuais com qualidade reflexiva
 - Contribuições rastreáveis: commits, PRs, issues com autoria identificada
 - Capacidade de explicar qualquer trecho de código em revisão síncrona de PR
 
-📋 **MD-R1:** tema — decisão de planejamento. Submeter arquivo MD_XX_Matricula + log de autoavaliação de IA no repositório antes das 23h59 do dia 28/04/2026.
+📋 **MD-R1:** tema — decisão de planejamento. Submeter arquivo MD_XX_Matricula + log de autoavaliação da IA (seção 6.) antes das 23h59 do dia 28/04/2026.
 
 📊 **DA-R1:** Submeter o notebook do Dashboard Gerencial e Analítico da R1
 
@@ -303,7 +303,7 @@
 - `MD_Template.md`: ≥ 4 entradas individuais acumuladas
 - Contribuições rastreáveis equilibradas entre os membros
 
-📋 **MD-R2 concluído.** Submeter arquivo MD + log de autoavaliação da IA no repositório antes das 23h59 do dia 26/05/2026.
+📋 **MD-R2 concluído.** Submeter arquivo MD + log de autoavaliação da IA (seção 6.) antes das 23h59 do dia 26/05/2026.
 
 📊 **DA-R2:** Submeter o notebbok do Dashboard Gerencial e Analítico da R2
 
@@ -327,7 +327,7 @@
 
 🟣 **RM 4**
 
-📋 **MD-R3 em escrita:** decisão de qualidade identificada; rodar autoavaliação IA antes de submeter
+📋 **MD-R3 em escrita:** decisão de qualidade identificada; rodar autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para sugerir normalizações e transformações das métricas coletadas
@@ -346,7 +346,7 @@
 
 🟣 **RM 6**
 
-📋 **MD-R3 em escrita:** decisão de qualidade identificada; rodar autoavaliação IA antes de submeter
+📋 **MD-R3 em escrita:** decisão de qualidade identificada; rodar autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para sugerir normalizações e transformações das métricas coletadas
@@ -389,7 +389,7 @@
 
 🟣 **RM 5**
 
-📋 **MD-R3 em escrita:** decisão estratégica e visão filosófica; rodar autoavaliação IA antes de submeter
+📋 **MD-R3 em escrita:** decisão estratégica e visão filosófica; rodar autoavaliação da IA (seção 6.) antes de submeter
 
 ✅ **IA esta semana:**
 - Canvas Analytics: IA sugere estrutura visual de síntese do semestre
@@ -446,7 +446,7 @@
 - **Defesa oral:** justificativa de decisões gerenciais na apresentação (avaliação individual)
 - Contribuições rastreáveis ao longo de todo o semestre
 
-📋 **MD-R3 candidato.** Submeter arquivo MD + log de autoavaliação da IA no repositório antes das 23h59 do dia 08/07/2026.
+📋 **MD-R3 candidato.** Submeter arquivo MD + log de autoavaliação da IA (seção 6.) antes das 23h59 do dia 08/07/2026.
 
 ✅ **IA esta semana:**
 - Copilot para refactoring e cobertura de testes finais (meta ≥ 90%)
@@ -467,7 +467,7 @@
 - Finalização do Relatório de Encerramento
 - Preparação da apresentação final (30 min + 1h30 de Q&A e apontamentos)
 
-📋 **MD-R3 concluído.** Submeter arquivo MD + log de autoavaliação da IA no repositório antes das 23h59 do dia 08/07/2026.
+📋 **MD-R3 concluído.** Submeter arquivo MD + log de autoavaliação da IA (seção 6.) no repositório antes das 23h59 do dia 08/07/2026.
 
 ✅ **IA esta semana:**
 - Seção obrigatória na apresentação: **"Como usamos IA neste semestre"** (5 min)

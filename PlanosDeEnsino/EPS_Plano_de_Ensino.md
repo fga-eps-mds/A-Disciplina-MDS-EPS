@@ -187,8 +187,8 @@ Tratada individualmente conforme as circunstâncias e os normativos da UnB. Moti
 Horário de Brasília (UTC-3). Repositórios devem ser atualizados continuamente — apenas contribuições anteriores à data-limite de cada release são consideradas na avaliação.
 
 <figure>
-  <img src="PlanosDeEnsino/calendario_eps_2026_1.png" alt="Diagrama do sistema" width="450">
-  <figcaption>Figura 1 — Calendário EPS - 2026.1</figcaption>
+  <img src="https://raw.githubusercontent.com/fga-eps-mds/A-Disciplina-MDS-EPS/master/PlanosDeEnsino/calendario_eps_2026_1.png" alt="Calendário EPS 2026.1" width="450">
+  <figcaption>Figura 1 — Calendário EPS 2026.1</figcaption>
 </figure>
 
 ---

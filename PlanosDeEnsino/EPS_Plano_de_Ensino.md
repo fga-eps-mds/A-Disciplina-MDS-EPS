@@ -201,7 +201,7 @@ O Memorando de Decisão (MD) é o principal instrumento de avaliação individua
 
 Cada aluno redige 3 MDs ao longo do semestre, um por release major, documentando as decisões reais do projeto que tomou ou co-liderou naquele ciclo. A avaliação é feita por pares (2 colegas de outros times), com o professor monitorando valores discrepantes e fazendo leitura diagonal dos MD-R3 para a defesa oral.
 
-O modelo(_template_) completo, a assinatura de avaliação por pares, o fluxo de submissão, os exemplos de decisão por tema e o prompt de auto-avaliação IA estão no arquivo `MD_Template.md`.
+O modelo(_template_) completo, a assinatura de avaliação por pares, o fluxo de submissão, os exemplos de decisão por tema e o prompt de autoavaliação IA estão no arquivo `MD_Template.md`.
 
 ---
 
@@ -257,7 +257,7 @@ Usar IA para pensar melhor **≠** usar IA para não pensar.
 
 | Categoria | Exemplos |
 |---|---|
-| ✅ **Encorajado** | Rascunhos de artefatos (visão, backlog, US, critérios de aceitação); sugestão de testes e scripts de automação; interpretação preliminar de métricas; configuração de pipelines CI/CD; análise de riscos não mapeados; código de análise de dados no Notebook; auto-avaliação dos Memorandos de Decisão |
+| ✅ **Encorajado** | Rascunhos de artefatos (visão, backlog, US, critérios de aceitação); sugestão de testes e scripts de automação; interpretação preliminar de métricas; configuração de pipelines CI/CD; análise de riscos não mapeados; código de análise de dados no Notebook; autoavaliação dos Memorandos de Decisão |
 | ⚠️ **Com restrição** *(revisão crítica + MD_Template.md obrigatórios)* | Análises do dashboard gerencial; rascunhos de relatórios; sugestão de priorização do backlog; geração de código funcional |
 | ❌ **Não permitido** | Atas de reuniões com o cliente parceiro; seção "Decisões gerenciais" do Relatório de Encerramento; apresentação oral de defesa de decisões; Memorandos de Decisão gerados integralmente por IA |
 

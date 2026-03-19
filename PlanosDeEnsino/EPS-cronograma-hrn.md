@@ -36,7 +36,7 @@
 
 ## Semana 2 — 23/03
 
-**Leitura prévia obrigatória:** Livro Lean Inception — Caroli (cap. 1–3) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Livro Lean Inception — Paulo Caroli (cap. 1–3) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - Lean Inception: estrutura, visão geral e dinâmicas
@@ -55,7 +55,7 @@
 
 ## Semana 3 — 30/03
 
-**Leitura prévia obrigatória:** Lean Inception — Caroli (cap. 4–7) · *bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Lean Inception — Paulo Caroli (cap. 4–7) · *bilhete de entrada exigido*
 
 **Conteúdo:**
 - Lean Inception: personas, jornadas, é/não-é faz/não-faz
@@ -76,7 +76,7 @@
 
 ## Semana 4 — 06/04
 
-**Leitura prévia obrigatória:** PMBOK (cap. Escopo) e Scrum (Backlog do Produto) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Escopo) e Guia Oficial do Scrum (Backlog do Produto) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - Área de Conhecimento: **Escopo** (tradicional e ágil) — sessão crítica (40 min)
@@ -97,7 +97,7 @@
 
 ## Semana 5 — 13/04
 
-**Leitura prévia obrigatória:** PMBOK (cap. Tempo) + Cohn (cap. 1–3) + Scrum (Backlog do Sprint) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Tempo) + Livro Succeeding with agile - Mike Cohn (cap. 1–3) + Guia Oficial do Scrum (Backlog do Sprint) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - Área de Conhecimento: **Tempo** (tradicional e ágil) — sessão crítica (40 min)
@@ -120,7 +120,7 @@
 
 > Não há aula presencial. Os projetos e sprints **não param**.
 
-**Leitura prévia obrigatória:** Artigo EVM-Ágil (Teams) ·
+**Leitura prévia obrigatória:** PMBoK (cap. Custos) + Artigo EVM-Ágil (Teams) ·
 
 **Conteúdo:**
 - Área de Conhecimento: **Custo** (tradicional e ágil)
@@ -198,7 +198,8 @@
 
 ## Semana 8 — 04/05
 
-**Leitura prévia obrigatória:** Artigo Gestão de Riscos (Teams) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Riscos) + Artigo - Management of novel projects under conditions
+of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - Área de Conhecimento: **Risco** — sessão crítica (40 min)
@@ -222,7 +223,7 @@
 
 ## 📦 Semana 9 — 11/05
 
-**Leitura prévia obrigatória:** Marco Túlio (Cap. 2) + [Slides Kanban no GitHub](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/tree/master/Agil_material/Kanban) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Leitura prévia obrigatória: [Engenharia de Software Moderna - Marco Túlio (Cap. 2 - Kanban)](https://engsoftmoderna.info/cap2.html#kanban) + [Slides Kanban no GitHub](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/tree/master/Agil_material/Kanban) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - Sistemas **Kanban**: fluxo contínuo, WIP limits, lead time, throughput — sessão crítica (40 min)
@@ -245,7 +246,7 @@
 
 ## Semana 10 — 18/05
 
-**Leitura prévia obrigatória:** ISO 25010 (resumo executivo) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** ISO 25010 + Artigo The-SQALE-Analysis-Model - Letouzey, J. L. and Coq, T. (Teams) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - **Qualidade de Software** ao longo do tempo: McCall, Boehm, Dromey, ISO 9126/25010 — sessão crítica (40 min)
@@ -319,7 +320,7 @@
 
 ## Semana 12 — 01/06
 
-**Leitura prévia obrigatória:** Artigo Q-Rapids + Zhang et al. — Software Analytics · *Bilhete de entrada exigido*  
+**Leitura prévia obrigatória:** Artigo A Quality Model for Actionable Analytics in Rapid Software Development - Martínez-Fernández, M. _et al_. + Towards an artifact to support agile teams in software analytics activities - Choma J., _et al_. — Software Analytics · *Bilhete de entrada exigido*  
 
 **Conteúdo:**
 - **Squale, Quamoco, Q-Rapids** — modelos de avaliação de qualidade — sessão crítica (40 min)
@@ -362,7 +363,7 @@
 
 ## Semana 14 — 15/06
 
-**Leitura prévia obrigatória:** Cap. 10 engsoftmoderna.info · *Bilhete de entrada exigido*  
+**Leitura prévia obrigatória:** [Livro Engenharia de Software Moderna (cap. 10) - Marco Tulio](https://engsoftmoderna.info/cap10.html) + Artigo Continuous software engineering: A roadmap and agenda -Brian Fitzgerald and Klaas-Jan Stol (Teams)· *Bilhete de entrada exigido*  
 **Vídeo-aula assíncrona:** Prof. Breno França (UNICAMP) — Engenharia de Software Contínua
 
 **Conteúdo:**
@@ -372,8 +373,8 @@
 📋 **MD-R3 em escrita:** tema — decisão estratégica. Reflexão: o que mudaria no gerenciamento? Por que? Com qual base filosófica?
 
 ✅ **IA esta semana:**
-- Copilot para evoluir pipelines CI/CD: SAST, deploy automático, feature flags
-- Copilot para revisar o pipeline e identificar gaps em relação às práticas de ESW Contínua
+- Copilot para evoluir pipelines CI/CD: SAST, deploy automático
+- Copilot para revisar o pipeline e identificar lacunas em relação às práticas de ESW Contínua
 
 ⚠️ **Limites:**
 - Estratégia de deploy em produção para o parceiro real requer aprovação humana

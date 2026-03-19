@@ -313,7 +313,7 @@ ANDERSON, D. J. **Kanban: Successful Evolutionary Change for Your Technology Bus
 
 COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.
 
-### Engenharia de Software
+### Programação
 
 [Code Complete [Steve McConnell] ](https://www.goodreads.com/book/show/4845.Code_Complete)
 
@@ -328,8 +328,6 @@ COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.
 
 [Building Evolutionary Architectures: Support Constant Change [Neal Ford, Rebecca Parsons, Patrick Kua] ](https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures)
 
-### Microsserviços
-
 [Building Microservices: Designing Fine-Grained Systems [Sam Newman]](https://www.goodreads.com/book/show/22512931-building-microservices)
 
 [Microservices: a definition of this new architectural term [Martin Fowler]](https://martinfowler.com/articles/microservices.html)
@@ -338,7 +336,7 @@ COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.
 
 [The Modern Web Design Process [Jeff Cardello, John M. Williams]](https://ebooks.webflow.com/ebook/the-modern-web-design-process)
 
-## Métodos Ágeis 
+### Métodos Ágeis 
 [Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds [Henrik Kniberg, Anders Ivarsson]](http://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 [Software Engineering: A Practitioner's Approach](https://www.goodreads.com/book/show/142783.Software_Engineering)
@@ -347,7 +345,7 @@ COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.
 
 [Extreme Programming Explained: Embrace Change [ Kent Beck, Cynthia Andres]](https://www.goodreads.com/book/show/18174.Extreme_Programming_Applied)
 
-## DevOps 
+### DevOps 
 
 [The DevOps Handbook [Gene Kim, Jez Humble, Patrick Debois, John Willis]](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 
@@ -357,33 +355,47 @@ COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.
 
 ### Qualidade de Produto de Software
 
-ISO/IEC 25010:2011. **Systems and software Quality Requirements and Evaluation (SQuaRE)**. Geneva: ISO, 2011.
+[ISO/IEC 25010:2011. **Systems and software Quality Requirements and Evaluation (SQuaRE)**. Geneva: ISO, 2011.](https://www.iso.org/standard/78175.html)
+[The Quamoco Product Quality Modelling and Assessment Approach
+Stefan Wagner, Klaus Lochmann, Lars Heinemann, Michael Kläs, Adam Trendowicz, Reinhold Plösch, Andreas Seidl, Andreas Goeb, Jonathan Streit, 2012](https://arxiv.org/abs/1611.04433)
 
-FERNÁNDEZ-SÁEZ, A. M. et al. **Q-Rapids: Quality-aware Rapid Software Development**. In: *Proceedings of the 40th ICSE*. ACM, 2018.
+[The SQALE Analysis Model: An Analysis Model Compliant with the Representation Condition for Assessing the Quality of Software Source Code, Jean-Louis Letouzey and Thierry Coq](https://www.researchgate.net/publication/224187683_The_SQALE_Analysis_Model_An_Analysis_Model_Compliant_with_the_Representation_Condition_for_Assessing_the_Quality_of_Software_Source_Code)
 
-LANZA, M.; DUCASSE, S. **Object-Oriented Metrics in Practice**. Springer, 2006.
+[FERNÁNDEZ-SÁEZ, A. M. et al. **Q-Rapids: Quality-aware Rapid Software Development**. In: *Proceedings of the 40th ICSE*. ACM, 2018.](https://dl.acm.org/doi/abs/10.1007/978-3-030-29852-4_32)
 
-### Software Analytics e EVM
+[QATCH - An adaptive framework for software product quality
+assessment, Miltiadis G. Siavvas, Kyriakos C. Chatzidimitriou, Andreas L. Symeonidis, 2017](https://www.researchgate.net/publication/317195033_QATCH_-_An_adaptive_framework_for_software_product_quality_assessment)
 
-ZHANG, D. et al. **Software analytics in practice**. *IEEE Software*, v. 30, n. 5, p. 30–37, 2013.
+[LANZA, M.; Radu, M.; Ducasse, S. **Object-Oriented Metrics in Practice**. Springer, 2006.](https://dl.acm.org/doi/10.5555/1076853)
 
-SULAIMAN, T.; BARTON, B.; BLACKBURN, T. **AgileEVM — Earned Value Management in Scrum Projects**. In: *Proceedings of AGILE 2006*. IEEE, 2006.
+### Testes
+[Code coverage at Google, Ivankovic M.,Petrovic G., Just R., Fraser G.;2019 in Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://research.google/pubs/code-coverage-at-google/)
+
+[How Google Tests Software, James A. Whittaker, Jason Arbon, Jeff Carollo, 2012](https://books.google.com.br/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y)
+
+### Software Analytics
+
+[ZHANG, D. et al. **Software analytics in practice**. *IEEE Software*, v. 30, n. 5, p. 30–37, 2013.](https://ieeexplore.ieee.org/document/6559957)
+
+
+### EVM com Scrum
+[SULAIMAN, T.; BARTON, B.; BLACKBURN, T. **AgileEVM — Earned Value Management in Scrum Projects**. In: *Proceedings of AGILE 2006*. IEEE, 2006.](https://ieeexplore.ieee.org/document/1667558/)
 
 ### Filosofia e Estratégia do Gerenciamento
 
-MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. **Strategy Safari**. Free Press, 1998.
+[MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. **Strategy Safari**. Free Press, 1998.](https://www.myindustry.ir/files/Strategy-Safari-Mintzberg.pdf)
 
-DEMING, W. E. **Out of the Crisis**. MIT Press, 1986.
+[DEMING, W. E. **Out of the Crisis**. MIT Press, 1986.](https://mitpress.mit.edu/9780262541152/out-of-the-crisis/)
 
 ### IA Generativa em Engenharia de Software
 
-DAKHEL, A. M. et al. **GitHub Copilot AI pair programmer: Asset or liability?** *Journal of Systems and Software*, v. 203, 2023.
+[DAKHEL, A. M. et al. **GitHub Copilot AI pair programmer: Asset or liability?** *Journal of Systems and Software*, v. 203, 2023.](https://arxiv.org/abs/2206.15331)
 
-BIRD, C. et al. **Taking Flight with Copilot: Early insights and opportunities of AI-powered pair-programming tools**. *ACM Queue*, v. 20, n. 6, 2023.
+[BIRD, C. et al. **Taking Flight with Copilot: Early insights and opportunities of AI-powered pair-programming tools**. *ACM Queue*, v. 20, n. 6, 2023.](https://dl.acm.org/doi/10.1145/3589996)
 
-BECKER, B. A. et al. **Programming Is Hard — Or at Least It Used to Be: Educational Opportunities and Challenges of AI Code Generation**. In: *Proceedings of the 54th ACM SIGCSE*. ACM, 2023.
+[BECKER, B. A. et al. **Programming Is Hard — Or at Least It Used to Be: Educational Opportunities and Challenges of AI Code Generation**. In: *Proceedings of the 54th ACM SIGCSE*. ACM, 2023.](https://dl.acm.org/doi/10.1145/3545945.3569759)
 
-RUSSO, D. **Navigating the Complexity of Generative AI Adoption in Software Engineering**. *ACM Transactions on Software Engineering and Methodology*, 2024.
+[RUSSO, D. **Navigating the Complexity of Generative AI Adoption in Software Engineering**. *ACM Transactions on Software Engineering and Methodology*, 2024.](https://arxiv.org/abs/2307.06081)
 
 ---
 

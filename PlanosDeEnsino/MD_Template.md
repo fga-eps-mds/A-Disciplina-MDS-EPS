@@ -7,27 +7,36 @@
 
 ## Instruções gerais
 
-> Remova este bloco antes de submeter o documento.
+> Antes de submeter o documento: (1) remova a partir deste bloco até o bloco [`Template do Memorando de Decisão`]; (2) remova o bloco de [`Regras Gerais`].
 
-- **Nome do arquivo:** `MD-[R1|R2|R3]-[matricula].md`  
+- **Nome do arquivo MD:** `MD-[R1|R2|R3]-[matricula].md`  
   Exemplo: `MD-R1-190123456.md`
 - **Extensão máxima:** 2 páginas renderizadas — qualidade importa mais que volume
-- **Submissão:** arquivo MD + log de autoavaliação IA no repositório
-- **Sem a autoautoavaliação da IA preenchida, o MD não é aceito para autoavaliação**
+- **Submissão:** o arquivo `MD-[XX]-[matricula].md` deve ser sumetido no Aprender 3
+
+---
+
+## Regras gerais
+> Sem a seção 5 [`Evidências e Registro de Processo`] preenchida, o MD não é aceito para avaliação.
+- Evidências e Registro de processo são obrigatórias para todos, independentemente do uso de IA
+- O link de rastreabilidade é obrigatório — sem ele, critério I = 0 automaticamente
+- Revisão por pares idealmente não conhecem a identidade do autor durante a autoavaliação
+- O professor pode convocar qualquer aluno para defender oralmente seu MD
+- Plágio entre MDs ou geração integral por IA sem reflexão própria: nota 0 e registro de ocorrência
 
 ---
 
 ## Temas por release
 
-| MD        | Área temática                               | Prazo | Exemplos de decisão |
-|-----------|---------------------------------------------|---|---|
-| **MD-R1** | Planejamento: escopo, tempo, custo ou risco | 20/04 | Como priorizamos o backlog? Por que essa velocity de referência? Qual risco priorizamos e com qual plano de resposta? Como definimos o orçamento? |
-| **MD-R2** | Qualidade: modelos, métricas ou Analytics   | 08/06 | Como escolhemos os limiares do SonarCloud? O que o Notebook Analytics revelou e o que decidimos? Por que adotamos X e não Y como métrica? |
-| **MD-R3** | Encerramento: versão final do produto       | 29/06 | O que mudaria no gerenciamento se fosse repetir? Qual visão filosófica guiou as decisões difíceis? O que a IA definitivamente não poderia ter decidido? |
+| MD        | Área temática                               | Exemplos de decisão |
+|-----------|---------------------------------------------|---|
+| **MD-R1** | Planejamento: escopo, tempo, custo oe risco | Como priorizamos o backlog? Por que essa velocity de referência? Qual risco priorizamos e com qual plano de resposta? Como definimos o orçamento? |
+| **MD-R2** | Qualidade: modelos, métricas e Analytics    | Como escolhemos os limiares do SonarCloud? O que o Notebook Analytics revelou e o que decidimos? Por que adotamos X e não Y como métrica? |
+| **MD-R3** | Encerramento: versão final do produto       | O que mudaria no gerenciamento se fosse repetir? Qual visão filosófica guiou as decisões difíceis? O que a IA definitivamente não poderia ter decidido? |
+
 
 ---
-
-## Assinatura de autoavaliação (revisão por pares)
+## Critérios de avaliação
 
 Cada critério é avaliado de 0 a 3. **Nota final = soma dos 4 critérios (máximo 12).**
 
@@ -46,23 +55,28 @@ Cada critério é avaliado de 0 a 3. **Nota final = soma dos 4 critérios (máxi
 
 ---
 
-## Fluxo de submissão e autoavaliação
+## Fluxo de submissão e avaliação
 
 ```
-1. Escreva o MD usando o template abaixo (máx. 2 páginas)
-2. Rode o prompt de auto-autoavaliação IA (seção "Prompt padrão")
-3. Revise o MD com base no feedback da IA
-4. Submeta: arquivo MD + log da IA no repositório
-5. 2 colegas de outros times avaliam via assinatura acima — revisão cega quando possível
-6. Divergência > 3 pts entre avaliadores → terceiro avaliador sorteado
-7. Professor monitora valores discrepantes e faz leitura diagonal dos MDs para a defesa oral
+1. Escreva o MD usando o template abaixo (máx. 2 páginas renderizadas)
+2. Preencha a seção 5.1 com no mínimo 2 evidências (ZenHub, GitHub, Figma, SonarCloud)
+3. Preencha a seção 5.2 com a narrativa do processo de decisão
+4. Preencha a seção 5.3:
+   - **Se usou IA:** rode o prompt padrão, cole o output e descreva o que revisou
+   - **Se não usou IA:** descreva como chegou à decisão sem a ferramenta
+5. Submeta o arquivo MD no Aprender 3, seguindo instruções de nome e formato
+6. Dois colegas de outros times avaliam segundo os critérios de avaliação — revisão cega quando possível
+7. Divergência > 3 pts entre avaliadores → professor
+8. Professor avalia e pode convocar o autor para defesa oral se necessário
 ```
+
+
 
 ---
 
-## Prompt padrão de auto-autoavaliação IA
+## Prompt padrão de autoavaliação da IA
 
-> Use este prompt **antes de submeter** o MD. Cole o output na seção 6 do documento.  
+> Use este prompt **antes de submeter** o MD. Cole o output na seção 5 do documento.  
 > Funciona no Claude (claude.ai) e no Copilot Chat.
 
 ```
@@ -91,17 +105,16 @@ Seja direto e específico. Não elogie genericamente.
 
 ---
 
-# Memorando de Decisão — [MD-R1 / MD-R2 / MD-RN]
+# Memorando de Decisão
 
-| Campo | Valor |
-|---|---|
-| **Nome** | |
-| **Matrícula** | |
-| **Time** | |
-| **Sprint** | |
-| **Data** | |
-| **Tipo** | [ ] MD-R1 &nbsp; [ ] MD-R2 &nbsp; [ ] MD-RN |
-| **Rastreabilidade** | [link para issue / PR / commit / card no ZenHub] |
+| Campo              | Valor                                       |
+|--------------------|---------------------------------------------|
+| **Nome Estudante** |                                             |
+| **Matrícula**      |                                             |
+| **Time**           |                                             |
+| **Sprint**         |                                             |
+| **Data**           |                                             |
+| **Tipo**           | [ ] MD-R1 &nbsp; [ ] MD-R2 &nbsp; [ ] MD-R3 |
 
 ---
 
@@ -109,18 +122,18 @@ Seja direto e específico. Não elogie genericamente.
 
 *Descreva o momento do projeto: qual era a situação, qual problema precisava ser resolvido,
 quais eram as pressões — prazo, escopo, qualidade, cliente. Máximo 150 palavras.*
-
+```
 [Seu texto aqui]
-
+```
 ---
 
 ## 2. A Decisão Tomada
 
 *Enuncie a decisão de forma clara e objetiva, em uma ou duas frases.
-A rastreabilidade no cabeçalho deve apontar diretamente para o registro desta decisão.*
-
+A rastreabilidade na subseção 6.1 deve apontar diretamente para o registro desta decisão.*
+```
 [Sua decisão aqui]
-
+```
 ---
 
 ## 3. Fundamentação Teórica
@@ -128,56 +141,71 @@ A rastreabilidade no cabeçalho deve apontar diretamente para o registro desta d
 *Explique qual conceito ou framework teórico da disciplina sustenta essa decisão.
 Não basta mencionar o nome — mostre como o conceito se aplica ao caso concreto.*
 
-**Conceito:** [nome do conceito ou framework]
 
-**Referência:** [autor, título, ano — use as referências do Plano de Ensino ou outra fonte acadêmica]
+**_Conceito_:** _[nome do conceito ou framework]_
 
-**Aplicação:** *Como o conceito se manifesta nesta decisão específica? O que ele explica que a intuição sozinha não explicaria?*
+**_Referência_:** _[autor, título, ano — use as referências do Plano de Ensino ou outra fonte acadêmica]_
 
-[Seu texto aqui]
+**_Aplicação_:** *Como o conceito se aplica nesta decisão específica? O que ele explica que a intuição sozinha não explicaria?*
+```
+Conceito: [seu texto aqui]
 
+Referência: [seu texto aqui]
+
+Aplicação: [seu texto aqui]
+```
 ---
 
 ## 4. Alternativas Consideradas
 
-*Liste ao menos 2 alternativas reais que foram cogitadas antes da decisão.
+*Liste ao menos uma alternativa real que foi cogitada antes da decisão.
 Use critérios explícitos de comparação — não apenas "foi descartada porque era pior".*
 
-| Alternativa | Vantagens | Por que foi descartada |
-|---|---|---|
-| [Alternativa 1] | | |
-| [Alternativa 2] | | |
-| [Alternativa 3 — opcional] | | |
+| Alternativa                | Vantagens | Por que foi descartada? |
+|----------------------------|---|-------------------------|
+| [Alternativa 1]            | |                         |
+| [Alternativa N — opcional] | |                         |
 
 ---
 
-## 5. Critério de Sucesso
+## 5. Evidências e Registro de Processo
 
-*Como você saberá que foi a decisão certa?
-Defina um indicador mensurável, onde será rastreado e em qual prazo.*
+> ⚠️ **Campo obrigatório.** MDs submetidos sem esta seção não são aceitos para avaliação.
 
-**Indicador:** [o que será medido]
+### 5.1 Evidências da decisão
 
-**Onde rastrear:** [ ] ZenHub &nbsp; [ ] SonarCloud &nbsp; [ ] Repositório &nbsp; [ ] Outro: ___
+*Registre as URLs que comprovam que a decisão foi tomada, discutida e executada.
+Mínimo 2 evidências obrigatórias — quanto mais rastreável, melhor avaliado no critério I.*
 
-**Prazo de verificação:** [data ou sprint]
+| Tipo de evidência                  | URL |
+|------------------------------------|---|
+| Issue ou card no ZenHub            | |
+| Pull Request (aberto ou fechado)   | |
+| Commits                            | |
+| Protótipo ou comentário no Figma   | |
+| Métrica ou relatório no SonarCloud | |
+| Outro registro                     | |
 
-**Resultado atual** *(preencher na RN ou quando disponível):* [o que os dados mostram]
+### 5.2 Narrativa do processo de decisão
 
----
+*Como você chegou a essa decisão? Com quem você discutiu,
+que dados analisou? Máximo 100 palavras.*
+```
+[Seu texto aqui]
+```
+### 5.3 Uso de IA generativa
 
-## 6. Log de Autoavaliação da IA
+**Utilizei IA nesta decisão?** [ ] Sim &nbsp; [ ] Não
 
-> ⚠️ **Campo obrigatório.** MDs submetidos sem esta seção não são aceitos.
+**Se sim — preencha os campos abaixo:**
 
 **Ferramenta:** [ ] Claude &nbsp; [ ] Copilot Chat &nbsp; [ ] Outro: ___
 
 **Prompt:** [ ] Usei o prompt padrão sem modificações &nbsp; [ ] Modifiquei — modificação: ___
 
 **Output da IA:**
-
 ```
-[Cole aqui o output completo da auto-autoavaliação.
+[Cole aqui o output completo da autoavaliação.
 Inclua as notas por critério e o ponto mais fraco identificado.]
 ```
 
@@ -193,32 +221,27 @@ Inclua as notas por critério e o ponto mais fraco identificado.]
 
 **O que revisei a partir do feedback:**
 
-*Descreva o que você alterou no MD após a auto-autoavaliação.
+*Descreva o que você alterou no MD após a autoavaliação da IA.
 Se não alterou nada, justifique por que discordou do feedback.*
-
+```
 [Seu texto aqui]
-
+```
 ---
 
 ## Checklist de submissão
 
 - [ ] Cabeçalho completo com link de rastreabilidade válido
-- [ ] Seções 1 a 5 preenchidas sem instruções em itálico
-- [ ] Seção 6 com output da IA colado na íntegra
+- [ ] Seções 1 a 4 preenchidas sem instruções em itálico
+- [ ] Seção 5.1 preenchida com no mínimo 2 evidências com URLs válidas
+- [ ] Seção 5.2 preenchida com narrativa do processo de decisão
+- [ ] Seção 5.3 preenchida — log de IA (se usou)
 - [ ] Extensão respeitada (máx. 2 páginas renderizadas)
-- [ ] Arquivo salvo como `MD-[R1|R2|RN]-[matricula].md`
-- [ ] Entrada correspondente registrada no `MD_Template.md` do projeto
-- [ ] Bloco de instruções do início removido
+- [ ] Arquivo salvo como `MD-[R1|R2|R3]-[matricula].md`
+- [ ] Bloco de instruções removidos
+- [ ] Submissão do seu registro de decisão na plataforma Aprender 3.
 
----
 
-## Regras gerais
-
-- MDs sem a seção 6 preenchida não são aceitos para autoavaliação
-- O link de rastreabilidade é obrigatório — sem ele, critério I = 0 automaticamente
-- Revisão por pares idealmente não conhecem a identidade do autor durante a autoavaliação
-- O professor pode convocar qualquer aluno para defender oralmente seu MD
-- Plágio entre MDs ou geração integral por IA sem reflexão própria: nota 0 e registro de ocorrência
+> O seu arquivo deve terminar aqui.
 
 ---
 

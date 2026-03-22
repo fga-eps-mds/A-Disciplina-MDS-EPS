@@ -3,12 +3,14 @@
 **Universidade de Brasília — Faculdade UnB Gama (FGA)**  
 **Curso:** Engenharia de Software  
 **Semestre:** 2026.1  
-**Carga horária:** 60 horas (2 créditos teórico/prático + 2 créditos extensionista)  
+**Carga horária:** 60 horas (2 créditos teórico/prático + 2 créditos extensão)  
 **Horário:** segundas-feiras | 10h–14h  
 **Sala:** MOCAP
 **Professor:** Prof. Hilmer Rodrigues Neri  
 **Repositório da disciplina:** https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS  
 **Organização dos projetos:** https://github.com/fga-eps-mds
+
+> O Cronograma da disciplina, guia operacional deste plano, consulte [(`EPS_Cronograma_HRN.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md)
 
 ---
 
@@ -117,20 +119,22 @@ Os dados gerados ao longo do desenvolvimento — processo, produto e pessoas ano
 | Dashboard Gerencial e Analítico | 30% |
 | Avaliação Individual            | 20% |
 
-> Não há provas nem minitestes. O aprendizado teórico é avaliado pelos **Memorandos de Decisão** — ver seção 6.
+> Não há provas nem minitestes. O aprendizado teórico é avaliado pelos **[`Memorandos de Decisão`] e [`Participação nas Sessões Críticas de Discussão`]**.
 
 ### Releases major
 
 O Projeto, o Processo, o Produto e os _Dashboards_ são avaliados continuamente e consolidados em três releases major. As datas, pesos e critérios detalhados de cada componente estão no cronograma [(`EPS_Cronograma_2026_1.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md).
 
-| Release | Data-limite | Peso no projeto | Foco                                                  |
-|---------|-------|---|-------------------------------------------------------|
-| **R1**  | 27/04 | 30% | Planejamento, arquitetura, pipeline, dashboard(v1)    |
-| **R2**  | 25/05 | 30% | Incremento funcional, qualidade, Notebook Analytics(v1) |
-| **R3**  | 29/06 | 40% | MVP validado, Analytics completo   |
+| Release | Data-limite | Peso no projeto | Foco                                                                   |
+|---------|-------|---|------------------------------------------------------------------------|
+| **R1**  | 27/04 | 30% | Planejamento, arquitetura, pipeline, dashboard(v1)                     |
+| **R2**  | 25/05 | 30% | Incremento funcional, qualidade, dashboard(v2), Notebook Analytics(v1) |
+| **R3**  | 29/06 | 40% | MVP validado, Analytics completo                                       |
 
 Apresentações: R1 = 20 min (reunião 1h) · R2 = 20 min (reunião 1) · R3 = 30 min (reunião 1h30).  
 Todos os membros do time participam. As apresentações serão gravadas no Teams. As releases devem ser implantadas em ambiente de homologação na data de apresentação.
+
+> Registrar as entregas no Aprender 3.
 
 ### Releases Minor
 
@@ -138,44 +142,58 @@ As releases do tipo _minor_ ocorrem em sprints, ou seja, versões parciais do pr
 
 | Release | Semana |
 |---------|--------|
-| RM 1    | 04/05  |
-| RM 2    | 11/05  |
-| RM 3    | 18/05  |
-| RM 4    | 01/06  |
-| RM 5    | 22/06  |
+| RM1     | 13/04  |
+| RM2     | 04/05  |
+| RM3     | 11/05  |
+| RM4     | 01/06  |
+| RM5     | 15/06  |
+| RM6     | 06/07  |
+
+> Registrar as entregas no Aprender 3.
 
 ### _Dashboards_ Analíticos
 - O Dashboard Gerencial e Analítico é um artefato vivo que evolui ao longo do semestre, integrando dados de processo, produto e pessoas em um único painel de apoio à decisão. Não se trata de um relatório estático entregue ao final — é construído sprint a sprint e avaliado em cada release major como evidência de que o time está gerenciando com base em dados, não em percepção.
 - O artefato central do dashboard é um Notebook Jupyter, mantido no repositório do projeto e versionado junto com o código-fonte. O notebook deve consumir diretamente o arquivo .json de métricas gerado automaticamente pelo pipeline CI/CD a partir do SonarCloud. Além das medidas de qualidade de produto, devem ser incluídos dados do EVM Ágil, GitHub/Zenhub, Riscos, garantindo rastreabilidade e reprodutibilidade das análises.
 
-| Dashboard | Data-limite | Peso nos 30% | Foco                                                                                                                                                                                                                                                                                                                                                                   |
-|-----------|-------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **DA-R1** | 27/04 | 30%          | Consolidar os primeiros indicadores técnicos e gerenciais: velocity, burndown, EVM-Ágil e matriz de riscos.                                                                                                                                                                                                                                                            |
-| **DA-R2** | 25/05 | 40%          | incorpora o Notebook Analytics com as métricas de qualidade coletadas automaticamente do SonarCloud, normalizadas e interpretadas pelo time.                                                                                                                                                                                                                           |
-| **DA-R3** | 29/06 | 30%          | Alcança sua forma final com o Canvas Analytics — uma síntese visual do desempenho do produto e do projeto ao longo de todo o semestre, incluindo a análise planejado × realizado e uma retrospectiva crítica sobre o uso de IA generativa no projeto.  |
+| Dashboard | Data-limite | Peso nos 30% | Foco                                                                                                                                                                                                                                                                 |
+|-----------|-------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **DA-R1** | 27/04 | 30%          | Consolidar os primeiros indicadores técnicos e gerenciais. Ex: velocity, burndown, EVM-Ágil e matriz de riscos.                                                                                                                                                      |
+| **DA-R2** | 25/05 | 40%          | Evolui DA-R1 e incorpora o Notebook Analytics com as métricas de qualidade coletadas automaticamente do SonarCloud, normalizadas, ponderadas, agregadas e interpretadas pelo time.                                                                                   |
+| **DA-R3** | 29/06 | 30%          | Evolui DA-R2 e alcança sua forma final com o Canvas Analytics — uma síntese visual do desempenho do produto e do projeto ao longo de todo o semestre, incluindo a análise planejado × realizado e uma retrospectiva crítica sobre o uso de IA generativa no projeto. |
 
-O dashboard gerencial analítico alcança sua forma final com o Canvas Analytics — uma síntese visual do desempenho do produto, projeto e processo, ao longo de todo o semestre.
-
+> Registrar as entregas no Aprender 3.
+> 
 ### Avaliação Individual - Memorandos de Decisão
 
-| MD    | Área temática         | Data de Entrega | Revisão pelos pares | Peso nos 20% | 
-|-------|--------------|-------|---------------------|---|
-| MD-R1 | Planejamento: escopo, tempo, custo ou risco | 27/04 | 27/04               | 35% |
-| MD-R2 | Qualidade: modelos, métricas ou Analytics    | 25/05 | 01/06               | 35% |
-| MD-R3 | Encerramento: versão final do produto | 29/06 | 13/07 - Professor   | 20% |
+| MD                                          | Área temática                                 | Data de Entrega     | Peso nos 20% | 
+|---------------------------------------------|-----------------------------------------------|---------------------|--------------|
+| MD-R1                                       | Planejamento: escopo, tempo, custo e risco    | 28/04               | 25%          |
+| MD-R2                                       | Qualidade: modelos, métricas e Analytics      | 26/05               | 25%          |
+| MD-R3                                       | Encerramento: versão final do produto         | 07/07               | 25%          |
+| Participação nas sessões de discussão (PSD) | Bilhetes de Entrada + Participação Discussões | conforme cronograma | 25%          |
 
+> Registrar as entregas no Aprender 3.
 ---
 
 ### Composição da nota final
 
 ```
-Individual  = (MD-R1    × 0,30)
-            + (MD-R2    × 0,35)
-            + (MD-R3    × 0,35)
-
-Nota Final  = (Projeto e Produto × 0,50)
-            + (Dashboard         × 0,30)
-            + (Individual        × 0,20)
+Individual  = (MD-R1  × 0,25)
+            + (MD-R2  × 0,25)
+            + (MD-R3  × 0,25)
+            + (PSD    × 0,25)
+            
+Release(projeto-produto) = (R1 × 0,30)
+                         + (R2 × 0,30)
+                         + (R3 × 0,40)
+                                  
+Dashboard = (DA-R1 × 0,30)
+          + (DA-R2 × 0,40)
+          + (DA-R3 × 0,30)
+            
+Nota Final  = (releases   × 0,50)
+            + (Dashboard  × 0,30)
+            + (Individual × 0,20)
 ```
 
 ### Reposição
@@ -186,7 +204,7 @@ Tratada individualmente conforme as circunstâncias e os normativos da UnB. Moti
 
 Horário de Brasília (UTC-3). Repositórios devem ser atualizados continuamente — apenas contribuições anteriores à data-limite de cada release são consideradas na avaliação.
 
-<figure>
+<figure style="text-align: center;">
   <img src="https://raw.githubusercontent.com/fga-eps-mds/A-Disciplina-MDS-EPS/master/PlanosDeEnsino/calendario_eps_2026_1.png" alt="Calendário EPS 2026.1" width="450">
   <figcaption>Figura 1 — Calendário EPS 2026.1</figcaption>
 </figure>
@@ -197,11 +215,11 @@ Horário de Brasília (UTC-3). Repositórios devem ser atualizados continuamente
 
 ### O que é e por que esse formato
 
-O Memorando de Decisão (MD) é o principal instrumento de avaliação individual. Avalia a capacidade de **fundamentar decisões gerenciais reais com teoria** — o que realmente importa em EPS e na prática profissional.
+O Memorando de Decisão (MD) é um dos instrumentos de avaliação individual. Avalia a capacidade de **fundamentar decisões técnico-gerenciais reais com teoria** — o que realmente importa em EPS e na prática profissional.
 
-Cada aluno redige 3 MDs ao longo do semestre, um por release major, documentando as decisões reais do projeto que tomou ou co-liderou naquele ciclo. A avaliação é feita por pares (2 colegas de outros times), com o professor monitorando valores discrepantes e fazendo leitura diagonal dos MD-R3 para a defesa oral.
+Cada aluno redige 3 MDs ao longo do semestre, um por release major, documentando as decisões reais do projeto que tomou ou co-liderou naquele ciclo. A avaliação é feita por pares (2 colegas de outros times) e pelo professor.
 
-O modelo(_template_) completo, a assinatura de avaliação por pares, o fluxo de submissão, os exemplos de decisão por tema e o prompt de autoavaliação IA estão no arquivo `MD_Template.md`.
+O modelo(_template_) completo, os critérios de avaliação por pares e IA, o fluxo de submissão, os exemplos de decisão por tema e o prompt de autoavaliação da IA estão no arquivo [(`MD_Template.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MD_Template.md).
 
 ---
 
@@ -235,13 +253,18 @@ Os repositórios são públicos e os projetos têm usuários reais. Espera-se co
 
 ### Revisão de código
 
-O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código** em revisão síncrona — independentemente de quem ou o que o escreveu. PRs com código incompreendido pelo autor não são aprovados.
+O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código** em revisão síncrona — independentemente de quem ou o que o escreveu. PRs com código incompreendido pelo revisor ou revisora não devem ser aprovados.
+
+### Rotatividade das lideranças
+
+A cada semana, o time deve alternar as lideranças de projeto, processo e produto. O critério é a capacidade de liderança, não a senioridade técnica. A liderança é uma competência a ser desenvolvida.
+
 
 ### Comunicação
 
 - Canais oficiais: **Moodle/Teams** (materiais e avisos acadêmicos)
 - Canal Auxiliar: **Discord** (comunicação do time e da turma sobre o projeto).
-- **Observação**: eu não respondo mensagens privadas no discord. Se a comunicação é sobre o projeto, use os canais do projeto. Se é pessoal, use o teams.
+- **Observação**: eu não respondo mensagens privadas no discord. Se a comunicação é sobre o projeto, por favor, use os canais do projeto. Se é pessoal, use o teams em mensagem privada.
 
 ---
 
@@ -252,14 +275,18 @@ O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código**
 Ferramentas de IA generativa são tratadas como **colegas de equipe juniores**: úteis e produtivas, mas que precisam de supervisão, revisão e orientação. O aluno é responsável pelo que a ferramenta produz.
 
 Usar IA para pensar melhor **≠** usar IA para não pensar.
+>O uso de IA é opcional, mas a reflexão crítica sobre seu uso é obrigatória. O que diferencia um MD de qualidade não é o fato de ter sido gerado por IA ou não, mas sim a profundidade da análise, a clareza da fundamentação e a rastreabilidade das decisões — independentemente de terem sido apoiadas por IA ou não.
 
 ### Categorias de uso
 
-| Categoria | Exemplos |
-|---|---|
-| ✅ **Encorajado** | Rascunhos de artefatos (visão, backlog, US, critérios de aceitação); sugestão de testes e scripts de automação; interpretação preliminar de métricas; configuração de pipelines CI/CD; análise de riscos não mapeados; código de análise de dados no Notebook; autoavaliação dos Memorandos de Decisão |
-| ⚠️ **Com restrição** *(revisão crítica + MD_Template.md obrigatórios)* | Análises do dashboard gerencial; rascunhos de relatórios; sugestão de priorização do backlog; geração de código funcional |
-| ❌ **Não permitido** | Atas de reuniões com o cliente parceiro; seção "Decisões gerenciais" do Relatório de Encerramento; apresentação oral de defesa de decisões; Memorandos de Decisão gerados integralmente por IA |
+| Categoria | Exemplos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ✅ **Encorajado** | Rascunhos de artefatos (visão, backlog, US, critérios de aceitação); sugestão de testes e scripts de automação; interpretação preliminar de métricas; configuração de pipelines CI/CD; análise de riscos não mapeados; código de análise de dados no Notebook; avaliação da IA(quando aplicável) nos Memorandos de Decisão. Geração de scaffolding e estrutura inicial de projeto (boilerplate); Sugestão de refactoring: identificação de code smells e duplicações; Geração de documentação de código (docstrings, comentários, README); Sugestão de mensagens de commit e descrições de PR; Geração de dados de teste e mocks; Identificação de vulnerabilidades de segurança (SAST assistido); Sugestão de queries e scripts de migração de banco de dados; comentários de código-fonte. |
+| ⚠️ **Com restrição** *(revisão crítica + MD_Template.md obrigatórios)* | Análises do dashboard gerencial; rascunhos de relatórios; sugestão de priorização do backlog; geração de código funcional; Geração de testes unitários e de integração; Sugestão de decisões de arquitetura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ❌ **Não permitido** | Atas de reuniões com o cliente parceiro; seção "Decisões gerenciais" do Relatório de Encerramento; apresentação oral de defesa de decisões; Memorandos de Decisão gerados integralmente por IA; Revisão de código-fonte; Resolução de conflitos de _merge_; Aprovação de _pull-request_; Geração e publicação autônoma de releases sem validação humana.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
 
 ### Transparência no uso de Inteligência Artificial na docência
 A integração de ferramentas de IA generativa nesta disciplina não se limita às atividades dos times — ela também faz parte da minha prática como professor. Utilizo ferramentas como Claude (Anthropic) e GitHub Copilot na elaboração de documentos, na análise de dados dos projetos e na revisão de materiais didáticos. Considero adequado e honesto compartilhar isso com vocês.
@@ -268,11 +295,13 @@ Esse posicionamento também está alinhado às diretrizes nacionais para o uso r
 
 ### Rastreabilidade obrigatória
 
-Todo repositório de projeto mantém um arquivo `MD_Template.md` com entradas semanais. O template e as instruções de preenchimento estão no arquivo [(`MD_Template.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MD_Template.md) do repositório da disciplina.
+Cada arquivo `MD_Template.md` individual, deve ser alimentado com entradas semanais. As instruções sobre a rastreabilidade estão no arquivo [`MD_Template.md`], subseção 5.1.
 
-Requisitos mínimos de ciclos registrados: ≥ 2 na R1 · ≥ 5 na R2 · ≥ 8 na R3.
 
-Artefatos sem evidência de revisão crítica no `MD_Template.md` são penalizados nos critérios de avaliação correspondentes.
+
+Requisitos mínimos de ciclos de desenvolvimento registrados: ≥ 2 na R1 · ≥ 5 na R2 · ≥ 8 na R3.
+
+A ausência de registro de evidências de rastreabilidade no `MD_Template.md` será penalizadas nos critérios de avaliação correspondentes.
 
 
 ---

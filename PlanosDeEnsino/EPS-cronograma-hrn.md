@@ -55,11 +55,12 @@
 **Leitura prévia obrigatória:** Lean Inception — Paulo Caroli (cap. 1–7) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- Lean Inception: estrutura, visão geral, dinâmicas, personas, jornadas, _brainstorming_ de funcionalidades, sequenciador
+- Visões filosóficas e seu reflexo na prática do gerenciamento na engenharia de software
+- Lean Inception: estrutura, visão geral, dinâmicas, personas, jornadas, brainstorming de funcionalidades, sequenciador
 - Ciclo de vida do Projeto e do Produto
 - Diferenças e semelhanças entre manufatura e software
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - Copilot para expandir personas e sugerir funcionalidades a partir das etapas anteriores
@@ -73,14 +74,14 @@
 
 ## Semana 4 — 06/04
 
-**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Escopo) e Guia Oficial do Scrum (Backlog do Produto) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Escopo) e Guia Oficial do Scrum (Backlog do Produto, Planejamento de Sprints) · *Bilhete de entrada exigido*
 
 **Conteúdo:**
 - Área de Conhecimento: **Escopo** (tradicional e ágil) — sessão crítica (40 min)
 - EAP, backlog de produto, épicos e histórias de usuário
 - ZenHub: configuração do RoadMap e milestones
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - Copilot Chat para expandir épicos em histórias de usuário
@@ -101,7 +102,7 @@
 - Estimativas: Planning Poker, Pontos por História, Estimativa de tamanho
 - velocidade, burndown, gráfico de Gantt no ZenHub
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para gerar estimativas iniciais como linha de base de calibração do time
@@ -123,7 +124,7 @@
 - Área de Conhecimento: **Custo** (tradicional e ágil)
 - EVM-Ágil: VP, VA, CR, CPI, SPI — planilha e gráficos
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar a autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para montar estrutura da planilha EVM e calcular índices (CPI, SPI, EAC)
@@ -171,16 +172,16 @@
 
 **Evidências:** notebook Jupyter do dashboard no GitHub · planilha EVM no repositório · seção "Decisões" na Wiki
 
+📊 **DA-R1:** Submeter a url e pr do  notebook do Dashboard Gerencial e Analítico da R1 no Aprender 3
+
 #### III. Avaliação Individual — 20%
 
-- MD-R1 entregue com log de autoavaliação da IA (seção 6.)
+- MD-R1 entregue com o registro das evidências (seção 5.)
 - `MD_Template.md`: ≥ 3 entradas individuais com qualidade reflexiva
 - Contribuições rastreáveis: commits, PRs, issues com autoria identificada
 - Capacidade de explicar qualquer trecho de código em revisão síncrona de PR
 
-📋 **MD-R1:** tema — decisão de planejamento. Submeter arquivo MD_XX_Matricula + log de autoavaliação da IA (seção 6.) antes das 23h59 do dia 28/04/2026.
-
-📊 **DA-R1:** Submeter o notebook do Dashboard Gerencial e Analítico da R1
+📋 **MD-R1:** tema — decisão de planejamento. Submeter arquivo MD_XX_Matricula antes das 23h59 do dia 28/04/2026.
 
 ✅ **IA esta semana:**
 - Copilot para rascunho de slides com dados do ZenHub, SonarCloud, Github e EVM
@@ -204,7 +205,7 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - Panorama de Adoção dos Métodos Ágeis
 - SCRUM: artefatos, práticas e papéis
 
-🟣 **RM 1**
+🟣 **RM 1** - Submeter a url da TAG da release no repositório, no Aprender 3
 
 📋 **MD-R2 em escrita:** tema — gestão de riscos.
 
@@ -227,7 +228,7 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - Feedback e correções pós-R1
 - *50% do período de aulas — marco acadêmico UnB*
 
-🟣 **RM 2**
+🟣 **RM 2** - Submeter a url da TAG da release no repositório, no Aprender 3
 
 📋 **MD-R2 em escrita:** tema — decisão sobre a análise do fluxo e do processo de trabalho além do desempenho do time.
 
@@ -249,7 +250,7 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - **Qualidade de Software** ao longo do tempo: McCall, Boehm, Dromey, ISO 9126/25010 — sessão crítica (40 min)
 - Análise ao vivo: dashboard SonarCloud do próprio projeto × ISO 25010
 
-🟣 **RM 3:**
+🟣 **RM 3:** - Submeter a url da TAG da release no repositório, no Aprender 3
 
 📋 **MD-R2 em escrita:** tema — decisão de qualidade.
 
@@ -295,15 +296,17 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 
 **Evidências:** ZenHub atualizado · Notebook Jupyter com gráficos · planilha EVM atualizada · seção "Decisões" na Wiki — versão R2
 
+📊 **DA-R2:** Submeter a url e pr do notebook do Dashboard Gerencial e Analítico da R2 no Aprender 3
+
 #### III. Avaliação Individual — 20%
 
 - MD-R2 entregue com log de autoavaliação IA obrigatório
 - `MD_Template.md`: ≥ 4 entradas individuais acumuladas
 - Contribuições rastreáveis equilibradas entre os membros
 
-📋 **MD-R2 concluído.** Submeter arquivo MD + log de autoavaliação da IA (seção 6.) antes das 23h59 do dia 26/05/2026.
+📋 **MD-R2 concluído.** Submeter arquivo MD com o registro das evidências antes das 23h59 do dia 26/05/2026.
 
-📊 **DA-R2:** Submeter o notebbok do Dashboard Gerencial e Analítico da R2
+
 
 ✅ **IA esta semana:**
 - Dashboard: seção de crítica aos outputs automáticos obrigatória
@@ -323,9 +326,9 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - **Squale, Quamoco, Q-Rapids** — modelos de avaliação de qualidade — sessão crítica (40 min)
 - **Software Analytics**: padrões para tomada de decisão orientada a dados
 
-🟣 **RM 4**
+🟣 **RM 4** - Submeter a url da TAG da release no repositório, no Aprender 3
 
-📋 **MD-R3 em escrita:** decisão de qualidade identificada; rodar autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R3 em escrita:** decisão de qualidade identificada; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para sugerir normalizações e transformações das métricas coletadas
@@ -335,16 +338,17 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 
 ## 📦 Semana 13 — 08/06
 
-**Leitura prévia obrigatória:** Slides da aula de [Qualidade no GitHub](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/tree/master/GPP_Material/17-Qualidade) · *Bilhete de entrada exigido*  
+**Leitura prévia obrigatória:** Artigos Technical Debt Management in Brazilian Software Organizations: A Need, an Expectation, or a Fact? - Victor Silva e Helvio Jeronimo e Guilherme Horta Travassos . + The SQALE Method for Evaluating Technical Debt - Jean-Louis Letouzey · *Bilhete de entrada exigido*
 **Vídeo-aula assíncrona:** Prof. Eduardo Guerra (INPE/UNIBZ) — Software Analytics
 
+
 **Conteúdo:**
-- **Squale, Quamoco, Q-Rapids** — modelos de avaliação de qualidade — sessão crítica (40 min)
+- **SQALE, Quamoco, Q-Rapids** — modelos de avaliação de qualidade — sessão crítica (40 min)
 - **Software Analytics**: padrões para tomada de decisão orientada a dados
 
-🟣 **RM 6**
+🟣 **RM 5** - Submeter a url da TAG da release no repositório, no Aprender 3
 
-📋 **MD-R3 em escrita:** decisão de qualidade identificada; rodar autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R3 em escrita:** decisão de qualidade identificada; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - IA para sugerir normalizações e transformações das métricas coletadas
@@ -367,7 +371,9 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - **Implantação e Entrega Contínua** (CI/CD avançado) — sessão crítica (40 min)
 - **Engenharia de Software Contínua**: conceito, práticas e cultura
 
-📋 **MD-R3 em escrita:** tema — decisão estratégica. Reflexão: o que mudaria no gerenciamento? Por que? Com qual base filosófica?
+🟣 **RM 6** - Submeter a url da TAG da release no repositório, no Aprender 3
+
+📋 **MD-R3 em escrita:** tema — decisão encerramento. Reflexão: o que mudaria no gerenciamento? Por que? Com qual base filosófica?
 
 ✅ **IA esta semana:**
 - Copilot para evoluir pipelines CI/CD: SAST, deploy automático
@@ -385,9 +391,7 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - *75% do período de aulas — marco acadêmico UnB*
 - Roteiro de encerramento do projeto
 
-🟣 **RM 5**
-
-📋 **MD-R3 em escrita:** decisão estratégica e visão filosófica; rodar autoavaliação da IA (seção 6.) antes de submeter
+📋 **MD-R3 em escrita:** decisão estratégica e visão filosófica; registrar as evidências (seção 5.) antes de submeter
 
 ✅ **IA esta semana:**
 - Canvas Analytics: IA sugere estrutura visual de síntese do semestre
@@ -435,16 +439,8 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 
 **Evidências:** dashboard final · Notebook Analytics · Canvas Analytics · seção "Decisões" versão final · seção "Uso de IA" no Relatório de Encerramento
 
-📊 **DA-R3:** Submeter o notebook do Dashboard Gerencial e Analítico da R3 
+📊 **DA-R3:** Submeter a url e pr do notebook do Dashboard Gerencial e Analítico da R3 no Aprender 3
 
-#### III. Avaliação Individual — 20%
-
-- MD-RN entregue com log de autoavaliação IA obrigatório
-- `MD_Template.md` individual: série completa com progressão reflexiva visível
-- **Defesa oral:** justificativa de decisões gerenciais na apresentação (avaliação individual)
-- Contribuições rastreáveis ao longo de todo o semestre
-
-📋 **MD-R3 candidato.** Submeter arquivo MD + log de autoavaliação da IA (seção 6.) antes das 23h59 do dia 08/07/2026.
 
 ✅ **IA esta semana:**
 - Copilot para refactoring e cobertura de testes finais (meta ≥ 90%)
@@ -463,9 +459,18 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - Semana de encerramento do projeto e reforço de segurança do produto
 - Testes de aceitação com o cliente: execução e documentação
 - Finalização do Relatório de Encerramento
-- Preparação da apresentação final (30 min + 1h30 de Q&A e apontamentos)
 
-📋 **MD-R3 concluído.** Submeter arquivo MD + log de autoavaliação da IA (seção 6.) no repositório antes das 23h59 do dia 08/07/2026.
+### Critérios de avaliação R3
+
+#### III. Avaliação Individual — 20%
+
+- MD-RN entregue com log de autoavaliação IA obrigatório
+- `MD_Template.md` individual: série completa com progressão reflexiva visível
+- **Defesa oral:** justificativa de decisões gerenciais na apresentação (avaliação individual)
+- Contribuições rastreáveis ao longo de todo o semestre
+
+
+📋 **MD-R3 concluído.** Submeter arquivo MD + registro das evidências (seção 5.) antes das 23h59 do dia 07/07/2026.
 
 ✅ **IA esta semana:**
 - Seção obrigatória na apresentação: **"Como usamos IA neste semestre"** (5 min)

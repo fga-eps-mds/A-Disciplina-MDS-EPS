@@ -36,10 +36,7 @@
 
 ## Semana 2 — 23/03
 
-**Leitura prévia obrigatória:** Livro Lean Inception — Paulo Caroli (cap. 1–3) · *Bilhete de entrada exigido*
-
 **Conteúdo:**
-- Lean Inception: estrutura, visão geral e dinâmicas
 - Visões filosóficas e seu reflexo na prática do gerenciamento na engenharia de software
 - Kick-off dos projetos: reunião com usuários e donos(as) dos produtos
 
@@ -55,10 +52,10 @@
 
 ## Semana 3 — 30/03
 
-**Leitura prévia obrigatória:** Lean Inception — Paulo Caroli (cap. 4–7) · *bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Lean Inception — Paulo Caroli (cap. 1–7) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- Lean Inception: personas, jornadas, é/não-é faz/não-faz
+- Lean Inception: estrutura, visão geral, dinâmicas, personas, jornadas, _brainstorming_ de funcionalidades, sequenciador
 - Ciclo de vida do Projeto e do Produto
 - Diferenças e semelhanças entre manufatura e software
 

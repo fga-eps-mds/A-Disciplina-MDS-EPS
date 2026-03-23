@@ -259,6 +259,8 @@ O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código**
 
 A cada semana, o time deve alternar as lideranças de projeto, processo e produto. O critério é a capacidade de liderança, não a senioridade técnica. A liderança é uma competência a ser desenvolvida.
 
+Os líderes da semana devem conduzir a reunião com o cliente parceiro, organizar o planejamento e a retrospectiva, garantir a atualização dos artefatos de gestão (ZenHub, GitHub, SonarCloud) apresentar e discutir o Dashboard Gerencial Analítico.
+
 
 ### Comunicação
 

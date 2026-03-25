@@ -257,9 +257,14 @@ O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código**
 
 ### Rotatividade das lideranças
 
-A cada semana, o time deve alternar as lideranças de projeto, processo e produto. O critério é a capacidade de liderança, não a senioridade técnica. A liderança é uma competência a ser desenvolvida.
+A cada duas semanas, o time deve alternar as lideranças de projeto, processo e produto. O critério é a habilidades de liderança, não a senioridade técnica. A liderança é uma competência a ser desenvolvida.
 
-Os líderes da semana devem conduzir a reunião com o cliente parceiro, organizar o planejamento e a retrospectiva, garantir a atualização dos artefatos de gestão (ZenHub, GitHub, SonarCloud) apresentar e discutir o Dashboard Gerencial Analítico.
+Os líderes da semana devem: 
+- conduzir a reunião com o cliente parceiro;
+- organizar o planejamento, a retrospectiva e a revisão dos sprints;
+- garantir a atualização dos artefatos de gestão e desenvolvimento (ZenHub, GitHub, SonarCloud e outros);
+- apresentar e discutir o Dashboard Gerencial Analítico com o time e o professor. Essa discussão precisa abordar o balanceando das decisões técnicas e as gerenciais.
+
 
 
 ### Comunicação
@@ -335,14 +340,15 @@ A ausência de registro de evidências de rastreabilidade no `MD_Template.md` se
 
 ### Gerenciamento Ágil de Projetos
 
-SCHWABER, K.; SUTHERLAND, J. **The Scrum Guide**. Scrum.org, 2020.  
-*(Disponível em scrumguides.org)*
+[SCHWABER, K.; SUTHERLAND, J. **The Scrum Guide**. Scrum.org, 2020.](https://scrumguides.org/scrum-guide.html)  
 
-KIM, G.; HUMBLE, J.; DEBOIS, P.; WILLIS, J. **The DevOps Handbook**. IT Revolution Press, 2016.
 
-ANDERSON, D. J. **Kanban: Successful Evolutionary Change for Your Technology Business**. Blue Hole Press, 2010.
+[KIM, G.; HUMBLE, J.; DEBOIS, P.; WILLIS, J. **The DevOps Handbook**. IT Revolution Press, 2016.](https://books.google.com.br/books?id=ui8hDgAAQBAJ&printsec=frontcover&hl=pt-BR&source=gbs_atb#v=onepage&q&f=false)
 
-COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.
+[ANDERSON, D. J. **Kanban: Successful Evolutionary Change for Your Technology Business**. Blue Hole Press, 2010.](https://books.google.com.br/books/about/Kanban.html?id=RJ0VUkfUWZkC&redir_esc=y)
+
+[COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.](https://dl.acm.org/doi/10.5555/1036751)
+
 
 ### Programação
 

@@ -1,12 +1,21 @@
-# Cronograma — Engenharia de Produto de Software (EPS) 2026.1
+# Cronograma — Engenharia de Produto de Software (EPS) 2026.2
 
-**Primeira aula:** 16/03/2026 · **Última aula:** 18/07/2026  
-**Horário:** Segundas-feiras | 10h00–14h00  
-**Times:** 10–15 membros de EPS  
-**Ferramentas:** GitHub · ZenHub (edu) · Figma (edu) · SonarCloud · Discord
+**Primeira aula:** 10/08/2026 · **Última aula:** 14/12/2026
+**Horário:** Segundas-feiras | 10h00–13h30
+**Sala:** MOCAP
+**Times:** 10–20 membros de EPS
+**Ferramentas:** GitHub · ZenHub (edu) · Figma (edu) · SonarCloud · Streamlit · Discord
 
-> Este documento é o guia operacional do semestre. Para ementa, objetivos, metodologia,
-> política de IA, normas e referências, consulte o Plano de Ensino [(`EPS_Plano_de_Ensino.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS_Plano_de_Ensino.md)
+> Este documento é o guia operacional do semestre. Para ementa, objetivos, metodologia, política de IA, normas e referências, consulte o Plano de Ensino (`EPS_Plano_de_Ensino_2026_2.md`).
+
+> ⚠️ **Nota de elaboração (ler antes de publicar):**
+> - As datas de AT/ATP/R1-R2-R3/MD seguem o calendário oficial de graduação da UnB 2026.2 e as três decisões confirmadas em 10/08/2026: **12/10 tratado como feriado** (Nossa Senhora Aparecida, remove a aula que o calendário EPS 2026.2 havia marcado como ATP4 nesse dia), **MD-R3 com entrega em 08/12** (seguindo o calendário EPS 2026.2, não o "08/11" do Plano de Ensino — vale corrigir esse texto lá) e **Escopo+Tempo fundidos** numa única sessão.
+> - A exclusão de 12/10 tirou uma segunda-feira da janela pré-R2. Para não perder conteúdo, também fundi **Risco+Kanban** numa sessão só, mantendo Qualidade (ISO 25010) isolada por pesar mais na preparação da R2. Isso não foi perguntado antes — revise a Semana 7 com atenção e me avise se preferir outra combinação (ex.: Kanban+Qualidade).
+> - O dia 14/12 (último dia oficial de aulas) sobrou livre na grade de 15 encontros. Em vez de deixá-lo como reserva ociosa (como o 2026.1 fez entre a Semana 17 e a "última aula"), propus usá-lo para a continuação das defesas orais individuais — ajuste se preferir mantê-lo como reserva/contingência.
+> - Os critérios detalhados de avaliação (itens I/II/III de cada release) seguem majoritariamente o modelo do cronograma 2026.1, pois o Plano de Ensino 2026.2 não detalha critérios técnicos por release da mesma forma — revisar antes de publicar aos alunos.
+> - Encontrei uma divergência dentro do próprio Plano de Ensino 2026.2: a tabela de Dashboards lista DA-R2 = 30%, mas a fórmula da nota final usa DA-R2 × 0,4. Vale conferir qual é a correta antes da divulgação oficial.
+> - As **releases minor (RM1–RM6)** foram deixadas de fora deste cronograma, conforme solicitado — você ainda vai defini-las.
+
 ---
 
 ## Legenda
@@ -14,144 +23,120 @@
 | Símbolo | Significado |
 |---|---|
 | 📦 | Release Major |
-| 🟣 | Release Minor |
 | 📋 | Marco do Memorando de Decisão |
 | 📊 | Marco do Dashboard Gerencial e Analítico |
+| 🚫 | Sem aula (feriado / semana universitária) |
 | ✅ | Como usar IA nesta semana |
 | ⚠️ | Limites pedagógicos de uso de IA |
 
 ---
 
-## Semana 1 — 16/03
-
-**Sessão crítica:** não se aplica (aula inaugural)
+## Semana 1 — 10/08 · AT1
 
 **Conteúdo:**
-- Plano de ensino e cronograma da disciplina
-- Temas dos projetos e organizações parceiras 2026.1
-- Formação dos times (12–16 membros de EPS): [Planilha dos times](https://docs.google.com/spreadsheets/d/1212GN2jt9jsLgGmsHHQkOTSQJpgNxgdRSJMEyEnEx4k/edit?usp=sharing)
-- Configuração dos ambientes: [GitHub](https://github.com/fga-eps-mds), [ZenHub]([ZenHub](https://app.zenhub.com/settings/o/fga-eps-mds/users)), [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=-analysis_date), [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868) e [Discord](https://discord.com/channels/1482842000582639900/1482842002621206628)
+- Plano de Ensino e cronograma da disciplina 2026.2
+- Temas dos projetos e organizações parceiras 2026.2
+- Formação dos times (10–20 membros de EPS)
+- Configuração dos ambientes: GitHub, ZenHub, SonarCloud, Figma, Discord
 
 ---
 
-## Semana 2 — 23/03
+## Semana 2 — 17/08 · AT2
 
 **Conteúdo:**
 - Visões filosóficas e seu reflexo na prática do gerenciamento na engenharia de software
 - Kick-off dos projetos: reunião com usuários e donos(as) dos produtos
 
-✅ **IA esta semana:**
-- Gerar "rascunho-hipótese" da visão de produto **antes** do kick-off com o cliente. O objetivo é descobrir onde a IA errou ao se confrontar com o contexto real do(a) parceiro(a).
+✅ **Sugestões de IA nesta semana:**
+- Gerar "rascunho-hipótese" da visão de produto **antes** do kick-off com o cliente, para descobrir onde a IA erra ao confrontar o contexto real do(a) parceiro(a)
 - Copilot para sugerir perguntas de elicitação para a reunião de kick-off
 
 ⚠️ **Limites:**
-- A reunião de kick-off é 100% humana — IA não participa, não resume a ata
-- O contexto político e institucional do parceiro não é acessível à IA
+- A reunião de kick-off é 100% humana
 
 ---
 
-## Semana 3 — 30/03
+## Semana 3 — 24/08 · AT3
 
-**Leitura prévia obrigatória:** Lean Inception — Paulo Caroli (cap. 1–7) · *bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Lean Inception, Paulo Caroli (cap. 1–7) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- Visões filosóficas e seu reflexo na prática do gerenciamento na engenharia de software
-- Lean Inception: estrutura, visão geral, dinâmicas, personas, jornadas, brainstorming de funcionalidades, sequenciador
+- Lean Inception: estrutura, dinâmicas, personas, jornadas, brainstorming de funcionalidades, sequenciador
 - Ciclo de vida do Projeto e do Produto
 - Diferenças e semelhanças entre manufatura e software
 
 📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
 
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Copilot para expandir personas e sugerir funcionalidades a partir das etapas anteriores
-- IA para comparar Funcionalidades do Sequenciador com os épicos no Zenhub
+- IA para comparar Funcionalidades do Sequenciador com os épicos no ZenHub
 
 ⚠️ **Limites:**
-- Priorização do Canvas é decisão do time com o cliente — não delegável à IA
-- Validação das personas com usuários reais é mandatória
+- Priorização do Canvas é decisão do time com o cliente.
+- Validação da Visão do Produto com os usuários reais é obrigatória.
 
 ---
 
-## Semana 4 — 06/04
+## Semana 4 — 31/08 · ATP1 — Escopo + Tempo
 
-**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Escopo) e Guia Oficial do Scrum (Backlog do Produto, Planejamento de Sprints) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Gerenciamento de Projetos (caps. Iniciação + Planejamento + Escopo + Tempo) + Guia Oficial do Scrum (Backlog do Produto e do Sprint) + Succeeding with Agile, Mike Cohn (cap. 1–3) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- Área de Conhecimento: **Escopo** (tradicional e ágil) — sessão crítica (40 min)
-- EAP, backlog de produto, épicos e histórias de usuário
-- ZenHub: configuração do RoadMap e milestones
+- *Escopo:* EAP, backlog de produto, épicos e histórias de usuário; ZenHub: RoadMap e milestones
+- *Tempo:* estimativas (Planning Poker, pontos por história), velocidade, burndown, gráfico de Gantt no ZenHub
 
 📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
 
-✅ **IA esta semana:**
-- Copilot Chat para expandir épicos em histórias de usuário
-- Copilot para sugerir critérios de aceitação e identificar lacunas no backlog
-
-⚠️ **Limites:**
-- Priorização do backlog requer negociação com o cliente — não é automática
-- Toda US gerada por IA deve ser revisada antes de entrar no ZenHub
-
----
-
-## Semana 5 — 13/04
-
-**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Tempo) + Livro Succeeding with agile - Mike Cohn (cap. 1–3) + Guia Oficial do Scrum (Backlog do Sprint) · *Bilhete de entrada exigido*
-
-**Conteúdo:**
-- Área de Conhecimento: **Tempo** (tradicional e ágil) — sessão crítica (40 min)
-- Estimativas: Planning Poker, Pontos por História, Estimativa de tamanho
-- velocidade, burndown, gráfico de Gantt no ZenHub
-
-📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
+- Copilot  para expandir épicos em histórias de usuário e sugerir critérios de aceitação
 - IA para gerar estimativas iniciais como linha de base de calibração do time
 - Copilot para automações de relatórios de velocidade no ZenHub
 
 ⚠️ **Limites:**
-- Planning Poker é exercício coletivo de calibração — IA não substitui a discussão
-- Velocidade real supera qualquer previsão de IA nas primeiras sprints
+- Priorização do backlog requer negociação com o cliente.
+- _Planning Poker_ é exercício coletivo de calibração da velocidade. A IA não substitui essa discussão
 
 ---
 
-## Semana 6 — 20/04 · ⚠️ PONTO FACULTATIVO
+## Semana 5 — 14/09 · ATP2 — Custo
 
-> Não há aula presencial. Os projetos e sprints **não param**.
-
-**Leitura prévia obrigatória:** PMBoK (cap. Custos) + Artigo EVM-Ágil (Teams) ·
+**Leitura prévia obrigatória:** Gerenciamento de Projetos (cap. Custos) + Artigo EVM-Ágil
 
 **Conteúdo:**
-- Área de Conhecimento: **Custo** (tradicional e ágil)
-- EVM-Ágil: VP, VA, CR, CPI, SPI — planilha e gráficos
+- Custo (tradicional e ágil)
+- EVM-Ágil: planilha e gráficos
 
-📋 **MD-R1 em escrita:** decisão identificada; registrar as evidências (seção 5.) antes de submeter
+📋 **MD-R1 em finalização:** registrar as evidências (seção 5.) antes de submeter
 
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - IA para montar estrutura da planilha EVM e calcular índices (CPI, SPI, EAC)
 - Copilot para interpretar índices e sugerir causas de desvio
-- Copilot em desenvolvimento contínuo das sprints
 
 ⚠️ **Limites:**
-- Análise de causa e decisão de replanejamento são do time — não da IA
+- Análise de causa e decisão de replanejamento são do time, não da IA
 - EVM exige dados reais de horas: planilha individual é mandatória
 
 ---
 
-## Semana 7 — 27/04 · RELEASE MAJOR R1
+## 🚫 21/09 — SEMANA UNIVERSITÁRIA
 
-> **Data-limite de registro nos repositórios.**  
-> Release implantada em ambiente de homologação.  
-> Apresentações: 20 min por time · Reunião de 1h · Gravação no Teams.
+> Não há aula (Semana Universitária UnB, 20/09 a 25/09/2026). Projetos e sprints não param.
+
+---
+
+## 📦 Semana 6 — 28/09 · RELEASE MAJOR R1
+
+> **Data-limite de registro nos repositórios.** Release implantada em ambiente de homologação. Apresentações: 20 min por time · Reunião de 2h · Gravação no Teams.
 
 ### Critérios de avaliação R1
 
-#### I. Projeto-Produto — 50%
+#### I. Projeto-Produto
 
 - Visão do Produto / Canvas MVP validado com o cliente
 - Backlog priorizado: histórias de usuário com critérios de aceitação e protótipos de alta fidelidade
 - Documento de Arquitetura
 - Protótipos de alta fidelidade no Figma
-- Repositório configurado: licença, código de conduta, como contribuir, templates de PR,Tarefa/Defeito/US
+- Repositório configurado: licença, código de conduta, como contribuir, templates de PR/Tarefa/Defeito/US
 - Pipeline CI/CD: lint, build, testes unitários, relatório SonarCloud
 - Coleta inicial de métricas: arquivo `.json` gerado automaticamente via pipeline
 - Cobertura de testes unitários ≥ 85%
@@ -160,118 +145,90 @@
 
 **Evidências:** repositório público na org. da disciplina · SonarCloud · Figma · ZenHub (roadmap, milestones, burndown)
 
-#### II. Dashboard Gerencial e Analítico — 30%
+#### II. Dashboard Gerencial e Analítico
 
-- Dashboard operacional (ZenHub/GitHub): velocidade, burndown, distribuição de issues por membro
-- Painel de métricas de produto (SonarCloud): aquelas implementadas no template do [Notebook Analytics](https://github.com/fga-eps-mds/Analytics/blob/master/internal_quality_analysis-sonarqube.ipynb) + outras relevantes para o projeto.
-- Gráfico de Gantt com marcos: planejado × realizado até R1
-- EVM-Ágil: VP, VA, CR com gráficos de CPI e SPI
-- Matriz de riscos: probabilidade × impacto e plano de resposta
-- Seção "Decisões baseadas em dados": ≥ 3 decisões técnicas e gerenciais com evidências
+- Consolidar os primeiros indicadores técnicos e gerenciais (ex.: velocity, burndown, EVM-Ágil, matriz de riscos)
+- Dashboard construído em **Streamlit**, consumindo diretamente o `.json` de métricas gerado pelo pipeline SonarCloud
 - Evidência de uso crítico de IA na construção/interpretação (registrada no `MD_Template.md`)
 
-**Evidências:** notebook Jupyter do dashboard no GitHub · planilha EVM no repositório · seção "Decisões" na Wiki
+**Evidências:** repositório de documentação com o app Streamlit · seção "Decisões baseadas em dados" na Wiki
 
-📊 **DA-R1:** Submeter a url e pr do  notebook do Dashboard Gerencial e Analítico da R1 no Aprender 3
+📊 **DA-R1:** Submeter a URL e o PR do app Streamlit da R1 no Aprender 3
 
-#### III. Avaliação Individual — 20%
+#### III. Avaliação Individual
 
 - MD-R1 entregue com o registro das evidências (seção 5.)
-- `MD_Template.md`: ≥ 3 entradas individuais com qualidade reflexiva
+- `MD_Template.md`: ≥ 2 entradas individuais com qualidade reflexiva
 - Contribuições rastreáveis: commits, PRs, issues com autoria identificada
 - Capacidade de explicar qualquer trecho de código em revisão síncrona de PR
 
-📋 **MD-R1:** tema — decisão de planejamento. Submeter arquivo MD_XX_Matricula antes das 23h59 do dia 28/04/2026.
+📋 **MD-R1:** decisão de planejamento. Submeter arquivo MD_XX_Matrícula antes das 06h00 do dia **29/09/2026**.
 
-✅ **IA esta semana:**
-- Copilot para rascunho de slides com dados do ZenHub, SonarCloud, Github e EVM
+✅ **Sugestões de IA nesta semana:**
+- Copilot para rascunho de slides com dados do ZenHub, SonarCloud, GitHub e EVM
 - Copilot para verificar consistência documentação × implementação antes da apresentação
 
 ⚠️ **Limites:**
-- A apresentação e a defesa das decisões são humanas — IA não apresenta
+- A apresentação e a defesa das decisões são humanas.
 - `MD_Template.md` deve ter ≥ 2 ciclos para aprovação no critério III
 
-
 ---
 
-## Semana 8 — 04/05
+## Semana 7 — 05/10 · ATP3 — Risco + Kanban
 
-**Leitura prévia obrigatória:** Leitura prévia obrigatória: PMBoK (cap. Riscos) + Artigo - Management of novel projects under conditions
-of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Gerenciamento de Projetos (cap. Riscos) + Artigo *Management of novel projects under conditions of high uncertainty* (De Meyer, Loch & Pich) + Engenharia de Software Moderna, Marco Túlio (cap. 2, Kanban) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- Área de Conhecimento: **Risco** — sessão crítica (40 min)
-- Análise qualitativa e quantitativa, plano de resposta
-- Panorama de Adoção dos Métodos Ágeis
-- SCRUM: artefatos, práticas e papéis
+- *Risco:* análise qualitativa e quantitativa, plano de resposta; panorama de adoção dos métodos ágeis; SCRUM: artefatos, práticas e papéis
+- *Kanban:* fluxo contínuo, WIP limits, lead time, throughput; feedback e correções pós-R1
 
-🟣 **RM 1** - Submeter a url da TAG da release no repositório, no Aprender 3
+📋 **MD-R2 em escrita:** gestão de riscos e análise de fluxo/processo de trabalho
 
-📋 **MD-R2 em escrita:** tema — gestão de riscos.
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - IA para analisar o backlog e o contexto do projeto e sugerir riscos não mapeados
 - IA para gerar plano de resposta inicial por categoria de risco
-
-⚠️ **Limites:**
-- Riscos de relacionamento com o cliente são identificados apenas pelo time
-- Probabilidade e impacto são calibrados pelo julgamento humano
-
----
-
-## 📦 Semana 9 — 11/05
-
-**Leitura prévia obrigatória:** Leitura prévia obrigatória: [Engenharia de Software Moderna - Marco Túlio (Cap. 2 - Kanban)](https://engsoftmoderna.info/cap2.html#kanban) + [Slides Kanban no GitHub](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/tree/master/Agil_material/Kanban) · *Bilhete de entrada exigido*
-
-**Conteúdo:**
-- Sistemas **Kanban**: fluxo contínuo, WIP limits, lead time, throughput — sessão crítica (40 min)
-- Feedback e correções pós-R1
-- *50% do período de aulas — marco acadêmico UnB*
-
-🟣 **RM 2** - Submeter a url da TAG da release no repositório, no Aprender 3
-
-📋 **MD-R2 em escrita:** tema — decisão sobre a análise do fluxo e do processo de trabalho além do desempenho do time.
-
-✅ **IA esta semana:**
 - IA para analisar lead time das issues e sugerir ajustes de WIP limit
 - Copilot para automatizar relatório semanal de throughput a partir do ZenHub
 
 ⚠️ **Limites:**
-- Ajustes de processo são decididos na retrospectiva — com o time, não pela IA
-
+- Riscos de relacionamento com o cliente são identificados apenas pelo time
+- Probabilidade e impacto são calibrados pelo julgamento humano
+- Ajustes de processo são decididos na retrospectiva com o time, não pela IA
 
 ---
 
-## Semana 10 — 18/05
+## 🚫 12/10 — FERIADO (Nossa Senhora Aparecida)
 
-**Leitura prévia obrigatória:** ISO 25010 + Artigo The-SQALE-Analysis-Model - Letouzey, J. L. and Coq, T. (Teams) · *Bilhete de entrada exigido*
+> Não há aula.
+
+---
+
+## Semana 8 — 19/10 · ATP4 — Qualidade de Software
+
+**Leitura prévia obrigatória:** ISO 25010 + Artigo *The SQALE Analysis Model* (Letouzey & Coq)
 
 **Conteúdo:**
-- **Qualidade de Software** ao longo do tempo: McCall, Boehm, Dromey, ISO 9126/25010 — sessão crítica (40 min)
+- Qualidade de Software ao longo do tempo: McCall, Boehm, Dromey, ISO 9126/25010
 - Análise ao vivo: dashboard SonarCloud do próprio projeto × ISO 25010
 
-🟣 **RM 3:** - Submeter a url da TAG da release no repositório, no Aprender 3
+📋 **MD-R2 em escrita:** decisão de qualidade
 
-📋 **MD-R2 em escrita:** tema — decisão de qualidade.
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Copilot interpreta métricas do SonarCloud do projeto à luz da ISO 25010
-- Output da IA é **criticado coletivamente em aula** — não é entrega final
+- Output da IA é **criticado coletivamente em aula**
 
 ⚠️ **Limites:**
 - A escolha do modelo de qualidade e os limiares aceitáveis são decisões do time com o professor
 
 ---
 
-## Semana 11 — 25/05  · RELEASE MAJOR R2
+## 📦 Semana 9 — 26/10 · RELEASE MAJOR R2
 
-> **Data-limite de registro nos repositórios.**  
-> Incremento funcional implantado em homologação.  
-> Apresentações: 25 min por time · Reunião de 1h30 · Gravação no Teams.
+> **Data-limite de registro nos repositórios.** Incremento funcional implantado em homologação. Apresentações: 20 min por time · Reunião de 2h · Gravação no Teams.
 
 ### Critérios de avaliação R2
 
-#### I. Projeto-Produto — 50%
+#### I. Projeto-Produto
 
 - Incremento funcional implantado em homologação
 - Histórias de usuário aceitas pelo cliente com testes de aceitação documentados
@@ -284,33 +241,28 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 
 **Evidências:** URL de homologação · atas de validação com o cliente · SonarCloud: evolução R1→R2 · ZenHub: burndown das sprints
 
-#### II. Dashboard Gerencial e Analítico — 30%
+#### II. Dashboard Gerencial e Analítico
 
-- Dashboard evoluído: comparação R1 × R2 (velocidade, cobertura, defeitos)
-- Painel de qualidade: tendência das métricas SonarCloud ao longo das sprints
-- EVM-Ágil atualizado: análise de desvio e previsão de término (EAC)
-- Matriz de riscos atualizada: riscos realizados e novos identificados
-- Notebook Analytics: normalização e interpretação das métricas coletadas
+- Evolui DA-R1 e incorpora as métricas de qualidade de produto normalizadas, ponderadas, agregadas e interpretadas pelo time
+- App Streamlit atualizado: comparação R1 × R2 (velocidade, cobertura, defeitos)
 - ≥ 3 decisões gerenciais documentadas com base em dados do dashboard
 - Evidência de uso crítico de IA na análise: o que foi aceito e o que foi rejeitado
 
-**Evidências:** ZenHub atualizado · Notebook Jupyter com gráficos · planilha EVM atualizada · seção "Decisões" na Wiki — versão R2
+**Evidências:** ZenHub atualizado · app Streamlit · seção "Decisões" na Wiki (versão R2) 
 
-📊 **DA-R2:** Submeter a url e pr do notebook do Dashboard Gerencial e Analítico da R2 no Aprender 3
+📊 **DA-R2:** Submeter a URL e o PR do app Streamlit da R2 no Aprender 3
 
-#### III. Avaliação Individual — 20%
+#### III. Avaliação Individual
 
-- MD-R2 entregue com log de autoavaliação IA obrigatório
-- `MD_Template.md`: ≥ 4 entradas individuais acumuladas
+- MD-R2 entregue com log de autoavaliação de IA obrigatório
+- `MD_Template.md`: ≥ 5 entradas individuais acumuladas
 - Contribuições rastreáveis equilibradas entre os membros
 
-📋 **MD-R2 concluído.** Submeter arquivo MD com o registro das evidências antes das 23h59 do dia 26/05/2026.
+📋 **MD-R2:** qualidade, modelos, métricas e Analytics. Submeter antes das 06h00 do dia **27/10/2026**.
 
-
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Dashboard: seção de crítica aos outputs automáticos obrigatória
-- Notebook Analytics: evidência de uso de IA no código de análise registrada no `MD_Template.md`
+- Evidência de uso de IA na análise registrada no `MD_Template.md`
 
 ⚠️ **Limites:**
 - `MD_Template.md` deve ter ≥ 5 ciclos acumulados
@@ -318,39 +270,23 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 
 ---
 
-## Semana 12 — 01/06
+## 🚫 02/11 — FERIADO (Finados)
 
-**Leitura prévia obrigatória:** Artigo A Quality Model for Actionable Analytics in Rapid Software Development - Martínez-Fernández, M. _et al_. + Towards an artifact to support agile teams in software analytics activities - Choma J., _et al_. — Software Analytics · *Bilhete de entrada exigido*  
+> Não há aula.
 
-**Conteúdo:**
-- **Squale, Quamoco, Q-Rapids** — modelos de avaliação de qualidade — sessão crítica (40 min)
-- **Software Analytics**: padrões para tomada de decisão orientada a dados
-
-🟣 **RM 4** - Submeter a url da TAG da release no repositório, no Aprender 3
-
-📋 **MD-R3 em escrita:** decisão de qualidade identificada; registrar as evidências (seção 5.) antes de submeter
-
-✅ **IA esta semana:**
-- IA para sugerir normalizações e transformações das métricas coletadas
-- Copilot para código Python/Pandas de tratamento do arquivo `.json` do SonarCloud
-- Copilot para sugerir limiares com base em benchmarks da literatura
 ---
 
-## 📦 Semana 13 — 08/06
+## Semana 10 — 09/11 · ATP5 — Squale, Quamoco, Q-Rapids e Software Analytics
 
-**Leitura prévia obrigatória:** Artigos Technical Debt Management in Brazilian Software Organizations: A Need, an Expectation, or a Fact? - Victor Silva e Helvio Jeronimo e Guilherme Horta Travassos . + The SQALE Method for Evaluating Technical Debt - Jean-Louis Letouzey · *Bilhete de entrada exigido*
-**Vídeo-aula assíncrona:** Prof. Eduardo Guerra (INPE/UNIBZ) — Software Analytics
-
+**Leitura prévia obrigatória:** *A Quality Model for Actionable Analytics in Rapid Software Development* (Martínez-Fernández et al.) + *Towards an artifact to support agile teams in software analytics activities* (Choma et al.) + *Technical Debt Management in Brazilian Software Organizations* (Silva, Jerônimo & Travassos) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- **SQALE, Quamoco, Q-Rapids** — modelos de avaliação de qualidade — sessão crítica (40 min)
-- **Software Analytics**: padrões para tomada de decisão orientada a dados
-
-🟣 **RM 5** - Submeter a url da TAG da release no repositório, no Aprender 3
+- Squale, Quamoco, Q-Rapids e outros modelos de avaliação de qualidade
+- Software Analytics: padrões para tomada de decisão orientada a dados
 
 📋 **MD-R3 em escrita:** decisão de qualidade identificada; registrar as evidências (seção 5.) antes de submeter
 
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - IA para sugerir normalizações e transformações das métricas coletadas
 - Copilot para código Python/Pandas de tratamento do arquivo `.json` do SonarCloud
 - Copilot para sugerir limiares com base em benchmarks da literatura
@@ -359,123 +295,108 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 - Interpretação dos gráficos e decisões baseadas nas análises são do time
 - Limiar de qualidade deve ser validado com o professor antes de adotar
 
-
 ---
 
-## Semana 14 — 15/06
+## Semana 11 — 16/11 · ATP6 — Implantação e Entrega Contínua
 
-**Leitura prévia obrigatória:** [Livro Engenharia de Software Moderna (cap. 10) - Marco Tulio](https://engsoftmoderna.info/cap10.html) + Artigo Continuous software engineering: A roadmap and agenda -Brian Fitzgerald and Klaas-Jan Stol (Teams)· *Bilhete de entrada exigido*  
-**Vídeo-aula assíncrona:** Prof. Breno França (UNICAMP) — Engenharia de Software Contínua
+**Leitura prévia obrigatória:** Engenharia de Software Moderna — Marco Túlio (cap. 10) + *Continuous software engineering: A roadmap and agenda* (Fitzgerald & Stol)
 
 **Conteúdo:**
-- **Implantação e Entrega Contínua** (CI/CD avançado) — sessão crítica (40 min)
-- **Engenharia de Software Contínua**: conceito, práticas e cultura
+- Implantação e Entrega Contínua (CI/CD avançado)
+- Engenharia de Software Contínua: conceito, práticas e cultura
 
-🟣 **RM 6** - Submeter a url da TAG da release no repositório, no Aprender 3
+📋 **MD-R3 em escrita:** decisão de encerramento. Reflexão: o que mudaria no gerenciamento? Por quê? Com qual base filosófica?
 
-📋 **MD-R3 em escrita:** tema — decisão encerramento. Reflexão: o que mudaria no gerenciamento? Por que? Com qual base filosófica?
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Copilot para evoluir pipelines CI/CD: SAST, deploy automático
-- Copilot para revisar o pipeline e identificar lacunas em relação às práticas de ESW Contínua
+- Copilot para revisar o pipeline e identificar lacunas em relação às práticas de Engenharia de Software Contínua
 
 ⚠️ **Limites:**
 - Estratégia de deploy em produção para o parceiro real requer aprovação humana
 
 ---
 
-## Semana 15 — 22/06
+## Semana 12 — 23/11 · ATP7 — Visão Estratégica
 
 **Conteúdo:**
-- **Visão estratégica:** portfólios, programas e ecossistema de produtos públicos — sessão crítica (40 min)
-- *75% do período de aulas — marco acadêmico UnB*
+- Visão estratégica: portfólios, programas e ecossistema de produtos públicos
 - Roteiro de encerramento do projeto
 
 📋 **MD-R3 em escrita:** decisão estratégica e visão filosófica; registrar as evidências (seção 5.) antes de submeter
 
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Canvas Analytics: IA sugere estrutura visual de síntese do semestre
-- Copilot para rascunho do Relatório de Encerramento — reescrito e revisado pelo time
+- Copilot para rascunho do Relatório de Encerramento
 
 ⚠️ **Limites:**
-- Seção "Decisões gerenciais" do Relatório de Encerramento é escrita pelos alunos — não gerada por IA
+- Seção "Decisões gerenciais" do Relatório de Encerramento é escrita pelos estudantes.
 - Análise planejado × realizado exige julgamento humano sobre causas reais
 
 ---
 
-## Semana 16 — 29/06 · RELEASE MAJOR R3 (FINAL)
+## 📦 Semana 13 — 30/11 · RELEASE MAJOR R3 (FINAL)
 
-> **Data-limite de registro nos repositórios.**  
-> Produto em produção/homologação · MVP validado com o cliente.  
-> Apresentações: 30 min por time · Reunião de 2h · Gravação no Teams.  
-> Foco: Planejado × Realizado em todas as dimensões.
+> **Data-limite de registro nos repositórios.** Produto em produção/homologação · MVP validado com o cliente. Apresentações: 20 min por time · Reunião de 2h · Gravação no Teams. Foco: Planejado × Realizado em todas as dimensões.
 
 ### Critérios de avaliação R3
 
-#### I. Projeto-Produto — 50%
+#### I. Projeto-Produto
 
-- Produto implantado em produção/homologação — MVP validado com o cliente
+- Produto implantado em produção/homologação e MVP validado com o cliente
 - Backlog: histórias aceitas × planejadas (escopo realizado × planejado)
 - Cobertura de testes ≥ 90%: unitários, integração, sistema e GUI
 - Testes de aceitação executados e documentados
 - Práticas de gerência de configuração: branching, merges, releases com tags
 - Manual de instalação do produto para o usuário
-- **Relatório de Encerramento** — inclui seção obrigatória: *"Como usamos IA neste semestre"*
+- **Relatório de Encerramento:** inclui seção obrigatória: *"Como usamos IA neste semestre"*
 - Repositório em conformidade com padrões de software livre
 - `MD_Template.md` completo: ≥ 8 ciclos com progressão de qualidade reflexiva
 
 **Evidências:** URL de produção/homologação · atas de validação final · Relatório de Encerramento · SonarCloud: painel final com histórico
 
+#### II. Dashboard Gerencial e Analítico
 
-#### II. Dashboard Gerencial e Analítico — 30%
-
-- Dashboard final: panorama completo do semestre (velocidade, qualidade, custo, risco, etc.)
-- Canvas Analytics: síntese visual do desempenho do produto e do processo
-- Notebook Analytics completo: normalização, interpretação, agregação; gráficos estatísticos
+- Evolui DA-R2 e alcança sua forma final com o **Canvas Analytics** — síntese visual do desempenho do produto e do projeto ao longo do semestre
 - Análise planejado × realizado: custo (EVM), tempo, escopo e qualidade
 - ≥ 5 decisões gerenciais documentadas: causa, análise, decisão e resultado
-- **Análise retrospectiva de IA:** o que acertou, errou e exigiu julgamento humano
-- Evidências de uso de IA no notebook: prompts usados, outputs aceitos/descartados
+- Retrospectiva crítica sobre o uso de IA generativa no projeto: o que acertou, errou e exigiu julgamento humano
+- Evidências de uso de IA no app Streamlit/notebook: prompts usados, outputs aceitos/descartados
 
-**Evidências:** dashboard final · Notebook Analytics · Canvas Analytics · seção "Decisões" versão final · seção "Uso de IA" no Relatório de Encerramento
+**Evidências:** app Streamlit final · Canvas Analytics · seção "Decisões" versão final · seção "Uso de IA" no Relatório de Encerramento
 
-📊 **DA-R3:** Submeter a url e pr do notebook do Dashboard Gerencial e Analítico da R3 no Aprender 3
+📊 **DA-R3:** Submeter a URL e o PR do app Streamlit final da R3 no Aprender 3
 
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Copilot para refactoring e cobertura de testes finais (meta ≥ 90%)
 - IA para revisão final do README e documentação de instalação
 
 ⚠️ **Limites:**
-- Defesa de decisões gerenciais é individual — avaliação pessoal na apresentação
+- Defesa de decisões gerenciais é individual
 - `MD_Template.md` deve ter ≥ 8 ciclos com progressão reflexiva visível
-
 
 ---
 
-## 📦 Semana 17 — 06/07
+## Semana 14 — 07/12 · RELEASE MAJOR FINAL (RF)
 
 **Conteúdo:**
 - Semana de encerramento do projeto e reforço de segurança do produto
 - Testes de aceitação com o cliente: execução e documentação
 - Finalização do Relatório de Encerramento
+- Início das defesas orais individuais (justificativa de decisões gerenciais)
 
-### Critérios de avaliação R3
+#### III. Avaliação Individual (conclusão)
 
-#### III. Avaliação Individual — 20%
-
-- MD-RN entregue com log de autoavaliação IA obrigatório
+- MD-R3 entregue com log de autoavaliação de IA obrigatório
 - `MD_Template.md` individual: série completa com progressão reflexiva visível
 - **Defesa oral:** justificativa de decisões gerenciais na apresentação (avaliação individual)
 - Contribuições rastreáveis ao longo de todo o semestre
 
+📋 **MD-R3 concluído.** Submeter arquivo MD + registro das evidências (seção 5.) antes das 06h00 do dia **08/12/2026**.
 
-📋 **MD-R3 concluído.** Submeter arquivo MD + registro das evidências (seção 5.) antes das 23h59 do dia 07/07/2026.
-
-✅ **IA esta semana:**
+✅ **Sugestões de IA nesta semana:**
 - Seção obrigatória na apresentação: **"Como usamos IA neste semestre"** (5 min)
 - `MD_Template.md` versão final consolidada
-- Notebook Analytics com análise retrospectiva do uso de IA
+- Análise retrospectiva do uso de IA no app Streamlit
 
 ⚠️ **Limites:**
 - Testes de aceitação com o cliente são humanos e documentados formalmente
@@ -483,6 +404,17 @@ of high uncertainty - De Meyer, A., Loch, C.H. and Pich, M.T. (Teams) · *Bilhet
 
 ---
 
-*Cronograma sujeito a ajustes conforme o andamento da turma.*  
-*Última atualização: março/2026*  
-*Documentos relacionados: [(`EPS_Plano_de_Ensino.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS_Plano_de_Ensino.md) · `MD_Template.md`*
+## Semana 15 — 14/12 · Encerramento do Projeto
+
+> Último dia oficial de aulas (calendário UnB 2026.2).
+
+**Conteúdo:**
+- Retrospectiva geral da disciplina
+
+> ⚠️ _Buffer_ de Contingência.
+
+---
+
+*Cronograma sujeito a ajustes conforme o andamento da turma.*
+*Última atualização: 10/08/2026*
+*Documentos relacionados: `EPS_Plano_de_Ensino_2026_2.md` · `MD_Template.md`*

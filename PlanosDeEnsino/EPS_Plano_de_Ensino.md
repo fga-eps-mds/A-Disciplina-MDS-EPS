@@ -1,14 +1,14 @@
 # Plano de Ensino — Engenharia de Produto de Software (EPS)
 
-**Universidade de Brasília — Faculdade UnB Gama (FGA)**  
+**Universidade de Brasília — Faculdade Ciências, Tecnologia e Engenharia (FCTE)**  
 **Curso:** Engenharia de Software  
-**Semestre:** 2026.1  
+**Semestre:** 2026.2  
 **Carga horária:** 60 horas (2 créditos teórico/prático + 2 créditos extensão)  
-**Horário:** segundas-feiras | 10h–14h  
+**Horário:** segundas-feiras | 10h–13:30h  
 **Sala:** MOCAP
 **Professor:** Prof. Hilmer Rodrigues Neri  
-**Repositório da disciplina:** https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS  
-**Organização dos projetos:** https://github.com/fga-eps-mds
+**Repositório do material de apoio da disciplina:** https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS  
+**Organização do GitHub da disciplina:** https://github.com/fga-eps-mds
 
 > O Cronograma da disciplina, guia operacional deste plano, consulte [(`EPS_Cronograma_HRN.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md)
 
@@ -61,13 +61,13 @@ Ao final da disciplina, o aluno será capaz de:
 
 ### Formato das aulas
 
-A disciplina é integralmente **presencial**, com aulas às segundas-feiras das 10h às 14h, estruturadas em dois blocos:
+A disciplina é ministrada predominantemente no formato presencial. A exceção são as reuniões com o(a) PO, que podem ocorrer remotamente devido à necessidade de conciliar agendas da(o)s envolvidos.
 
-**Bloco A — Sessão crítica (40–60 min):** discussão orientada por leitura ou vídeo-aula assíncrona realizada previamente. O aluno chega com o conteúdo estudado; a aula aprofunda, questiona e conecta ao projeto real. Não há exposição passiva — a teoria emerge da análise de problemas concretos dos próprios projetos. Será das 10h às 11h, mas pode ser ajustado conforme a dinâmica da turma.
+**Bloco A — Sessão crítica (60–90 min):** discussão orientada por leitura ou vídeo-aula assíncrona realizada previamente. O aluno chega com o conteúdo estudado; a aula aprofunda, questiona e conecta ao projeto real.
 
-**Bloco B — Reunião com o dono do produto(PO) (1h):** o time e o professor
+**Bloco B — Reunião com o professor (30 min. cada time):** cada o time se reúne com o professor para apresentar os resultados do planejamento e desenvolvimento do produto. Reuniões de acompanhamento, revisões de entrega, retrospectivas e planejamento de sprint ocorrem neste bloco.
 
-**Bloco C — Trabalho no projeto (2h):** o time trabalha no projeto com suporte do professor. Reuniões de acompanhamento, revisões de entrega, retrospectivas e planejamento de sprint ocorrem neste bloco.
+**Bloco C — Trabalho no projeto (100 min):** o time trabalha no projeto com suporte do professor. 
 
 ### Bilhete de entrada
 
@@ -79,7 +79,7 @@ Leituras obrigatórias, artigos e vídeo-aulas de apoio estão disponíveis no [
 
 ### Projeto como norteador do aprendizado. O projeto é o laboratório onde a teoria é aplicada, testada e validada.
 
-Todo o conteúdo teórico é ancorado em decisões reais do projeto. As sessões críticas analisam dados do próprio time (SonarCloud, ZenHub, GitHub) à luz dos conceitos estudados. A teoria é estudada porque o projeto a exige — não o contrário.
+Todo o conteúdo teórico é ancorado em decisões reais do projeto. As sessões críticas analisam dados do próprio time (SonarCloud, ZenHub, GitHub) à luz dos conceitos estudados.
 
 ---
 
@@ -87,25 +87,25 @@ Todo o conteúdo teórico é ancorado em decisões reais do projeto. As sessões
 
 ### Objetivo do projeto
 
-Desenvolver ou evoluir um produto de software real para uma organização pública ou representação da sociedade civil brasileira, aplicando de forma integrada os conhecimentos de gestão e construção adquiridos ao longo do curso.
+Desenvolver ou evoluir um produto de software real para uma organização pública ou representação da sociedade civil brasileira, aplicando de forma integrada os conhecimentos de gestão e desenvolvimento adquiridos ao longo do curso.
 
 ### Configuração dos times
 
-- **Tamanho:** 12 a 16 membros
-- **Papéis:** todos os membros fazem gestão e construção; a divisão interna de papéis é definida pelo próprio time e deve ser documentada e visível na documentação do projeto (GitHub Pages)
-- **Projetos:** podem ser novos (produto criado do zero) ou incremento (evolução de produto de semestres anteriores)
+- **Tamanho:** 10 a 20 membros
+- **Papéis:** todos os membros fazem gestão e desenvolvimento; a divisão interna de papéis é definida pelo próprio time e deve ser documentada e visível na documentação do projeto (GitHub Pages)
+- **Projetos:** podem ser novos (produto criado do zero) ou manutenção (manutenção evolutiva de produtos de semestres anteriores)
 
 ### Organização do trabalho
 
 - Código-fonte e artefatos revisados via **pull requests**
-- Requisitos e atividades organizados por **_issues, sub-issues_, sprints, milestones**, no GitHub e [ZenHub](https://app.zenhub.com/settings/o/fga-eps-mds/users), refletindo a Estrutura Analítica do Projeto (EAP) e o Planejamento de Releases
-- Requisitos, protótipos, testes e releases, validados com os donos e donas dos produtos parceiros
+- Requisitos e atividades organizados por **_issues, sub-issues_, sprints, milestones**, no GitHub + [ZenHub](https://app.zenhub.com/settings/o/fga-eps-mds/users), refletindo a Estrutura Analítica do Projeto (EAP) e o Planejamento de Releases
+- Requisitos, protótipos, testes e releases, validados com os donos e donas dos produtos
 - Todos os repositórios criados devem ser mantidos na organização GitHub da disciplina
-- Demais ambientes na mesma organização: [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=-analysis_date), [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868), [Discord](https://discord.com/channels/1482842000582639900/1482842002621206628)
+- Demais ambientes na mesma organização: [SonarCloud](https://sonarcloud.io/organizations/fga-eps-mds-1/projects?sort=-analysis_date), [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1352627714612926868), [Discord](https://discord.com/channels/1534181734655070248/1534181735292469339)
 
 ### Dados para pesquisa
 
-Os dados gerados ao longo do desenvolvimento — processo, produto e pessoas anonimizadas — poderão ser utilizados em investigações científicas, conforme os princípios éticos da pesquisa acadêmica.
+Os dados gerados ao longo do desenvolvimento relacionados ao processo, produto ou pessoas anonimizadas, poderão ser utilizados em investigações científicas, conforme os princípios éticos da pesquisa acadêmica.
 
 ---
 
@@ -113,28 +113,30 @@ Os dados gerados ao longo do desenvolvimento — processo, produto e pessoas ano
 
 ### Estrutura geral
 
-| Componente                      | Peso |
-|---------------------------------|---|
-| Projeto e Produto               | 50% |
-| Dashboard Gerencial e Analítico | 30% |
-| Avaliação Individual            | 20% |
+| Componente                    | Peso |
+|-------------------------------|------|
+| Projeto e Produto             | 60%  |
+| Dashboard Gerencial Analítico | 20%  |
+| Avaliação Individual          | 20%  |
 
-> Não há provas nem minitestes. O aprendizado teórico é avaliado pelos **[`Memorandos de Decisão`] e [`Participação nas Sessões Críticas de Discussão`]**.
+> Não há provas nem minitestes. O aprendizado teórico é avaliado individualmente por meio dos **[`Memorandos de Decisão`] e [`Participação nas Sessões Críticas de Discussão`]**.
 
 ### Releases major
 
-O Projeto, o Processo, o Produto e os _Dashboards_ são avaliados continuamente e consolidados em três releases major. As datas, pesos e critérios detalhados de cada componente estão no cronograma [(`EPS_Cronograma_2026_1.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md).
+O Projeto, o Processo, o Produto e os _Dashboards_ são avaliados continuamente e consolidados em três releases _major_. As datas, pesos e critérios detalhados de cada componente estão no cronograma [(`EPS_Cronograma_2026_2.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS-cronograma-hrn.md).
 
-| Release | Data-limite | Peso no projeto | Foco                                                                   |
-|---------|-------|---|------------------------------------------------------------------------|
-| **R1**  | 27/04 | 30% | Planejamento, arquitetura, pipeline, dashboard(v1)                     |
-| **R2**  | 25/05 | 30% | Incremento funcional, qualidade, dashboard(v2), Notebook Analytics(v1) |
-| **R3**  | 29/06 | 40% | MVP validado, Analytics completo                                       |
+| Release | Data-limite | Peso no projeto | Foco                                                                                              |
+|---------|-------------|---|---------------------------------------------------------------------------------------------------|
+| **R1**  | 28/09       | 30% | Planejamento, arquitetura, pipelines, _dashboard_(v1), ambientes de implantação, Visão do Produto |
+| **R2**  | 26/10       | 30% | Incremento funcional, qualidade, _dashboard_(v2)                                                  |
+| **R3**  | 30/11       | 40% | MVP validado pela(o)s POs, _Dashboard_ e _Analytics_ completo                                     |
 
-Apresentações: R1 = 20 min (reunião 1h) · R2 = 20 min (reunião 1) · R3 = 30 min (reunião 1h30).  
-Todos os membros do time participam. As apresentações serão gravadas no Teams. As releases devem ser implantadas em ambiente de homologação na data de apresentação.
+Apresentações: R1 = 20 min (reunião 2h) · R2 = 20 min (reunião 2h) · R3 = 30 min (reunião 1h30).  
+Todos os membros do time participam. 
+As apresentações serão gravadas no Teams. 
+As releases devem ser implantadas em ambiente de homologação na data de apresentação.
 
-> Registrar as entregas no Aprender 3.
+> Os bilhetes de entrada e os memorandos de decisão devem ser entregues no Aprender 3.
 
 ### Releases Minor
 
@@ -152,25 +154,26 @@ As releases do tipo _minor_ ocorrem em sprints, ou seja, versões parciais do pr
 > Registrar as entregas no Aprender 3.
 
 ### _Dashboards_ Analíticos
-- O Dashboard Gerencial e Analítico é um artefato vivo que evolui ao longo do semestre, integrando dados de processo, produto e pessoas em um único painel de apoio à decisão. Não se trata de um relatório estático entregue ao final — é construído sprint a sprint e avaliado em cada release major como evidência de que o time está gerenciando com base em dados, não em percepção.
-- O artefato central do dashboard é um Notebook Jupyter, mantido no repositório do projeto e versionado junto com o código-fonte. O notebook deve consumir diretamente o arquivo .json de métricas gerado automaticamente pelo pipeline CI/CD a partir do SonarCloud. Além das medidas de qualidade de produto, devem ser incluídos dados do EVM Ágil, GitHub/Zenhub, Riscos, garantindo rastreabilidade e reprodutibilidade das análises.
+- O _Dashboard_ Gerencial e Analítico é um artefato dinâmico que evolui ao longo do semestre, integrando dados de processo, produto e projeto num único ambiente com múltiplos painéis de apoio à decisão. Não se trata de um relatório estático entregue ao final. Portanto, deve ser construído _sprint_ a _sprint_ e avaliado em cada release _major_, como evidência de que o time está gerenciando com base em dados, e não apenas em percepção.
+- Os _dashboards_ devem ser desenvolvidos via [Streamlit](https://streamlit.io/) e mantidos no repositório de documentação do projeto. 
+- Os _dashboards_ devem  consumir diretamente os arquivo .json de métricas geradas automaticamente pelos pipelines de CI/CD a partir do SonarCloud. Além das medidas de qualidade de produto, devem ser incluídos medidas de projeto (EVM Ágil e Planilha de Riscos), e medidas de processo (GitHub-Zenhub), garantindo rastreabilidade e reprodutibilidade das análises.
 
-| Dashboard | Data-limite | Peso nos 30% | Foco                                                                                                                                                                                                                                                                 |
-|-----------|-------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **DA-R1** | 27/04 | 30%          | Consolidar os primeiros indicadores técnicos e gerenciais. Ex: velocity, burndown, EVM-Ágil e matriz de riscos.                                                                                                                                                      |
-| **DA-R2** | 25/05 | 40%          | Evolui DA-R1 e incorpora o Notebook Analytics com as métricas de qualidade coletadas automaticamente do SonarCloud, normalizadas, ponderadas, agregadas e interpretadas pelo time.                                                                                   |
-| **DA-R3** | 29/06 | 30%          | Evolui DA-R2 e alcança sua forma final com o Canvas Analytics — uma síntese visual do desempenho do produto e do projeto ao longo de todo o semestre, incluindo a análise planejado × realizado e uma retrospectiva crítica sobre o uso de IA generativa no projeto. |
+| Dashboard | Data-limite | Peso nos 30% | Foco                                                                                                                                                                                                                                                               |
+|-----------|-------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **DA-R1** | 28/09 | 30%          | Consolidar os primeiros indicadores técnicos e gerenciais. Ex: velocity, burndown, EVM-Ágil e matriz de riscos.                                                                                                                                                    |
+| **DA-R2** | 26/10 | 30%          | Evolui DA-R1 e incorpora o _Dashboard_ com as métricas de qualidade de produto normalizadas, ponderadas, agregadas e interpretadas pelo time.                                                                                                                      |
+| **DA-R3** | 30/11 | 40%          | Evolui DA-R2 e alcança sua forma final com o Canvas Analytics — uma síntese visual do desempenho do produto e do projeto ao longo de todo o semestre, incluindo a análise planejado × realizado e uma retrospectiva crítica sobre o uso de IA generativa no projeto. |
 
 > Registrar as entregas no Aprender 3.
 > 
 ### Avaliação Individual - Memorandos de Decisão
 
-| MD                                          | Área temática                                 | Data de Entrega     | Peso nos 20% | 
-|---------------------------------------------|-----------------------------------------------|---------------------|--------------|
-| MD-R1                                       | Planejamento: escopo, tempo, custo e risco    | 28/04               | 25%          |
-| MD-R2                                       | Qualidade: modelos, métricas e Analytics      | 26/05               | 25%          |
-| MD-R3                                       | Encerramento: versão final do produto         | 07/07               | 25%          |
-| Participação nas sessões de discussão (PSD) | Bilhetes de Entrada + Participação Discussões | conforme cronograma | 25%          |
+| MD                                          | Área temática                                                               | Data de Entrega                              | Peso nos 20% | 
+|---------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------|--------------|
+| MD-R1                                       | Planejamento: escopo, tempo, custo e risco                                  | 29/09                                        | 20%          |
+| MD-R2                                       | Qualidade: modelos, métricas e Analytics                                    | 27/10                                        | 20%          |
+| MD-R3                                       | Encerramento: versão final do produto e desempenho do processo e do projeto | 08/12                                        | 30%          |
+| Participação nas sessões de discussão (PSD) | Bilhetes de Entrada + Participação Discussões                               | conforme cronograma de entregas no Aprender3 | 30%          |
 
 > Registrar as entregas no Aprender 3.
 ---
@@ -178,48 +181,48 @@ As releases do tipo _minor_ ocorrem em sprints, ou seja, versões parciais do pr
 ### Composição da nota final
 
 ```
-Individual  = (MD-R1  × 0,25)
-            + (MD-R2  × 0,25)
-            + (MD-R3  × 0,25)
-            + (PSD    × 0,25)
+Individual  = (MD-R1  × 0,2)
+            + (MD-R2  × 0,2)
+            + (MD-R3  × 0,3)
+            + (PSD    × 0,3)
             
-Release(projeto-produto) = (R1 × 0,30)
-                         + (R2 × 0,30)
-                         + (R3 × 0,40)
+Releases = (R1 × 0,3)
+         + (R2 × 0,3)
+         + (R3 × 0,4)
                                   
-Dashboard = (DA-R1 × 0,30)
-          + (DA-R2 × 0,40)
-          + (DA-R3 × 0,30)
+Dashboards = (DA-R1 × 0,3)
+           + (DA-R2 × 0,3)
+           + (DA-R3 × 0,4)
             
-Nota Final  = (releases   × 0,50)
-            + (Dashboard  × 0,30)
+Nota Final  = (releases   × 0,60)
+            + (Dashboard  × 0,20)
             + (Individual × 0,20)
 ```
 
 ### Reposição
 
-Tratada individualmente conforme as circunstâncias e os normativos da UnB. Motivo de saúde comprovado por atestado médico entregue no retorno. Outros casos amparados legalmente são considerados.
+Tratada individualmente conforme as circunstâncias e os normativos da UnB. Motivo de saúde comprovado por atestado médico entregue no retorno. Outros casos amparados legalmente também são considerados.
 
-### Data de referência
+### Data-Hora de referência
 
-Horário de Brasília (UTC-3). Repositórios devem ser atualizados continuamente — apenas contribuições anteriores à data-limite de cada release são consideradas na avaliação.
+O prazo de entrega se encerra às 06:00 (horário de Brasília) do dia definido no cronograma e calendário de EPS 2026.2 .
 
 <figure style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/fga-eps-mds/A-Disciplina-MDS-EPS/master/PlanosDeEnsino/calendario_eps_2026_1.png" alt="Calendário EPS 2026.1" width="450">
-  <figcaption>Figura 1 — Calendário EPS 2026.1</figcaption>
+  <img src="https://raw.githubusercontent.com/fga-eps-mds/A-Disciplina-MDS-EPS/master/PlanosDeEnsino/img/Calendario_EPS_2026_2.png" alt="Calendário EPS 2026.2" width="450">
+  <figcaption>Figura 1 — Calendário EPS 2026.2</figcaption>
 </figure>
 
 ---
 
 ## 6. Memorandos de Decisão
 
-### O que é e por que esse formato
+#### O que é e por que esse formato?
 
-O Memorando de Decisão (MD) é um dos instrumentos de avaliação individual. Avalia a capacidade de **fundamentar decisões técnico-gerenciais reais com teoria** — o que realmente importa em EPS e na prática profissional.
+O Memorando de Decisão (MD) é um dos instrumentos de avaliação individual. Avalia a capacidade de **fundamentar decisões técnico-gerenciais reais com teoria**, o que realmente importa em EPS e na prática profissional.
 
-Cada aluno redige 3 MDs ao longo do semestre, um por release major, documentando as decisões reais do projeto que tomou ou co-liderou naquele ciclo. A avaliação é feita por pares (2 colegas de outros times) e pelo professor.
+Cada aluno redige 3 MDs ao longo do semestre, um por _release major_, documentando as decisões reais do projeto que tomou ou co-liderou naquele ciclo.
 
-O modelo(_template_) completo, os critérios de avaliação por pares e IA, o fluxo de submissão, os exemplos de decisão por tema e o prompt de autoavaliação da IA estão no arquivo [(`MD_Template.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MD_Template.md).
+O modelo(_template_) completo, os critérios de avaliação, o fluxo de submissão, os exemplos de decisão por tema e o prompt de autoavaliação da IA estão no arquivo [(`MD_Template.md`)](https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/MD_Template.md).
 
 ---
 
@@ -243,7 +246,7 @@ Mínimo de **75%** de presença, conforme a Resolução do CEPE/UnB. Presença c
 
 ### Conduta
 
-Os repositórios são públicos e os projetos têm usuários reais. Espera-se conduta ética e profissional em todas as interações — com o time, com o cliente parceiro e nos canais da disciplina.
+Os repositórios são públicos e os projetos têm usuários reais. Espera-se conduta ética e profissional em todas as interações com o time, com o cliente parceiro e nos canais de comunicação da disciplina.
 
 ### Integridade acadêmica
 
@@ -253,18 +256,17 @@ Os repositórios são públicos e os projetos têm usuários reais. Espera-se co
 
 ### Revisão de código
 
-O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código** em revisão síncrona — independentemente de quem ou o que o escreveu. PRs com código incompreendido pelo revisor ou revisora não devem ser aprovados.
+O autor de qualquer PR deve ser capaz de **explicar qualquer trecho de código** em revisão síncrona, independentemente de quem o escreveu. PRs com código incompreendido pelo revisor ou revisora não devem ser aprovados.
 
 ### Rotatividade das lideranças
 
-A cada duas semanas, o time deve alternar as lideranças de projeto, processo e produto. O critério é a habilidades de liderança, não a senioridade técnica. A liderança é uma competência a ser desenvolvida.
+A cada duas semanas, o time deve alternar as lideranças de projeto, processo e produto. O critério é a habilidades de liderança, não a senioridade técnica. A liderança é uma competência a ser desenvolvida na disciplina.
 
 Os líderes da semana devem: 
 - conduzir a reunião com o cliente parceiro;
 - organizar o planejamento, a retrospectiva e a revisão dos sprints;
 - garantir a atualização dos artefatos de gestão e desenvolvimento (ZenHub, GitHub, SonarCloud e outros);
 - apresentar e discutir o Dashboard Gerencial Analítico com o time e o professor. Essa discussão precisa abordar o balanceando das decisões técnicas e as gerenciais.
-
 
 
 ### Comunicação
@@ -282,7 +284,9 @@ Os líderes da semana devem:
 Ferramentas de IA generativa são tratadas como **colegas de equipe juniores**: úteis e produtivas, mas que precisam de supervisão, revisão e orientação. O aluno é responsável pelo que a ferramenta produz.
 
 Usar IA para pensar melhor **≠** usar IA para não pensar.
->O uso de IA é opcional, mas a reflexão crítica sobre seu uso é obrigatória. O que diferencia um MD de qualidade não é o fato de ter sido gerado por IA ou não, mas sim a profundidade da análise, a clareza da fundamentação e a rastreabilidade das decisões — independentemente de terem sido apoiadas por IA ou não.
+>O uso de IA é opcional, mas a reflexão crítica sobre seu uso é obrigatória. O que diferencia um MD de qualidade não é o fato de ter sido gerado por IA ou não, mas sim a profundidade da análise, a clareza da fundamentação e a rastreabilidade das decisões, independentemente de terem sido apoiadas por IA ou não.
+
+>[PORTARIA CNPq Nº 2.664, DE 6 DE MARÇO DE 2026 - Política de Integridade na Atividade Científica](http://memoria2.cnpq.br/web/guest/view/-/journal_content/56_INSTANCE_0oED/10157/23142775) 
 
 ### Categorias de uso
 
@@ -296,8 +300,12 @@ Usar IA para pensar melhor **≠** usar IA para não pensar.
 
 
 ### Transparência no uso de Inteligência Artificial na docência
-A integração de ferramentas de IA generativa nesta disciplina não se limita às atividades dos times — ela também faz parte da minha prática como professor. Utilizo ferramentas como Claude (Anthropic) e GitHub Copilot na elaboração de documentos, na análise de dados dos projetos e na revisão de materiais didáticos. Considero adequado e honesto compartilhar isso com vocês.
-Da mesma forma que os times registram criticamente o uso de IA no MD_Template.md, reconheço que seria contraditório empregar essas ferramentas de modo invisível. O princípio é simétrico: a ferramenta apoia, o julgamento é humano e a responsabilidade pelo conteúdo permanece com quem assina.
+A integração de ferramentas de IA generativa nesta disciplina não se limita às atividades dos times. Ela também faz parte da minha prática como professor. Utilizo ferramentas como Claude (Anthropic) e GitHub Copilot na elaboração de documentos, na análise de dados dos projetos e na revisão de materiais didáticos. 
+
+Considero adequado e honesto compartilhar isso com vocês.
+Da mesma forma que os times registram criticamente o uso de IA no MD_Template.md, reconheço que seria contraditório empregar essas ferramentas de modo invisível.
+
+O princípio é simétrico: a ferramenta apoia, o julgamento é humano e a responsabilidade pelo conteúdo permanece com quem assina.
 Esse posicionamento também está alinhado às diretrizes nacionais para o uso responsável de IA na educação, que enfatizam transparência, supervisão humana e responsabilidade docente. Assim, todo uso de IA será declarado, contextualizado e acompanhado de revisão crítica.
 
 ### Rastreabilidade obrigatória
@@ -349,7 +357,6 @@ A ausência de registro de evidências de rastreabilidade no `MD_Template.md` se
 
 [COHN, M. **Agile Estimating and Planning**. Prentice Hall, 2005.](https://dl.acm.org/doi/10.5555/1036751)
 
-
 ### Programação
 
 [Code Complete [Steve McConnell] ](https://www.goodreads.com/book/show/4845.Code_Complete)
@@ -374,6 +381,9 @@ A ausência de registro de evidências de rastreabilidade no `MD_Template.md` se
 [The Modern Web Design Process [Jeff Cardello, John M. Williams]](https://ebooks.webflow.com/ebook/the-modern-web-design-process)
 
 ### Métodos Ágeis 
+
+[O Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
+
 [Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds [Henrik Kniberg, Anders Ivarsson]](http://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
 [Software Engineering: A Practitioner's Approach](https://www.goodreads.com/book/show/142783.Software_Engineering)

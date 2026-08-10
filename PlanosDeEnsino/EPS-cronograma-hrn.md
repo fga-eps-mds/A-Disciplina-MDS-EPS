@@ -6,18 +6,6 @@
 **Times:** 10–20 membros de EPS
 **Ferramentas:** GitHub · ZenHub (edu) · Figma (edu) · SonarCloud · Streamlit · Discord
 
-> Este documento é o guia operacional do semestre. Para ementa, objetivos, metodologia, política de IA, normas e referências, consulte o Plano de Ensino (`EPS_Plano_de_Ensino_2026_2.md`).
-
-> ⚠️ **Nota de elaboração (ler antes de publicar):**
-> - As datas de AT/ATP/R1-R2-R3/MD seguem o calendário oficial de graduação da UnB 2026.2 e as três decisões confirmadas em 10/08/2026: **12/10 tratado como feriado** (Nossa Senhora Aparecida, remove a aula que o calendário EPS 2026.2 havia marcado como ATP4 nesse dia), **MD-R3 com entrega em 08/12** (seguindo o calendário EPS 2026.2, não o "08/11" do Plano de Ensino — vale corrigir esse texto lá) e **Escopo+Tempo fundidos** numa única sessão.
-> - A exclusão de 12/10 tirou uma segunda-feira da janela pré-R2. Para não perder conteúdo, também fundi **Risco+Kanban** numa sessão só, mantendo Qualidade (ISO 25010) isolada por pesar mais na preparação da R2. Isso não foi perguntado antes — revise a Semana 7 com atenção e me avise se preferir outra combinação (ex.: Kanban+Qualidade).
-> - O dia 14/12 (último dia oficial de aulas) sobrou livre na grade de 15 encontros. Em vez de deixá-lo como reserva ociosa (como o 2026.1 fez entre a Semana 17 e a "última aula"), propus usá-lo para a continuação das defesas orais individuais — ajuste se preferir mantê-lo como reserva/contingência.
-> - Os critérios detalhados de avaliação (itens I/II/III de cada release) seguem majoritariamente o modelo do cronograma 2026.1, pois o Plano de Ensino 2026.2 não detalha critérios técnicos por release da mesma forma — revisar antes de publicar aos alunos.
-> - Encontrei uma divergência dentro do próprio Plano de Ensino 2026.2: a tabela de Dashboards lista DA-R2 = 30%, mas a fórmula da nota final usa DA-R2 × 0,4. Vale conferir qual é a correta antes da divulgação oficial.
-> - As **releases minor (RM1–RM6)** foram deixadas de fora deste cronograma, conforme solicitado — você ainda vai defini-las.
-
----
-
 ## Legenda
 
 | Símbolo | Significado |

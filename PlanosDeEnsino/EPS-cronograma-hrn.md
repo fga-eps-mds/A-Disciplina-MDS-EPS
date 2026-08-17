@@ -86,15 +86,20 @@
 
 ---
 
-## Semana 5 — 14/09 · ATP2 — Custo
+##  
+## 🚫 Semana 5 — 07/09 — FERIADO (Dia da Independência)
 
-**Leitura prévia obrigatória:** Gerenciamento de Projetos (cap. Custos) + Artigo EVM-Ágil
+> Não há aula.
 
+## Semana 6 — 14/09 · ATP2 — Custo + Risco
+
+**Leitura prévia obrigatória:** Gerenciamento de Projetos (cap. Custos + Riscos) + Artigo EVM-Ágil + Artigo *Management of novel projects under conditions of high uncertainty* (De Meyer, Loch & Pich) · *bilhete de entrada exigido*
 **Conteúdo:**
 - Custo (tradicional e ágil)
 - EVM-Ágil: planilha e gráficos
+- Riscos: análise qualitativa e quantitativa, plano de resposta;
 
-📋 **MD-R1 em finalização:** registrar as evidências (seção 5.) antes de submeter
+📋 **MD-R1 em finalização:** gestão de riscos e registro das evidências (seção 5.) antes de submeter
 
 ✅ **Sugestões de IA nesta semana:**
 - IA para montar estrutura da planilha EVM e calcular índices (CPI, SPI, EAC)
@@ -102,17 +107,17 @@
 
 ⚠️ **Limites:**
 - Análise de causa e decisão de replanejamento são do time, não da IA
-- EVM exige dados reais de horas: planilha individual é mandatória
+- EVM e Riscos exigem dados reais de processo e projeto: planilhas são obrigatórias
 
 ---
 
-## 🚫 21/09 — SEMANA UNIVERSITÁRIA
+## 🚫 Semana 7 - 21/09 — SEMANA UNIVERSITÁRIA
 
 > Não há aula (Semana Universitária UnB, 20/09 a 25/09/2026). Projetos e sprints não param.
 
 ---
 
-## 📦 Semana 6 — 28/09 · RELEASE MAJOR R1
+## 📦 Semana 8 — 28/09 · RELEASE MAJOR R1
 
 > **Data-limite de registro nos repositórios.** Release implantada em ambiente de homologação. Apresentações: 20 min por time · Reunião de 2h · Gravação no Teams.
 
@@ -133,7 +138,7 @@
 
 **Evidências:** repositório público na org. da disciplina · SonarCloud · Figma · ZenHub (roadmap, milestones, burndown)
 
-#### II. Dashboard Gerencial e Analítico
+#### II. Dashboard Gerencial e Analítico - Eixo Projeto
 
 - Consolidar os primeiros indicadores técnicos e gerenciais (ex.: velocity, burndown, EVM-Ágil, matriz de riscos)
 - Dashboard construído em **Streamlit**, consumindo diretamente o `.json` de métricas gerado pelo pipeline SonarCloud
@@ -162,15 +167,15 @@
 
 ---
 
-## Semana 7 — 05/10 · ATP3 — Risco + Kanban
+## Semana 9 — 05/10 · ATP3 — Scrum + Kanban
 
-**Leitura prévia obrigatória:** Gerenciamento de Projetos (cap. Riscos) + Artigo *Management of novel projects under conditions of high uncertainty* (De Meyer, Loch & Pich) + Engenharia de Software Moderna, Marco Túlio (cap. 2, Kanban) · *bilhete de entrada exigido*
+**Leitura prévia obrigatória:** Engenharia de Software Moderna, Marco Túlio (cap. 2, Kanban) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- *Risco:* análise qualitativa e quantitativa, plano de resposta; panorama de adoção dos métodos ágeis; SCRUM: artefatos, práticas e papéis
+- *Panorama de adoção dos métodos ágeis:* SCRUM: artefatos, práticas e papéis
 - *Kanban:* fluxo contínuo, WIP limits, lead time, throughput; feedback e correções pós-R1
 
-📋 **MD-R2 em escrita:** gestão de riscos e análise de fluxo/processo de trabalho
+📋 **MD-R2 em escrita:** análise do fluxo/processo de trabalho
 
 ✅ **Sugestões de IA nesta semana:**
 - IA para analisar o backlog e o contexto do projeto e sugerir riscos não mapeados
@@ -185,18 +190,21 @@
 
 ---
 
-## 🚫 12/10 — FERIADO (Nossa Senhora Aparecida)
+## 🚫 Semana 10 — 12/10 — FERIADO (Nossa Senhora Aparecida)
 
 > Não há aula.
 
+**Leitura prévia obrigatória:** ISO 25010 + Artigo *The SQALE Analysis Model* (Letouzey & Coq)
+
 ---
 
-## Semana 8 — 19/10 · ATP4 — Qualidade de Software
+## Semana 11 — 19/10 · ATP4 — Qualidade de Software - Squale, Quamoco, Q-Rapids
 
-**Leitura prévia obrigatória:** ISO 25010 + Artigo *The SQALE Analysis Model* (Letouzey & Coq)
+**Leitura prévia obrigatória:** *A Quality Model for Actionable Analytics in Rapid Software Development* (Martínez-Fernández et al.) + *Towards an artifact to support agile teams in software analytics activities* (Choma et al.) · *bilhete de entrada exigido*
 
 **Conteúdo:**
 - Qualidade de Software ao longo do tempo: McCall, Boehm, Dromey, ISO 9126/25010
+- Squale, Quamoco, Q-Rapids e outros modelos de avaliação de qualidade
 - Análise ao vivo: dashboard SonarCloud do próprio projeto × ISO 25010
 
 📋 **MD-R2 em escrita:** decisão de qualidade
@@ -210,7 +218,7 @@
 
 ---
 
-## 📦 Semana 9 — 26/10 · RELEASE MAJOR R2
+## 📦 Semana 12 — 26/10 · RELEASE MAJOR R2
 
 > **Data-limite de registro nos repositórios.** Incremento funcional implantado em homologação. Apresentações: 20 min por time · Reunião de 2h · Gravação no Teams.
 
@@ -229,9 +237,9 @@
 
 **Evidências:** URL de homologação · atas de validação com o cliente · SonarCloud: evolução R1→R2 · ZenHub: burndown das sprints
 
-#### II. Dashboard Gerencial e Analítico
+#### II. Dashboard Gerencial e Analítico - Processo e Produto
 
-- Evolui DA-R1 e incorpora as métricas de qualidade de produto normalizadas, ponderadas, agregadas e interpretadas pelo time
+- Evolui DA-R1 e incorpora as métricas de processo e qualidade de produto, normalizadas, ponderadas, agregadas e interpretadas pelo time
 - App Streamlit atualizado: comparação R1 × R2 (velocidade, cobertura, defeitos)
 - ≥ 3 decisões gerenciais documentadas com base em dados do dashboard
 - Evidência de uso crítico de IA na análise: o que foi aceito e o que foi rejeitado
@@ -258,18 +266,17 @@
 
 ---
 
-## 🚫 02/11 — FERIADO (Finados)
+## 🚫 Semana 13 — 02/11 — FERIADO (Finados)
 
 > Não há aula.
 
 ---
 
-## Semana 10 — 09/11 · ATP5 — Squale, Quamoco, Q-Rapids e Software Analytics
+## Semana 14 — 09/11 · ATP5 — Dívida Técnica
 
-**Leitura prévia obrigatória:** *A Quality Model for Actionable Analytics in Rapid Software Development* (Martínez-Fernández et al.) + *Towards an artifact to support agile teams in software analytics activities* (Choma et al.) + *Technical Debt Management in Brazilian Software Organizations* (Silva, Jerônimo & Travassos) · *bilhete de entrada exigido*
+**Leitura prévia obrigatória:** *Technical Debt Management in Brazilian Software Organizations* (Silva, Jerônimo & Travassos) · *bilhete de entrada exigido*
 
 **Conteúdo:**
-- Squale, Quamoco, Q-Rapids e outros modelos de avaliação de qualidade
 - Software Analytics: padrões para tomada de decisão orientada a dados
 
 📋 **MD-R3 em escrita:** decisão de qualidade identificada; registrar as evidências (seção 5.) antes de submeter
@@ -285,7 +292,7 @@
 
 ---
 
-## Semana 11 — 16/11 · ATP6 — Implantação e Entrega Contínua
+## Semana 15 — 16/11 · ATP6 — Implantação e Entrega Contínua
 
 **Leitura prévia obrigatória:** Engenharia de Software Moderna — Marco Túlio (cap. 10) + *Continuous software engineering: A roadmap and agenda* (Fitzgerald & Stol)
 
@@ -304,7 +311,7 @@
 
 ---
 
-## Semana 12 — 23/11 · ATP7 — Visão Estratégica
+## Semana 16 — 23/11 · ATP7 — Visão Estratégica
 
 **Conteúdo:**
 - Visão estratégica: portfólios, programas e ecossistema de produtos públicos
@@ -322,7 +329,7 @@
 
 ---
 
-## 📦 Semana 13 — 30/11 · RELEASE MAJOR R3 (FINAL)
+## 📦 Semana 17 — 30/11 · RELEASE MAJOR R3 (FINAL)
 
 > **Data-limite de registro nos repositórios.** Produto em produção/homologação · MVP validado com o cliente. Apresentações: 20 min por time · Reunião de 2h · Gravação no Teams. Foco: Planejado × Realizado em todas as dimensões.
 
@@ -364,7 +371,7 @@
 
 ---
 
-## Semana 14 — 07/12 · RELEASE MAJOR FINAL (RF)
+## Semana 18 — 07/12 · RELEASE MAJOR FINAL (RF)
 
 **Conteúdo:**
 - Semana de encerramento do projeto e reforço de segurança do produto
@@ -392,7 +399,7 @@
 
 ---
 
-## Semana 15 — 14/12 · Encerramento do Projeto
+## Semana 19 — 14/12 · Encerramento do Projeto
 
 > Último dia oficial de aulas (calendário UnB 2026.2).
 

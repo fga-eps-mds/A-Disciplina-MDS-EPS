@@ -144,12 +144,9 @@ As releases do tipo _minor_ ocorrem em sprints, ou seja, versões parciais do pr
 
 | Release | Semana |
 |---------|--------|
-| RM1     | 13/04  |
-| RM2     | 04/05  |
-| RM3     | 11/05  |
-| RM4     | 01/06  |
-| RM5     | 15/06  |
-| RM6     | 06/07  |
+| Rm1     | 13/10  |
+| Rm2     | 09/11  |
+| Rm3     | 07/12  |
 
 > Registrar as entregas no Aprender 3.
 
